@@ -1,0 +1,1 @@
+Welcome to my organized dump, you might find something useful here. Another mans trash is another man's treasure they say. But then again the saying would be: "Another skid's shitty code, is another skid's chance to copy the code."
