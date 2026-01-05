@@ -1,0 +1,2120 @@
+<roblox!‰ÿ
+
+               META$   "       ð      ExplicitAutoJoints   trueSSTR          P     
+ P     INST#   :       ñ    	   Animation  RINST          ð
+      Animator       ‚INST/   c       ÿ   
+   Attachment   (ðˆvINST          ð      Decal          ÄrINST1   b       ÿ      Frame   5 5 ð6‚ÞINST          ð
+      Humanoid       |INST          ð
+      ImageButton      öINST          ð   
+   ImageLabel      ðINSTN   ¸      ÿ      LocalScript (  ÿÿÿiò
+.Æ
+  ºAä   
+PINST          ð	      Model       JINST!   )       ù
+      ModuleScript   P &INST   ,       ÿ      Motor6D   `†$INST    $       õ      NumberValue   P  N"INST   -       ÿ 
+      Part   p„ INST0   °       ÿ      RemoteEvent &  `¿0D  P’INST          ð   	   ScreenGui        INST   /       ÿ      Script   €$ 2Ì’INST(   /       ø
+      ScrollingFrame       P
+ŠÞINST!   ~       ÿ      Sound   @/Ê PINST          ð
+      SpecialMesh      @INST$   8       ÿ      StringValue   €PINST          ð
+      TextBox         èòINST=   £      ÿ   
+   TextButton £  ÿ=Pˆ¯ T*h  
+PINST&   2       ý   	   TextLabel   Ð    6šì
+INST          ð      UICorner         ìINST!   %       õ      UIGridLayout   P20šINST$   -       ú      UIStroke   À    `€
+Ü*PROP   ©      ÿ2       AnimationId)   http://www.roblox.com/asset/?id=178130996- 80436148- o239347-  Z ?334Z 25750702- 8042635Z - O3579‡ P35571PROP*   @       ð
+       AttributesSerialize  P     PROP#   ]       ð       Capabilities!  ,P     PROP'   %       ð       DefinesCapabilities         PROPr   €       ð       Name   SitAnim   Fall À   ToolNone 	   Climb
+  ) @Jump  @ 0Run   @Walk @
+    eation2 Ption1PROP(   ^       ð    
+   SourceAssetId  (PROP   1       Ð       Tags
+  P     PROP"           ð      AttributesSerialize    PROP          ð      Capabilities!        PROP          ð      DefinesCapabilities PROP          ð
+      Name   AnimatorPROP          ð      PreferLodEnabledPROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP(   h       ÿ      AttributesSerialize  3P     PROPm         þ      CFrame   %  0  t    ~~  %33  33    "44 B ~ ~G J  J 	       5  PROP!   ­       ÿ      Capabilities!  P     PROP(   /       ð      DefinesCapabilities  P     PROPá   ¸      ð      Name   RootAttachment YightF {   Lef - FGripD D †Shoulder H 
+1 ^ 0  b –WaistBackG  HCent`  GFron×  1 × WColla‘  1 =Lef  © JBodyx     ^  G(Ne¡  W LFace   A   A g
+   Ha°  R àHairAttachmentPROP&   ®       ÿ   
+   SourceAssetId  q PPROP   Y       ï      Tags  3P     PROP   #       ð       Visible  P     PROP&   $       ð      AttributesSerialize        PROP    %       ö      Capabilities!  P     PROP   '       ñ      Color3   P     PROP           ð      DefinesCapabilities  PROP          ð      Face      PROP          ð      MetalnessMap        PROP!          ð      Name   roblox   facePROP          ð   	   NormalMap        PROP          ð      RoughnessMap        PROP!   &       ö   
+   SourceAssetId  P   PROP          ð      Tags        PROP0   .       ð      Texture       rbxassetid://144080495PROP          ð
+      TexturePack        PROP&   $       ð      TexturePackMetadata        PROP          ð      Transparency        PROP   !       ö      UVOffset
+  P     PROP            ñ      UVScale
+  €      PROP          ð      ZIndex      PROP   #       ú      Active  P     PROP    ´       ÿ      AnchorPoint
+  ‡P     PROP(   l       ÿ      AttributesSerialize  7P     PROP    )       ú      AutoLocalize PPROP"   f       ÿ   
+   AutomaticSize  7P     PROPb   	      ð      BackgroundColor3~ 5~ ÿ~~çááïï ï áïá ï ïááïç  ðêääðò ò âðä ò ðääòê A P „Pääòê PROP<   o       ð      BackgroundTransparency           P     PROPX         ð      BorderColor3 p~ ~~       @Ñ ÝÝ @ÝÝ Ñ    @Ò Þà @Þà Ò   P …P     PROP&   c       ÿ   
+   BorderMode  .B €       PROP.   h       ÿ
+      BorderSizePixel  +A B €      PROP!   µ       ÿ      Capabilities!  ‡P     PROP$   -       ú      ClipsDescendants  P     PROP'   0       ú      DefinesCapabilities  P     PROP   &       ú   	   Draggable  P     PROP    )       ú      Interactable PPROP    d       ÿ      LayoutOrder  7P     PROP›   å       @    ð Name   topbar Sback ñ2   executor   . àr
+   scrollbar2  `uttons 	  9 	 h -r2G  ‹ ùstroke
+   adminpanel> 	
+ ] Â À2   outlinePROP*   j       ÿ      NextSelectionDown  (< P     PROP*   j       ÿ      NextSelectionLeft  (< P     PROP+   k       ÿ
+      NextSelectionRight  (< P     PROP(   h       ÿ
+      NextSelectionUp  (< P     PROP¾   Q      ÿ¤      Position~  z {~x~~~{{xz||{ }$  ? £q„xoò££µ?„à© zË  ‚ RòðªSRRŽ|ð )z   ÎTìÎÎè\& ž~~ {y{{~~~z{~~{yyy~|éÿ –”  T‡‡] ,‡•ìì”ˆ‘Gÿ q‹¤¤``¤E`ÀÀ‹ˆ€læ ~@@ÖâÜX@Nä||ˆz   †P     PROP.   n       ÿ      RootLocalizationTable  (< P     PROP   a       ð      Rotation  5P     PROP   '       ú   
+   Selectable  P     PROP*   n       ÿ      SelectionBehaviorDown  7P     PROP*   n       ÿ      SelectionBehaviorLeft  7P     PROP+   o       ÿ      SelectionBehaviorRight  7P     PROP(   l       ÿ      SelectionBehaviorUp  7P     PROP"   +       ú	      SelectionGroup  P     PROP-   m       ÿ      SelectionImageObject  (< P     PROP#   g       ÿ	      SelectionOrder  7P     PROPd   M      @    oSize  ´à      ÿ~~~DŒbàbbØD"è†~~ï A  O ð    :„0 Â>††ìÂ„žž¾PROP#   g       ÿ	      SizeConstraint  7P     PROP&   ¶       ÿ   
+   SourceAssetId  x PPROP   ^       ÿ       Style  7P     PROP   ]       @    oTags  7P     PROP   $       ù      Visible `  PROP   _       ÿ      ZIndex  ) PPROP"           ð      AttributesSerialize    PROP          ð
+      AutoJumpEnabledPROP          ð   
+   AutoRotatePROP#   !       ð      AutomaticScalingEnabledPROP          ð
+      BreakJointsOnDeathPROP          ð      Capabilities!        PROP          ð   
+   CollisionType    PROP          ð      DefinesCapabilities PROP"           ð      DisplayDistanceType    PROP          ð	      DisplayName    PROP           ð      EvaluateStateMachinePROP$   "       ð      HealthDisplayDistance…  PROP           ð      HealthDisplayType    PROP          ð   
+   Health_XML…  PROP          ð   	   HipHeight    PROP(   &       ð      InternalBodyScale         PROP           ð      InternalHeadScale   PROP          ð   
+   JumpHeightÌÌÌPROP          ð   	   JumpPower„  PROP          ð   	   MaxHealth…  PROP          ð   
+   MaxSlopeAngle…d  PROP          ð
+      Name   HumanoidPROP"           ð      NameDisplayDistance…  PROP          ð   
+   NameOcclusion   PROP          ð      RequiresNeckPROP          ð      RigType    PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP          ð      UseJumpPowerPROP          ð   	   WalkSpeedƒ   PROP          @    €ActivePROP          ð
+      AnchorPoint
+        PROP"           ð      AttributesSerialize    PROP          ð
+      AutoButtonColorPROP          ð      AutoLocalizePROP          ð   
+   AutomaticSize    PROP'   %       ð      BackgroundColor3         PROP%   #       ð      BackgroundTransparency   PROP"   !       ð      BorderColor3          PROP          ð   
+   BorderMode    PROP          ð
+      BorderSizePixel    PROP          ð      Capabilities!        PROP          ð      ClipsDescendants PROP          ð      DefinesCapabilities PROP          ð   	   Draggable PROP           ð      HoverHapticEffect   PROP          ð   
+   HoverImage    PROP0   .       ð      Image   rbxassetid://118084930426480PROP"           ð      ImageColor3         PROP"           ð      ImageRectOffset
+        PROP           ð   
+   ImageRectSize
+        PROP           ð      ImageTransparency    PROP          ð      InteractablePROP          ð	      LayoutOrder    PROP          ð       Modal PROP          ð
+      Name   ImageButtonPROP           ð      NextSelectionDown   PROP           ð      NextSelectionLeft   PROP!          ð      NextSelectionRight   PROP          ð
+      NextSelectionUp   PROP#   !       ð      Position~­³ˆ}=Ë        PROP           ð      PressHapticEffect   PROP          ð
+      PressedImage    PROP          ð
+      ResampleMode    PROP$   "       ð      RootLocalizationTable   PROP          ð      Rotation    PROP          ð   	   ScaleType    PROP          ð   
+   SelectablePROP          ð      Selected PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP#   !       ð      SelectionImageObject   PROP          ð      SelectionOrder    PROP          æ      Size  P   PROP          ð      SizeConstraint    PROP   $       ö      SliceCenter  P     PROP          ð   
+   SliceScale   PROP           ð   
+   SourceAssetId       PROP          ð      Style    PROP          ð      Tags    PROP"   !       ð      TileSize    €        PROP          ð      VisiblePROP          @    °ZIndex   PROP          ð      Active PROP          ð
+      AnchorPoint
+        PROP"           ð      AttributesSerialize    PROP          ð      AutoLocalizePROP          ð   
+   AutomaticSize    PROP'   %       ð      BackgroundColor3         PROP%   #       ð      BackgroundTransparency   PROP"   !       ð      BorderColor3          PROP          ð   
+   BorderMode    PROP          ð
+      BorderSizePixel    PROP          ð      Capabilities!        PROP          ð      ClipsDescendants PROP          ð      DefinesCapabilities PROP          ð   	   Draggable PROP0   .       ð      Image   rbxassetid://135470017279113PROP"           ð      ImageColor3         PROP"           ð      ImageRectOffset
+        PROP           ð   
+   ImageRectSize
+        PROP           ð      ImageTransparency    PROP          ð      InteractablePROP          ð	      LayoutOrder    PROP          ð      Name   logoPROP           ð      NextSelectionDown   PROP           ð      NextSelectionLeft   PROP!          ð      NextSelectionRight   PROP          ð
+      NextSelectionUp   PROP#   !       ð      PositionxŠË|UUV        PROP          ð
+      ResampleMode    PROP$   "       ð      RootLocalizationTable   PROP          ð      Rotation    PROP          ð   	   ScaleType    PROP          ð   
+   Selectable PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP#   !       ð      SelectionImageObject   PROP          ð      SelectionOrder    PROP          À      Size  P(   (PROP          ð      SizeConstraint    PROP   $       ö      SliceCenter  P     PROP          ð   
+   SliceScale   PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP"   !       ð      TileSize    €        PROP          @    VisiblePROP          ð      ZIndex   PROP,   ¼      ÿ      AttributesSerialize  ÿÿÿÿ‹P     PROP*   U	      ÿ      Capabilities!  ÿÿÿÿÿÿÿÿÿ0P     PROP)   D      ÿ      DefinesCapabilities  ÿP     PROP   9      @    ¯Disabled  ÿP     PROP%   µ      ÿ      LinkedSource  ÿÿÿÿ‹P     PROPe   Y      ÿ
+      Name   LocalScript tÅ   Animate
+¡ @ound¸ OJump¨ t‡ ÿÿÿÿÿÿÿÿÿÿÿÿl_
+s_
+y·ÿÿÿBPcriptPROP#   ³      ÿ   
+   RunContext  ÿÿÿÿ‹P     PROP!*  £0      ñ.   
+   ScriptGuid&   {807EE0CB-04B6-465B-9075-45BA354FA268}* òBE2918DE-FAAB-4179-9C65-F475C8010C60* ò667C2EAA-148D-4BAD-8F37-6FE9EF2E9A5E* ò3093A7A8-13EE-41F4-A0D1-5FD6E5E22345* ò0C0B649D-BDDF-4F33-AD1A-03BC22411CE9* ò5FDEB00F-5545-444A-91F6-65BA19D7110C* P02F56J óB626-4BB6-82B3-E130F45C5E3~ ÀC88DD190-A9AT óF1-B46E-4CC43BD128F4T ó43F79C5-1B4F-411F-A036-DF5DD336FFC* ò3E40618F-A144-4208-A643-C9DC47445671T ò64AC96B6-97EA-43F9-8D1F-8B2CB119242F* ó111C50FD-47CE-4EA0-8750-BEAAFFC3E1BzÀ4D164B63-FA8øPC8-BD¨ ²093585F407DT ó511EBF3C-D29E-4620-B4D8-A84531F88F2&ó6CA207C1-EEF0-49EF-95D9-26E59570EB7"Ð7F4460A3-E822øóB-8251-640394C440E* ó2E03819B-CB39-4159-BC5F-77B3CB47F2F* óFC6D3319-D3B9-4DC0-8DC6-50E2D958039&òDED5B2F1-4EBB-4B6F-8248-FCE7AA4C3D87ü òF4A2133E-DABA-41BF-8124-E9FE38750693* óA496AB00-DC36-41CA-A67F-DA01FF0C961&ó5CACBF7B-C031-4145-ACD4-510C8943E71¨ ¡3C429E3B-4vó338-81F9-F2DEC8E07ED* ðA7AA87F8-C67E-47D2ÎâB-E54547C98836¨ òB77242A2-BA89-4AAE-B10C-AFB72526871B* q2B10D4E’ô5-4D68-8955-E8DD39E1D5zó3630FA7C-D107-43D0-A5F1-C554B1B9B88ü ó6A788B59-E627-402A-84BF-5AA00022E39zóD6D0DCA3-D03C-4642-8717-0FFD26A7F7E* ð
+F80E56AB-FC10-4D8B-9F89-850A6304Aðó406B596E-A828-438D-8AB0-07A3C27F8A5¨ ò42BD3575-AE12-439E-BC60-F02B468C8A4A&ó8F5A728E-4220-4854-A405-C2CE5C46152HóF1B08760-D2D6-4358-A3C6-F5E50739D9EóD8347ACD-59C9-4687-B609-294FE20C330* óCE2D755E-60D0-405A-8DD6-F6CB4978B57Ò €E489A74A¾óE-4B0F-824E-A942EE009F8T ðA858311B-5372-4719-9425-6E2EE1EvP9B5F5F!CD¨ 7&ãB0-F427C8F8F28Âó739AD556-F941-4902-B6E5-BD8DF50BD94fò821514C2-E41A-46AA-A07F-AB5519552EA2z0D96‘ 7-2C79-4Cªó A0F-D5E88044084* °F42BF44E-83ôó131-86A2-5B5B7B9AD4C* €BEB4110B³ó9-4361-9679-AFC57C91CCEóD27CD62D-0238-4345-B3AC-78F4E6056BAøó03BD63AB-59D5-431C-8BC5-76AF7ADBF6BzÀ8A89817C-A26øô12-8035-7CE67AD623BÎ°C089FCD-B44HóE1-815D-0B7CD83A3AD* P966B6ÿ 80óF57-82AC-4E22DC62921Â°2B26CFCA-95Ú05F3ˆ 8-142E3B16ü Ð0BEE3D4B-84E6ŒóC-AD86-6CEBF8196C6°557AF7B7-C2"ó213-BF33-404A51DA236¶ò60FBB7AF-A9D7-4E8C-9D59-A5B3D169F1FCøóC958E818-BC4A-4CDC-A5CF-178CE484BB7LÀE7E6584D-109Œ@FF-Bÿ¤F60BE70956±19FAEF24-31Æò47-ABFC-2FCD75B71820~ À5833B2FC-FF6 óFF-9724-D8031DF812Aü À393ADC7A-5CD8 Z94E-08918gB* @7A9BP00CBrpDD-B07EY ƒ52F29032 ó221C4A36-ABCF-469E-8EF4-F9E44C9F97D¨ °DF8C9D16-92¤õA17-A2BB-5491EF4EBÜóA9C31139-B353-4C8A-A2CD-8213D923E94z°06D087FD-DE”ô72D-9B89-9417BCA40Fó2752264A-BB0D-4E9A-A4D3-1477B24EC47L°54EF39A0-46éó33F-96AF-EFF1F0D8C3BºÀ9A3186F8-7A5ü óA6-9166-5BA4D2B0139r`9122D2f7lE16-B91D-dE10AFEV
+°940EEC5D-88 ó947-8083-EDB0B41A1560	Ð320F6F08-3A15,
+ó3-8604-CC5E1072BD5v0156í01-1~ð455F-BB92-AB26FD2
+DT óC016CBF6-5C91-43E1-A8BC-EA7276EFEE4ü ó6E079C64-1CFB-4CBE-878B-B57DF006363jÐ0C90468E-E181Üó4-949B-BBCB7D3E65Bzô648A3100-1FC0-430B-89B3-9B1931168CÀC41D3A66-336:p97-AF28ú8B 3ECB  4A4F45DD-EÆ4F86-981Bt9DA7216RP20A1Cq
+2!ó40BB-8C35-9D7A5D9A325°F5ECECBD-90¦àE04-8E1B-1C924çE"°CA70D0F9-B7Ìô9B1-AADD-2BB8257EB4¦Ð27485569-1235¦ôA-B79E-E6F324E90CDô0F5AA16D-8682-4501-88BE-044E862FACfó8FA93020-5B41-4AFF-8C43-DE1CEB621C6H°119E1210-E5ð ïô 9967-1DAACBAEF6„	ó6CC513EB-ABDB-40AC-A0FA-4DF09510CA4LP81C488p1C52-4Dª
+ó F0A-DFCA666FC24"¡76480DBA-9Ô
+ð684-A9DB-22779E01ï ì18E2çà-769D-4A69-971‘…8B940955ôCAPF0-D9PpAF2-A41È
+“A092270484À7E4024AF-495Ðô2B-954C-17DE337A66nÀBB0C379D-6A7¦õFD-B2BA-8286CCFE1DÒ  D2ED7FB-FB* ó069-8F66-B64DA59E8C8ð0D57893B-CCE7-4A82-A1C1-948E2F5f
+¤ð50F4FA32-3D2C-491BjÓD-6E90F3A5EB9jÐ3E16C8FE-FA4CT ô1-AE07-601C866B53Üð
+7A133C3F-0637-4266-906B-7nc708CCDðô5F4997BB-701F-4465-A51D-04282A8881~ ±FFFD7101-98ž
+ó5F-90C2-8D9717436C6˜€C141F301™ €5-4671-9ñ³DFD317D2E30Ò óB93E53C5-C614-4546-A29C-C9709CDA0E0^ô6A3D94EE-F908-4EDA-B4A7-558D6D7E6AÒ À226F4FE7-FAFT ò9F-91EB-9E43B7E95E94vÀ3E69B91A-16Cêp1F-B5F99t0C26404ÂÀFF821993-6AE¤ô40-9DFB-1D96BEC55F6@E7A5=07C5ì {
+ó 82F-4D5012BBA41* ÐB3FBA62F-0BBDRó2-9697-3E6D4281B80xÐCB6897D1-6196¤8-A16C-A7:D0680~ ð04542350-7193-45Æä5E1-DA8E0CC428ô!27Ý`D-1121Pó8-A680-232399E3344~ ÀBFD59D9F-10DP	1A3-ß¤0D67D7C9FBŒ 42_PFF-6Ev`F5D-B9”D39B2A766Ü°1D3F950F-79: +óBF59-3C64B933E3B”¡20B91676-4Fð921-B6B1-34C7623Cn°FE8B0A33-EBT  ¹BBA8-7890¾3872zp0F38593.P48-47ëó CB4-9BADA070D8EÊP98979 0Bè°A44-B9F9-CB.D/Ô
+€FE4B7D6A–°0-453D-8991Eƒ54A47CAC®	q1014D6EŸ	 ˜PA8-8CÀ£C2C0B2B4E5Dð7C43F7A1-53E4-4320-8•A4B0CBC71ÀA4621E1F-313<@63-AØ´9B7B0E7C9C5ð6óA7-37CC-437E-9B98-702BB90C3F6~ °089A816A-69Ð5AF-8227-774C}$4D\ÀBB1E8E15-CECn ó 1B6-D8D2576CAF4” €F95B-5B0æ T ó 163-37EA433148CðÐA5EE18EC-EEAEÄôF-BFD4-8C1E48161Bº¡55A596F1-Ef`327-AAá£EE54AF0ACD¤À97F48D43-980P7BÔBE-3288F35F62fðF97B48B8-0392-4A38nÓC-7661A6932DD"Ð18F780C5-8FD1Â Ô1E-6305BF4618ÎP6676BÑ A8ÏP20B-9Q¤7D94430A15 
+Ò41784765-92A4"ó96E0-63365663391œP8EC52 Óð-43A5-B9EA-3F61D83ì`940DA8†06FB’€F-8D4B-1ÂT80A87$ð55977010-798B-4D96-BCEÑ”EC516B4FCrpD9D627Br 3`5D-71Aà%3B°9D533D73-67fóE21-8017-7ADFB1B1118,
+`57084C8Á8E3-4482-94FÉB>3E488Ð3A880586-0DBC(ôC-8379-652E4B2FD8Br 2022C2E-90ðpA24-83A“31E107D6FÒ ÀAA3A699D-370â5†Ô1C-35382FA631ä±D57FFF77-4D ô28-9EC3-61B273D32CV
+À17EFAA6B-884.óEE-9627-96090493D1E¨  D0EEDFFC-3×ô4E5E-823C-74C9EB1659ðÀ97D6C108-8FA1O ã11-D554C52C14Fìð7572B67B-9766-498 · 65ÒS8ECEB`556841™ 0¢667Ú£0E7D3BDAC6* P85CBC7ó16C2-4FA5-AD01-04AE7021C86npF31603AÆ B7ÖóD-9538-C0FDABB4E28HÀD1B5B6DA-0CBHó86-B14A-65FD8774B5CT °89920E12-21Ô
+ E2
+Ô6D-EF9D2BE5EFPCEA80÷ ABR!CCPÓ2-925F41BF617H 970A4226-7ô4942-B1E4-CE6A0EDAD1ÎÀC8F1B585-77EÎp68-B78DÇt636F299ºÀ12F08D09-181ú ä2E4-829DFF2CC7:`66D616Ž€921-48B2PÄ8-11ECD0B4CBÞ°9AB504BD-EEn «ô A067-A55213CCEFò
+À613A57D4-EBE=ôE9-A716-F13BC38562†P39F61
+ 95˜Ð68B-BDCE-117Du3E20àB25883BE-7B42-“€-98E6-88ü
+S44E67¤a08720DÐ ˆ0F90ðP6-C5Dø4E6A~ ¡D4E7E720-9T 04F3~ @F-62úSE8ECBT Ð33108BDC-FE46ó0-AC4F-F8D1171032E<€9197E168­CJ
+`9-A69CtDB0D689< 03j	aAD-756¤	1xÓ1-74537F24A05ô@344B²P-075D
+óB-B174-B7BADEB572C&P21453Ü01BAõ2D-BF1E-F8FEFF58967œô8EF01B-25D2-49F2-99F0-8A6E3E19D38 6EA18B07-E±ó4F2C-8898-410459186DA0	P8959D!E1à`C2-B223“635A87058Ò 1]ó5B8-5AC8-4515-8EAE-FC2B379EC5FÒ À6D64356B-521j F9Ò
+âC-1CD92A7AA3D2RP74F73ú0A478ô7A-86BB-6E0E8A5C3E:AFF16¹ó2BDD-4C17-8D9E-194D07E8673& 33ŽPF9-00ˆ  óA073-AE7DBE8A36FDp2C82C41% A9-429A-AA£”062E12CB7ª
+PC70ECÑ0DB5Fô86-8C67-21EB6D7181Ð057999EE-15CDbB Ä7-513D340046b@8F3Dâ0-EEóC99-AAAC-3B64B8B9C8DP A80B1A64-2Ãò4EC3-8A0C-E68DB9045264P5Óò707-9D94-470E-81A2-8FFF640A082C* p18B1A3CN2p`D5-862GPDB50F¡„	`7C3DD64ó
+708-4FE3-8925-53EB74310E1ž
+0D6AOA1-EELó52-9A7F-B34DCE9D80AœÀ21CE7113-AD1^@4F-B&³37BD246EF46vpC55222Aó ^pBB7-914V
+„5B3E49D0nPCAB17&	04D4 
+ô0E-BF84-29A01E33F7Ìó005E1CA0-0D29-4080-A9E7-16988DA2A15ü °DE8FC201-A3 2A¤ 04`ƒ95417EDBLp785E263E*òC9-AC83-6D071FAC265Az0D4FÖ13-1V
+!1BvA^ Fd$0E*ÐE85125F8-A457ì ãD1-F56EB8D69AD&p82879A5p18-4630zÄ2-EC1F2BC2E0ô€BD5EDFB5µ9-45D7-95¿£B40938F95Fœ°2EC95AF7-8EØ0A53²ÄD-3BF17E153A°5BAFFF53-DC˜P094-BR³896ACAB7121 À6490B20D-F12
+ó6D-929D-529624DC120PöEFA032FA-8931-4321-A27D-27F755142Ö8FCA194-Cƒ@4E4D²Ó2-AA66BB25CF3¶ 7B[pCC-3C5ABô7-B11E-D339757A7F~ ÁC39F1DE2-6DFèó6-A6AC-2DAFA4E2E68T PD94DD™  85,
+3ú€B80-C88Fœ
+3618j‘32B7C93A-›4Ü  JÃ-0C84FD10009ó58B2F806-304B-44C0-83BA-207C3217DFCþ
+`7CD098K0FBBøó2-A28B-3EC4F28D181~ P925967µð4343-8200-A47FE93Eá `F3CC55Þ ðó7F6-A755-FFAD45C495CT PF595Fu	ó8DA0-46A1-9AA9-B1C3FD56503H 959038C4-2ù 4C¤ä436-7D5435CE00ÂÐF232FFE1-C20EÌ@5-AA”2544DEB29jqF9C272EZ P Ò  t³256A4E11CA3rPF3F25zÀ4E6F-4137-B2á ²07E3B062672ü °57A0C62E-6E„ 7E‚!ã56-AA18E69A5A8T 09FEÐPA-1C0„ kåDF5-3611DC3801Rð258DED7-1B65-4CDF-ÛÃ-A2392055E92ÎpE033B05Gp89-44D6.Ó3-A6468452028äð5AABA215-9F19-49Í  V
+´EBF018247EFz`FFF9F2É	6C-4C33-A¤3EDF8E3A2D,
+ w
+C7EE-C18Cz @ D1NtC5274A1 
+ B0B94367-CÂ!ó4D65-A49E-CE8730C745E˜`3E668CBp05F-473ý	B6“7A380CE6FHð69ACC6A4-26B9-46±ó 666-073FADF0FA2* Ð7956F9C0-53DAdôA-80FC-81C688592B€F47C2F107  
+ô1F-B483-F85FEFA2A5dÀFBEA8E7D-6F8¨ DxãD2-3918A803759ø`30F3FF
+ A5.ó0D-98D9-0B15F4A8FECü Á9EC2B218-601¢ó4-8635-421B0AF7354€3854A146
+ d à!71t358F4D2ðFFAE2961-£ó-4CFE-8FC5-30FBBEB27EE4°EC0E35B1-E4t
+ô96F-94B1-9BA924DA88&À2030BA25-17B:DÙ@2-64ï	SF8BEF˜@3CC1" -F½ó483D-8BA9-2BF45107D31* óD6B8CDAC-6C0D-49C2-A738-2A3B079B5A4ÎQ873B9ÉP13D-48N³002A61C4F04°B03EB82C-C4R8ž
+ Ö¤1AA59F45EEò" 69717F78-C!4C`E0-A7F84F1Aä1÷3D95€ iôB8F2-2C00732B2FEr FBFFF03-E0ÆóA3C-8EC6-0B6613BF09DÎ°26A2C023-24Ø	ó78A-8BBA-50B59F79EA1* õ5E2B2487-96BA-4D8C-9A5D-C7D746E12Ð21C3B2F2-1706Ø	 üP75-E2D2B518PEE4B1P CDð2A1-A9D3-A82F01FéÊP65CABD³	04C3/QFB-B0ß"476B´"A31	  ü 09–ÓD-44550F8DD1Bv²24F3D697-E0’% Nã3B-A4ECBBABF0DÎ 4669D102-8~ Å 
+µ4-BB7AD1E87 ð56E61437-30D5-4893-85ê$”6EAE71768 €7FBBA3CB^6”@96AEÓƒ73D7DE10`865C67E EAÊó 76D-234A56967B3ˆ°B9D035B5-476 28äp8F-1AA2
+$BAà°87D4F70A-D7š#ô800-B53E-9C373855DCvÀ059FBAAA-814ôQ62-89ù“D8F620AC3D`284F5CC 
+pB15-A9C„899B6699D`25150Fá 4Eì@25-Aj¥A54BA68AA4bó7AC2021-01F3-4270-9384-4E49F9AD8E4 47ù`C8-D2FB 86›ÄA-47403BBCEE¸ 58U
+0F7-+ô-40B8-B230-1842D13352ŽÀ2BCB9079-811Bô63-BF51-6D441B033A&±22A5DDDD-03”
+D  1C=’543E7DAB6¶€F6F12C19H Àó30-A375-3ACC5D4BA7Bø€9B64C631`08-4.!097A" DDb3D0DT ð 9732AECF-5597-4ÿô A922-FC6CEE9241” A7C8D397-70479²`84-D73î A.p29FC9CDÃ 1ð
+Ô81-D821FF5BC7 134!@1B-7ä#ð492F-A176-BA11EABÚt
+°72841D20-54¨*pD78-80E 
+“561414FBBÎa14035A› 7E<ôF-B385-A2671872F5ð¡7625D35C-384F EE„11E43076ô°6DDE6C81-C6ö ¥8(B<
+T9B908ºpAC919BBÂ2L \(Ô83-D384BBFC15ŒpB58F8EC…p23-48F0£ Ä1-FE1A72AA2EPEF46F ó651F-4847-BDFC-69EAD7FC0DA˜±74D46851-7B BF 
+3¦ƒA7CFD070&P24232‡ E9ô E1Æ@87-7Íc27260FÎÐ59BB0B60-746Dì`B-8B3EÔ„DBA53F0Aì0888*0-48
+ðCA1-B8AA-9CEED381g	ÊÀ1F9B1109-F7A¯
+Cà0B-FÉTE6B01äÐA5D78E27-24B4V
+Ñ1-ADD8-35B9722Êð1777B3E0-F8A7-4Ef ´
+@3B31ë#311D0A5B)P3-06Ep@AC-By`C7A9DAz9¶p633F428² Ôô6B5-B275-DB75097F89æ 17ŸÂ19-7264-4F67ð³05076522FDCj¢66AE2C9E-AÜA²0“D4420B7568€34F33621ð6* ä572-0B3690335C*aE41909& ’ 0B|ã46-E341FB8319AHÐ2561303F-EE5CÄô9-825D-8F5936D7A6¾±3F1A8A50-C4p4E-A7DE&t8C4DFEE&°FFA3F313-2A~* 15A-BFA7-DT2C837‚)°CFE2FA67-ECØ	`3EC-90”70245CC85!6Be@D-52(`53D-AEÉ£FE01C3628D¤p26627C1s ¼P158-By
+ sB3F1F56 A2933œ071CÐ4Ý&€CC-609A1¸&1”ÀAB884087-C62Ø 1EZÄ2-D4CC0094BDˆÒ7E6B5281-32E6Êå9297-CF904164Cp603E559s) ÆE% CD6-57B36Cñ
+ð-`6FFED3‘9ª
+ C3Z	ÔC1-2A843EC6AB‚€1DB569CCÊ°2-4EDB-A607„	1071~5rÀA7B5805D-D23þ
+ 69^ð 9-51E825CD6FF9}PROP¢e  ÄÚ     ô)      Source†  local UIS = game:GetService("UserInpu 2")
+0 óframe = script.Parent Rout ="  “.outline
+" ÷dragging = false ³Start = nil ƒstartPos 
+Y – ñBegan:Connect(function(input)
+	if  .Ç ÊType == Enum ÷.MouseButton1 then
+		¨ rtrue
+		} uVisible¿ W		out - Ð ‰ ·Position
+		× U  - ~Changedà O)
+		Ý  OStatÞ   D.EndÖ ™ 	€.		Û Å Ü ±q			end
+ !)
+ ’end)
+
+UISœ¾ Ý ž`?and«„MovementÖ ˜sdelta =M S5 - ŒÅ æ= UDim2.new(
+	š›.X.Scale, ‚Offset +m *.X  Y5 Y5 HY
+		8$À Š\adminZHh.$ Dpane$b¸6 "
+
+ 	Ü_ClickTV 
+Æ y ‡executor& dend)Ä |textBox Æ ´textboxback ì¼lineNumbers= " 4Tex± $")oò updateLines()
+	ûdtext =´ ô.Text
+
+	-- æ”¹è¡Œæ•°ã‚«ã‚¦ãƒ³ãƒˆ6 ò$lines = 1
+	for _ in string.gmatch(text, "\n") do
+		3 +4 2ende òTextWrapped ã®å ´åˆã¯è‡ªå‹•ƒ ‘ã‚‚è€ƒæ…®Ó© : °Ñ wsize = A:Get ize(
+			œ 	 ö 2Sizìb 2Fon& bVector" ñAbsoluteSize.X, math.huge)ÛŽ ¯lineHeight” I"A",‚Œ  ‰  † Õ1000,1000)).Y\=† ×ceil(size.Y / qÝÃ1,2,3... ã‚’f´—ã¦ä½œæˆænŒ"{}éai = 1,U s×Ótable.insert(1 B, to5(i)w Þg2 = = Wconca= 5
+$ú-- åˆæœŸè¡¨ç¤º
+Ãó
+-- å…¥åŠ›å¤‰åŒ–ã‚„ã‚µã‚¤ã‚º “§æ›´æ–°
+¹Ã:GetProperty¤bSignal=%")k )> F òŠ  -- Fires RemoteEvent once ®´ is pressedÁ,RS.= cplayer!.P rs.Local
+ ( =log]Á AlogsžClogs7 ?
+‰ 
+: Ï=  )
+
+%		i#ifÑ ò :WaitForChild("Ë ó Gui"):FindFirst ÑLogoAnimation# Œë2 = ±T.gsub½>#",‘ Q.NameáÑRS:FireServer3  WBnewTo ñ"A request was sµqo the s; A."
+
+Ñ3logR~= ""¾ 6			 &=  !..^4 ..m C
+		ež' = "nd|­$Þ±zÐ
+	@UEnterTB()
+	> ò.BorderColor3 = 	 ä.fromRGB(157,  5 ÛSizePixel = 2Q SMode ³
+c ¦Mode.Inset+ ’ackgroundw €  D77,  )	à _Leaveà (q96, 194 à 	1µ 1à O3^â Ò227, 229, 228â âÿÐ/’ ÄŽbº©³* ¬bA	Q = ""Z/Š– ‹m — }eloadedn“„y createÿD ?GuiF‚ return º
+V	r ò
+Gui = Instance.new("Scree‹,
+	. ".ND" ",  ó¾ 	Þ(N  äZIndexBehavior^
+ ‰.Siblingî 
+â ¤ImageLabeli 	× Ë Y< = ì  ÞÂTransparency`OLogo®ó0.0059, 0, 0.8737, 0)1 SÛQ0, 91, $91% ¾ õ = "rbxassetid://135470017279113"STween‹	/  "a
+‚originalÄ	Î Z bcenter" ³ Q.5, -2 gGL/2,  Y y ÁtweenInfo = › AInfo™ù	1, Enum.EasingStyle.Quad ADireQö.Out)
+
+	coroutine.wrapp)a	qweenToCÎ v 1!:C¦b(Logo,* wInfo, {ÜQ})
+		Á O m:Play( ¡.Completed! «ask.wait(1œ OBack˜ !Äš KBack– NBack’  Aangl7ò{-7, 7}
+		while trueO
+O,+ ± in ipairs( sKe
+1rotÙÓ Q
+				x¤!		- ).5ñISine cInOut)L A{Rotj" =­ }o ) ™   	HNs
+	end)(ÿ
+ˆ•yÿ4not<# wUñsuccessfully at, " ..ÊQ.."."Â/ u† ³ = "Already‰ !."â 
+  ¦	ñ ð
+n 1 z f ç
+
+ÿÐO  f!2p,Ñ\U
+	-- zM ã«Èñ
+ ãŒã‚ã‚‹ã‹ãƒã‚§ãƒƒã‚¯èb ¡Ë+#		ç  …l÷$J:ÞlFigure»
+G
+sTorso =& ¥  $"), ±RightShould2 3 $  % < ?Lef; 
+?Lef: R ?Hipq 
+:Hipl 1 g 	0 "NeÏ  FNeckY Humanoid0  2 ôpose = "Standing"
+N±currentAnim<  Pþ!  1Tra»  1Key^QHandl²( 1Spe`41.0d banimTaç({} 2NamÅa 
+	id	A	{	
+ú!{ ñ"http://www.roblox.com/e
+ô/?id=180435571", w O9 },G !8792G 11 }F M ¯walk = 	{ ¢  Y26354[ C0 } ] q 
+	run]  ý run.xml9 	Ojump:  7z2575070ð • Ofall\ !80436148¸ 	‹climb = ò ¸ \ /33M
+?sit· !78130996· Ï	
+	toolnoneº !o239347^ _slash_  29967390¾  (--Ua W	‰ 1lunÕ
+¢‰ è ?wavB!28777973ã  ¹ 1poi µ 8853357[ odance1š }8243599ù,¸ îüm249103¥ I $/65î 
+2î $=684Y¥ #2FI $777Ü3î %-93J¥ #/36%4/42%	Olaugc#Y42313k4a
+	che€o942303¾Û;¬as = {" B1", 
+ 2
+ Ò3"}
+
+-- ExiJñ in this list signifies that it is an Lô	, the value indicates if' ‚ looping. Ó; Ôäj$, ˜ ¹ ! =± 2 3 ¯< c ç Á1onf¤¿õSet(name, fileList)
+	if (˜	[name] ~Ô	)-%
+@c%tion in DÓ	; .$ Y³ C:dis 2()
+ž
+W;
+	K $
+ A.cou×0  dtotalW /0	#   1ion85Ó	-- check for:ô$s
+Ò
+Pñ*DnameO+ 
+Fò	--		print("Loading anims? 	¾û]ŽAfig.©cAdded:Û Fcchild)Ñ Q end)”ƒ #_Remov… 7Gxidx = 1„†hildPartƒoA:GetUren()|2if ¥Part:IsA("&")ã÷ „ .î zp!}	ðE[idx ".aï
+é w$
+
+hObject$ Â"8"")= Jif (; Œ 5 ·b		elseS Û 0 	 © S.Valu7 ? 
+'Runt +8
+2%=  +£ß² 7	Õ±name .. " [í1idx ]àf H Uanim.Ž!Id1 ! (@ 1 "' )¨#5idxñ 0  « ÿ fallback to defaultsZJ<= 0Aidx,~Lrº À ¿™éê : TR= nam2* T #Idû1.id4 p*  . 0( / Šd ‰yx-.iZJ J)  2	QSetupñ—wobjectsg®-y‚Modifiedp):"r	[«º]„' 
+8?Ê A 
+ÐEend	Ã ž .Ÿ 
+$  ¸ )0 Ñ2 q
+
+for}‰ ò ‚) do 
+	®Á 	…“ANIMATION adeclar‘sq
+Dtoolô\None" BTime5	 Jjump t "Dud f = 0.38 AtoolRw.X $.1@ ?fal  3  ñjumpMaxLimbVelocityc #75à Ã
+s\‚/q stopAlå û A
+³ 3oldý ÿ÷e òto idle if finish‚	¸·[S B and+ ¿ =}( ” = "idle"V7
+	ž  ÿ˜“ 3 y
+(û+ wáa øW ! Q:Stop}r  Destroy Ø  	ý!/ò
+ñ%et¯LA(spe¦A	if  ) ~ò& ˆ: =5 S+¹ aAdjust( (9 )Â¸ üñkeyFrameReachedFunc(Ï(¨  ƒ == "EndC)£	Qrepeaî  Ñ ?
+	ÂÏÃV Æ" É	 Í$	úac=…
+		playË(V e, 0.0, y
+ö^ ˆ¦-- Preload¢›
+w ‰9, t½4, h€ ·Drollÿ-‚random(1ýâQ 	3
+%) @ RorigRD Eroll Ô¨ (i >Ä Z '
+x`	. S / -5 
+.
+!
+ÆŽÇ ­
+¼
+Ë
+É Q.. "]Ž	øÕ¹ a†aswitch° ¿i|È	)ÌÈ 
+¸
+ªÚ®
+ói* 	½&+	Ò !--ƒ % i,Me; get ö® O  % =€A:LoaÈ!Q(animª S3 b.Prior7s$f  A.CorÒq-- playÉa_ Œ Z", ‚ ðNl ¶" >³-- set up k7*	Ÿ triggersÙ ¼ã
+, è«¦ 2 
+p_# ×Ýï  #
+5- G] LÀO
+1Nami" *Ñ4 T¨
+dE]_toolKa+å"p v : ".. ¦ÇDplayš }Í N0
+§é 	´ H ^v3, pÏ)¯>5‚Xº0Z „-'…†
+‡œ£*ˆ*Šê bO D‹GÞ«~; q	, ò	G
+ 	^*		fš
+	w\ `
+ ^5	if‚p½ r®  	hi
+• g' wÄc 
+´  gÍÅï_? Ç.  ãuçì  ¦Dstopu :&s(ùÛ~ 7–? ” ´ k/ û© S'"" ÿªð	G
+
+ 	ì	 3þDG-] L	!¡onRunning(²# u > 0.01u
+°»"walk", 0.1#
+3if 	Å?and 	a=F%R26354-7}–
+Â f/ 14.5$		›&ö þ(ifBÃ }5nil
+2Ho 
+'ªbSq onDied¤ª _Dead"* rJumping- 	Ã_"jumpœ< Kv ] y YClimb31%€ ¨G2.0)€ d  ’GettingUpü n( 4 FreeFall3 Dif (ý 
+KÏ afall", 
+Y
+ùÌŽ p  ¡allingDown ì 8 KSeat . „Platform}	k  B YSwimmêÛ5> 0¿ U  „ q.ndÐ÷getTool()	
+	for _, kid1­+HÂif kid.classžr= "Tool%Ê5Bkid § Ü ‹‘ ¦Anim(tool)˜ c– OtoolÜUif c. ‘toolanim"«c« SHAU² ×Ÿ c5›· BeL1if Â „‚M
+"<(/",P ÷52áAIdlewÃ ïÄ _SlashŽ ("Í5‘~ oAction€ OLungc(€ -dÉmoveSit()
+	h.I.Max~X15
+	O." 	E û
+:SetDesiredAngle(3.14 /2)K 
+( -) R =Hip% $ {.
+# H ú ‹alastTin	0tcmove(t, “amplitudei! Tfrequ08C
+  h
+QdeltaÒ…= time -m & z Atime’R “climbFudg‡Q ²Â5Afals3 !  ‹
+	B4> 0ÄI  		 j› -GGT "  0@0	O ­29lsep HÄ 	S–sit", 0.5€aR S B
+
+J 	E or 
+ @	 Þ 	 
+© õB"Whaê2posÑè	§"0.$
+¤¦
+LKtruekˆ 	„dÄ6 = k *|1sin5& *)R
+U
+ 	Y +Ún; -; 5-s f _
+* B†	-- Tool¼• handlingµdtool =Â^!ifÉM³JD×ˆá $_ !/2 ©"ôŠ
+\ .÷
+-- message recieved, delete 8 , v ‡=.~ ‹U + .3eÅ ?>6@5imeñ	Ã E 0Z  c	S 	™@y
+¥e 	P ¯
+/ ” 4 (” events
+I7.DiHAonDi
+ Êj5% 2
+%  % ×&  ' ß(  ) &
+S  	* & GDownU 1- /(  # >-  7 R/  )¦sÕ#ýemote chat hook
+{?˜Players")òHX.Chat¼ [F(msgû^ paif msgv"/eð,…*  !s[qo# #)]ÏQif (sÐô .sub(msg, 1, 3)^ aZ 0 /4)M 7M "Q 8Q &ndH—
+’ A" ˜‘
+% ø rBend)oó -- main programé¤initializeþ"*
+a ZÀ ¿ B
+
+¯F½$÷¥5 do"_,
+!= .@x0.1)
+	y
+¾ ò
+t2  --[[
+	Author: @spotco
+	This t%a runs G
+!ly£-1theÔõ er of the givenK.A o! a soundD /pause aÔg .¨1The¥;„ing/TimemS à+ies of SM 'ò
+ bypass FilteringEnabled, sov0Ž 2the‰ Î
+	immediateã ËRñ
+s replicated to all otherÅ 4ers² 7¢is optimiz3 ñreduce network traffic through minimizingR!ami/$ofí y‚ ¢ion.
+]]--j2AllÈ òs are referenced byó $IDœ3SFX\3ÃDied = 0;
+	„ = 1;
+	³„ = 2;
+	Äƒ = 3,
+	ú… = 4;
+	»„ = 5;
+	¡$ 6  ’ = 7;
+	L>;A = 8u po7V9;
+}S;ñ useUpdatedLocalíÂFlag = UserSLós():IsUserFeature÷òVÁFixCharacterA qIssues"ÀÚ## %ea ¹--SFX ID tos, Y Ö0?  QServi™
+ä  `<FOcFolder""D6,5  sRQStoraæ
+
+n 
+% s 5Add!RLoadea û Î “)( "  º = = u ù.4 !Na s 1useï DispatchS ÷U> ò/ifY Á
+bif notQã … 	° 
+:-0 .",û )'
+Y .ßX ­0  cArchivÈ=µ a-- LoaD±?
+	   ©"8 "S ´0:$  ë
+x.A-",†BH F¥ !?
+	ê
+ ;  ' 	K   ‘-- Notifyuäserver a new c2‘ has beenn%U(Z >R)o` ªdÍ‘
+i left.
+	»C.m
+R 0ª j X
+4	h	ˆ	# =$	d.Paren 3
+	9' òSAHead5Ó	6not~c !4New¤
+Ò.R 'G	if 5 p5C "ç
+$		 ( =1 ±
+				break +
+ &if§ Qthen )  % ˜ ì/
+D1
+	ÈQs[SFXa] = 		(2Die2 ¡5 4    V7 á8 7    8 8   8 	7 Û   7 A	9 ¨  ! : j	< # > ‚	: ¯   7 ª	6  jãº_ Z_	‘
+	> ³; Ò  $ B	
+&O s e/O	if ' -  ‘.OnClientAgú,•¤ing, reset8
+:	if 8 .e
+'~=ˆ
+" 0‚ound.IsP 4 ~=Œ Ú K # " t;_ 
+!Is@ß
+5 = )DÛ­Workspace.6 2andÌ¥Œ.Respect) … ¢Util
+UtilM
+¸ñDefine linear relª
+ñ	ship between (pt1x,pt2x)vA(pt2 Ây). Evaluate³
+øat x.
+	YForLineGivenXAndTwoPtsð #x,W !1y\ Q,pt2yìö--(y - y1)/(x - x1) = m¹'1m =• Ay - 6 ! / x xF ñfloat b = pt1.y - m * &x;M bM   A &4 Rx + b€;8aClamps€é?…of "val"7‘the "min"5Q"max"–8ampªval,min,maw Áath.min(max,áêmax(min,val))	Ž 2GetŒ ôhorizontal (x,z) v/5Bmagn´	þpú;H8 ±.™AHeadRlocal hVZUHead.ù+ Vector3.new(0,- 1.Y,H"$UhVel. Ë ¿vertical (yÇ V4 Å Ö‹ath.abs(© )X¨ /kø1s d Sly resuld>Oless3 !anI ñ/Pause/Resume/StopŠI•(se(Tare e!usí˜m.
+	PlayF
+?	ifo(M	1 –
+Ÿž’true, trugÓ1	
+y_ 	! xE ±z°AJœ‰K	§ 5°!,  Å é ;Á = ™
+Â Ã NË… Â ‡19StoÕh Ž8½ …Ë2Êq}
+
+doÊA Lis1all$ƒve Loope²sc
+pX „‹I ‚ast seen(X
+•StateTypeI aactive W 5fal0 ‘-- Verify›2setÆF"·Ÿ" is in "  T".
+	A set´ #In È (M ¯for i=1, #S  )  S[i] =3\Æ{	€/	eQ  ,— Äg¿­l­ò except parameter " U". If
+ û is not passed, allH ú will be stoppedK?topE E{ (p LI_,1,-1N$~=Ñ OQUtil.K3Q[i])		`!re-  ",i†© lT/ofÒ5 to< ËCstatY ,J[!h.Dead]^F	p$ ð0" =q
+}97layî” 	Þ-™NoPhysics  %- î /d(à L &, 8  x  D ú  n ý D> )	O	if(3and%¿¢8
+íQ.FreeTR1andú+Ög> 0.1)&WC a l® ! ib	#!drŠQ from. Srge dñKä v¼"‡cin(1.0jj¦max(0.0, (f²- 50) / 110IKfï,5
+SF ]	- B.Vol&2vol™ {	* ) Ž ô¶S,~N(n5m‰ Æ	[%ê 
+ïGr Œ ­iL ñ A	if œ Üó)È F| ´ ,_Î‡%2­thresholT ï
+. ì@1 eliE " =F	[
+D×j~ÂÀ Pc ÂTjs²C
+-S …	& &øk(¡ /—$ Ëé  #, F ¦	100, 0.28 s350, 1)1X1	0,½ N ± Ê  9T 3
+ó í  Fwimmu ˜ ¶	–y– —„	I9 ² «
+% ³‰š™3absÜPÙ §³ ²K+‚ N LPausñU
+	M 2nd	kÐÿ ·€ Ñ MU¥ 
+J‘c	‘w [=[C ö
+%pë Œd z­ß'ê ì  œ *Y œž #b	  ‰D Š  d
+	8Û0? +& 	$6max©	Ã	y·	Í $2 ¤ c _LandeÂ%	S7Ç	0ª
+tVû	( ›tvAV50, 0r…r¡ ½v g	
+?eatu%end;	
+	MB	-- ® Ò
+ë,ò fired or OnChange 	aï!d(< è
+(if! b !r[' ç	F]	Band _ `û
+
+	"or| 1 Š1 
+1 “ Hæ
+$e }/ ‡;H
+		í
+=	•x¹2 í%		9"()4 Ÿ ÛbDead) r)X ø [ v	_ F R ,e!y
+g ,Öh (h ,G h ½g A !) 	’}^ 'C ` b õ¿ ˜` {	‰0¯
+!) >l q-- requò3forã%4B of é4 G#dþ ý old, new¨Ç#d( ØŒ8 2 onñ(stepDeltaSeconds, tick[ [ !AstepŽ< = 9 - /: %
+â
+@ U
+Ü^j	);if Ò < 0 andÆ
+ß-
+¥3	--‰²takes 1.1 s6b to goJv­Q0 to v7—Tõ_LENGTH_SECONDS = 1.1g ,AnormŠ0rdIncremß"/ /V 	 ¾ J
+¯	 +z *ðüæD´"ª
+ì
+í
+| 
+Cf;Ã76 b(
+ æW< 0.5. !
+½  äÕ 	ý;Í%() §TICK_SPEEDE0.25w(¡qE
+		Ágtick()V<,H Ãy  o	wait(1 º  $3ÆlSMouseh%üv1Get$ 1()
+ I.KeyZ„ñ (Key)
+if Key ==KQCthenQMAÔÇa BConnt5 = ^ x\ V Qfalseßq§m
+Ø) 9do
+T‡1.Ju·"Qtrue
+3);  ':D§a úzÿÔÖrÿÐ$Ÿ ûv@. œ¶)D$# =+ :WaitFora-(ç0kƒB")
+
+$ .ÇB;ˆˆ^ /†5)
+`£ pš¨ 1labÃ&	á!
+
+ õ
+.Text = "Welcome hackerman"ëXˆ
+R
+^ !gr¡.$ g+ñOfClass("UIGridLayout"6 üÂ	grid.SortOr©3ú .7  gx o. ô"123456789abcdefghijklmnopqrstuvwxyz"­ .Ò getRank(text³}²not text or =ƒ‰[!10 +ß1fir¸_ôtext:sub(1,1):lower()% Ridx =´ a:find(6 3, 1à#Ò41idxwp 3idxl  2€ 0	Ô BsortWsy tf#
+³0 `@H½
+®01$- ¦03Texb ¨0Ìˆ‚"o c )	Ã 
+* (so( ¾ e(a, b)Ô"raÝ@¥a¦ b b ­ „ra ~= rbH:#ƒ ra < rb ñ0
+		-- é ­æ–‡å­—ã®é †ä½ãŒåŒã˜ãªã‚‰ãƒ†ã‚­ã‚¹ãƒˆã®é•·ã•ãŒ	 ò„æ–¹ã‚’å…ˆã«ã™ã‚‹ƒ #¯ R ~= #  " >! 
+— g (‚‚‹ ’æ™®é€šã«² fæ¯”è¼ƒ(s u2 < y  ")
+ Qi, btžjdipairs´ò8btnsA = i? s
+d
+9O2 	(×>b I
+[ s 
+e _Removœ\ g *ö€tðð3' v9+ ò :GetDescendantsZiÒvï Av.Fo:ïÑFont.Code
+		vÒI€&14~¼’bž CSt = bà4 ‰Dback C<
+/
+b©t¯ c = [=[Y Aš]cloudT7bPart",D $.Cà6.Torso)
+4 a.Brickt‡6 = 
+ „.new(333' aReflecß"@c5? „AnchoredmU CanCollièI/ FormFactn ° £.Symmetric\ ¹!.d1,1,1)…Mmeshõ ÑSpecialMesh",v ²)
+mesh.Mesh@“B& –.FileMesh' .IdT‚’11820358"' Ðž U8,8,8ž P› õ ParticleEmitterŸ Pë rNumberSKƒ„ô0.75)
+P.LockedToPartmP1{
+® Û331959655"
+P.’ƒe d ¡Accelerati¬	ya0, -20Ÿƒ±P.EmissionDÁ.- aEnum.NyÒId.Bottom
+P.E„.² Ri*„30
+P.Rotl • CRang÷ R,360)$ S¶$ 1·   !3, VÉ02Spr¦8$80´¯*3.CF–	 )¥0P; /.xp  y  zo a0,20,0¯
+2]=]sâ¶
+s
+Å	"ù‹}‹¢0, 108, 22Š „^Leave³2)
+	  b T255,  î /)¦¦Žo$ô	decalID = 88220294403271Ø
+1sky ( 
+ m!MJD", wÅ5A)
+	mçñ( = "NO WAY GOOBYDOLAN RC7 FE BYPASS!!"
+	delay(1e15, fun q() if m?	& m9gA end¿” 2 Å apply(root)¢;	²Orootê
+¯qDecal")FBnot ‘2ure»~(vœ 
+#N ABaseÓ1 KGfaceN	Å:GetEnumItemS\)7¶ B, v)( d€g=oÆ , !Fa#1facÈ	 WZ Ð ó:
+"òSky", game.Lighting)Ž
+!_,ó{"Bk","Dn","Ft","Lf","Rt","Up"}§
+ýs["Skybox"..prop]ûæ Å
+Î 	 .TimeOfDW4¥"12:00:00"Rs 1Ins=C.new	DæŸsnd.Sound}’42376088"( cPlaybal‚ = 2.687 VC§Bsnd.Z0€	ˆ ¡Distortionz ñEffect", snd).LevîA0.75L K^¿)
+    --69
+ÜØv
+@¯
+6jªKƒformat('7ñ
+(6438361301).load("%s")', p.|ERÙÔÂ¢Ï17015453713)¾éà¾£±1957419646)Ão, "luaˆåÀÓ§°‹5[=[ÁD¥Û‚][=[pe
+
+O˜	Ÿ!s.?N
+ ü(peÔ
+ëˆÅ27476787"
+pe¼?P5		Ý=™žó"135750100740030"
+
+:
+…‚ˆ‹
+2facZ‹I
+			†
+~.Front, OBack  ?Lef. ORigh ?TopE  ‡F		}
+Å,³ 
+w
+
+â
+dJC = vªžÓg
+õ  = "18876121366u=sky¢Sky")
+sky.Æ
+/BkÀ
+	( /Dn( FÕ	P /LfP RP /UpP 
+L÷I0'y")
+·%o£840712882"* 
+F> j0& ’ I 9o Ó¯UŽafor i,ÂKW|ßKif všfG"]C
+		v©l gþ ()	
+	end	
+end
+sÄeound",x ?)
+sö72089843969979"
+sF1;1
+sï1s.P	w'$
+sˆ÷5.1) ™Ü%–˜"î	„‡_exPro‡±†vø	~ù	¥8408806737ß6		vÆ?nil§ñv.Material = "Plastic"3v 0 P.On÷
+Ÿ) =TwoW) ?hreT OFourU ?FivT ?SixS 
+5One¥¤£-- CHANGE ?TwoL 7?hreš 7OFour› 6?Fivš 7?Six™ 64One"ô5Two CBack a/ ê
+ , 4Lef &iv/ 2Top 6Six\ Qottom n"		P€nOasdfm"9 V k 
+R")
++  €Ü/`€¤ h41 =  &
+sÒ…sŽ`
+g:  : !²: !Ä: !Ö:  é é; <ek	/12JÜuÊ	¤}É	 ÐNÈ	ö 100091122003498Í	
+Ì	®mo'çÊ	É	Ÿ	È	( Ç	( Æ	* Å	) Ä	) Ã	Â	ž
+"v 
+C OE ,{D -ž	Í •	C ñ	--put id in here i will  zU"deÖ/4ionÃr	¹	¸	h- ·	; ¶	«
+ µ	´	³	G	!v)BA¯	R‚	Q c Â„'  _Üò £ÿ 1315203780749144êÔ„‹´"¿16571960080¾ÿ£49253957|ëÜ|™"0&ÿ2823974237).giveGuns('%s')"4&âãÆ™ö'©1666280845v$"dev-uziy$åÙÍ¢ï8038037940).CLÄ)ì”
+£ñ2845929020).ooga(†+äß…¢©2946060158QOhackNå]©o14488)‡éI£¯5244718553Ï0ïÞI¢ÿ110047253067635):H—2íäÈ£©4125553864c00lkiddåÝÎ¢ÿ88477009909590):P•íÓÇ¢¯7634392335Üêš
+¤¯4572394952¾ê¦£ÿ5369180823).elizäêH#4”!6sÁ%Ó:GetService(" C")
+
+ß=y‚exibirHišDado(K#_,,ÂÃ}H C:Get ØIæK/ £6-B OT("Heaß
+¹3ŽbillboarÁ3B 2GuiÈ3, }G·ÉQ, 400­WJ50) . QAdornC,¥ [.Head. ¾StudsOffsetRG=3, _ Ö2^ ' 
+ï textLabelS,T ì ) ì 1ç 1Š ¼ , ATextJB3 = 	 ÒªEO0, 46 lStrokeØ-/.5a  };30  •FH 1* zQ" Lì
+@qmensage¼Â¶`2u = 1, #& ÖM!ÅDsub(, Ri*Xknä Ø!ÿC_end
+
+R l!Ü$¡îÅ^B‚1[=[WŽQ6²G[)
+msg+L# ¦!1x R:MUAH  "" #Y4O 3 ñ	prepare for a the punishá\abecauc!sCme g€zobannedX ôYOU WILL ALL PAY FOR MR BEING BANNED!D 5œ Ú4-
+c¡Hint")  
+cH/õ ´ v…€%end."
+c9! 
+ITA= {"5òx1 is shutting it dow1}V O.   Y‘.   Crash7 n{12, Â½ #} ËZ 5s5) do 
+ÑT%¿
+œ ˜H .m-& mò &- 
+6Btext‡ Jv#5 
+m†_ 
+endA  	· 
+­I< 
+vB G  ¿--Mediafireà=Ý½	”Ãaltura = 500uncentrok+ ÀO* Žbaseplat¹4dK,Å:%)
+, @PA2048NH2048, RF CPosieP± b a0B  " ¡R®Rè"Bright green"‰ |6”> .‰6a rTopSurfÄK-  BTypeÎ	. `3" XR 1 r]spawnÚSpawnLocationK1 sœ
+0" i8 
+eÈP60, ’Snà22 +
+F QNeutr·7[ 5T	‡
+š*Ð
+›]Š?Ochar ‡; and char”fARootÑ1
+		/ rMoveTo(ä *
+éQ0''0){+‚QÜ¨>ÓÛ5Ž
+=
+ŒÂvS>z		gui1=×
+
+/Fgui1´\ õ! " VSize=ja2.5,0, )E e3=hW0,0.2( ´AlwaysOnTopž
+Í %Ú(atext1. `;Õ739687617017"A Ê R1,0,1ž a Uî !0, )D ä# ÄŒ=gui1
+		W.
+X	«£¿0x1767bf813ê¦ £Ÿ680235697¦ ð½I‹3+ÿ3455730882).kfc()'®FÙìÓ/Ã	fRimage0:÷8¡69585459"
+7 D7 $757 N:9 89 "D8 3502q 0D8 1p ?Six³o _Seven9 à EQ© ¯475"
+
+Spoo©LåHW* S@9 "A I•174270407* ŠK5= 
+±Ki ÿH/
+SŸ Y[SWMd7One §@  /Ft /Lf A@H  @ 
+¡ÍpV
+    Œ ûM, 
+ 
+¨ 
+ 
+¬ 
+ 
+° 
+ 
+´ 
+ 
+¸ D    5A[· ,TwÓ ·  ·  ·  ·  ·  · 2hreä Õ ¹   »   ½   ¿   Á  Ã OFour{  Á   À   ¿   ¾  ½ /iv  ½  ½  ½  ½  ½ ?Sixy »  º  ¹  ¸  · Oeven¹   »   ½   ¿   Á  Ã ÝÃ  Ã  Ã  Ã  Ã  Ã O
+endÜÜ™ÿÿÿ 125148536957515š sÓ/-sîL5KY"²Kh¼
+†724234689 
+9 !y9 !”9 !R÷
+ä Êr ãƒ(ÙL5˜%19QSSound»(); 2; '3; '4; '5; '6; 
+Ì$iƒ)1 Pc 2” 1 !” 3” 1 !” 4” 1 !” 5” 1 !
+¾Qõ 82020270111776"2 22 æ985074175582872 32 æ864741912578482 42 Ö41136018858422 52 õ 3282320583623"
+É 1"0 2 3 4 5 Y 1 m1 2 3 4 5  ý ÷
+?Endüx)§ 5  : 3: 3: 4: 4: 5: 5: 6: Ïrÿ
+ID =18889618673 --id here
+t1Eï8343405871"
+t23 33 ñ‡y
+À_% wiy)' ±$6i,v«$pd‚g ¡kg/t3BgÝßê‹
+šMJü16638501761){Owners={\"%s\"},Prefix=';'},J/î
+
+ñ--[[
+Hello, magiccube3ù¸²óis my original 2Drñ which I made and amé-+ ‚owner.
+FÀñ
+of you can go to LuaLearners? ©ºDˆ‚ is postÜ¹ATheS %4ý
+ alt. account 
+of mine onP   1is åTúis P.F. Disc.; myO Èon Roblox isx ô xxLuaLrns.
+This§ twas cre^ Òan sync.in byMiube3.
+5 áis called "2D"ú Ait m severyon<ìe5Â 2D.
+--]]
+--8 ‚made by:h µ6and 1ä ÿ~ff_, plriË½05-- °­O+1s …m to plrV6objbZ7plr(
+0^ |!'sZ+F¼žg CanytF1g their% bto obj´ZC(objÚ(= q(R -- IP£1nam°2Hthe U S sis = toB ‰µñthat now only stands3} [obj.Mñ"²,¡" -- ChangïÅe mesh insidˆ 2Heaò¾a brick# U ø¼1, 1, .01);b Äscale (size)ë v 5to 7 ` †:Clone()l)	·!["½""]i 8lonÊ !tox_torso\ Left Arm_ left armb Yc r€ d Æ ?LegÆ 7legä„Æ c Æ d á:çh+	QaõRASetstª
+;v plra
+	X 7objX OplraNR„ Ra†bHat"))Oba "Hat_¾¬Kz XVobjasYJobja9	£'=¦(s) hat(s)Q¸` qŠ"asÅpÑoh§L hats@§ònd -- All "end"(s€ñarrelel blue highlighted word such as "for¸ÍB"if"À V BU AT =/ 
+T ?Ò- ¦;ø =á
+
+
+
+-- *THANKS?:õUSING MY SCRIPT* - MVÁ
+
+--[[
+Note:}Çqs below öng to me.
+CREDITS
+–
+“ô(
+BlackOpps2Fan
+te11em0n
+
+R.I.P. - murdearm4n - my firstéƒ b...
+
+AV|s I ownT-\'3,Š _
+--]]£ÜÃÓngfŽ%--Z6i,púÖræ<p®s~= "yfc L eL p: [
+if esdŸ
+e.HandleÑ(#  O.X), Y gZ/50))o Í‰R  3
+h  f aParentä4 JZ))
+ GMeshJ=mO5ãlockMesh") 
+m1W 9 = G  ð(3 
+:l.X/4), ïY),1e-999) 
+m2 
+2  ŸTorso 
+m2‚ 4 ‚ <2), 8Y/2„ 3„ 
+3„ Y‚O 
+m3‹ ; ‹ ,), ‰ 4‰ 
+4‰ Dˆ 4ˆ : ˆ 
+ ˆ 5ˆ 
+5ˆ jO 
+m5‰ ; ‰ 
+ ‰ 6‰ 
+6‰ òO 
+m6ˆ : ˆ 
+ 
+ˆ g@
+ `;Ü^i@ŽDwho 
+Y,= ¿Ó'µv') 
+ply´=s[who] 
+­=W= ply…A 
+pgÞ=!yrÃäerGui 
+
+pcall(nJÓ() pg.s3dgui:@¸¦#) Ó=gui™EòScreenGui", pg) 
+guiâ2= "M $" ÙJ!baÜŸ
+!>Õ", gui) 
+back.J?' ISize# 11.5%  N BÆ˜qSizePixÅI0A ‘ì@ !ReŸÒeblack"Q 7 ó‘1)aš
+æ *J¿, back) 
+idé 2.37È 0Æ i¤“Ò;ã ë /idé iûlgroundgJ¤new(0.25,  5™ ã A0.05U 5G"i$ ö 2÷ ð ó 2Þ	ßþ « 2÷ 2¨ø fþ N Ýú 2û HÜ/^Â?öG²‘fñ100507604132909).Mertish(vÐ).àÔ<™a;¯6920033857y_ÿ¡ÿ4708818072).OaehÂéå€¢•283958138•@Ïendermean", ‘fè×Ï¢ÿ 15581949972).mcé¬]£¯4879817593êÛ~£aoß28437).naenae‚é§G£¤4709753802çá‡§i794620…fknife")'³tâËª:926³tËêë–™&.ñ2829943043):Run('%s','i bakedþ,_a pieSxåÚÕ™¿ÿ5115249013).fehack/éæk¤â317917339).Inf¹Çé§‹‹¤k$Ó‘ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿeîiîýæ®‚extBox =& kñ:WaitForChild("textboxbþg "ê©alineHe…xó= 15 -- 1è¡Œã‚ãŸã‚Šã®é«˜ã•&h5max/ 4225 %in ñ16
+
+-- ãƒ•ã‚©ãƒ³ãƒˆã¨ã‚µã‚¤ã‚ºã‚’å›ºå®š¿­„Box.Font ©¢ý¥RobotoMono$ ²$15šijq update”idSize()#¨tc®7gÁor ""
+
+	-- T ò
+unds.Y ã§è¡¨ç¤ºã•ã‚Œã‚‹ù ”ã‚’å–å¾—U eboundsð ] M _ ôè¡Œæ•°ã‚’è¨ˆç®—ï¼ˆTextWrapped + \nã‚’å«ã‚€ï¼‰_ ’linesFromM Ù = math.ceil({ /Ø ESizeø D cNewlinóôQfor _6€ñ ext:gmatch("\n"Ã„/		6  
+ +G¤	¯ ¥ Emax(3 À %,   )^Äã—ã¦åˆ¶é™\ 5newg©*S Ê¦# >œ~ = ;end9 <¿9 #inƒ bend
+
+	x
+Åk ".Xo,£=«"X.´¦.j˜ žg
+ä·rroperty·yrdSignal’j%")Dûï)peåˆæœŸg{è¨­å®š
++ U()
+§
+iIs6ƒJ.<×l@¶
+$ ósyndex
+
+box.RichZjafalse
+3  ¬P ñKEYWORDS = {
+	["Tˆ#"]& D, ["Ó	 Zretur 7the ‰
+	["else# ¯±	 9for &do C &nd Z ["if r f ["nil A
+	[" f ["tru” $
+}¸uBUILTINYprint9 +wað 8err½ v
+	["gam] Ê, ["workspac Fmath\ ¦
+	["string 4 ["÷m	 dj	 
+ Ô cCOLOR_áÃ = "#00007f"û  ú   j7f0000  eSTRING ? qCOMMENT  j007f09? eNUMBER o7f"
+
+- *³˜Â escape(s)
+	—ó s:gsub("&", "&amp;") < Clt;"ëñM aparseS…(text, iÃ1quo±¶text:sub(i, Rj = iŒç³ j <= #textË®‹c@ Bj,j)ƒ‚c == "\\Èw¦
+			j += 2ãÝ" ‚ # î j% 6 1×|Š|Š Úÿ
+ó OLong÷ Ô_, finish, eq¿ þ²"^%[(=*)%["(~µ/ ð¥ iænÁclosing = "]žî”eq .. "]"" 3j =u S	"if8Äsub(j, j + #\ „- 1) ==  5, 3x1<»*-o§ALine¨!)
+õ$ =Ø ?uout = "(iGW¤n = #line
+„ii <= n€¢±ClineÃò i)
+
+		-- ã‚³ãƒ¡ãƒ³ãƒˆ—	' +Q6"--¦y IrestU ²½ò
+out ..= '<font color="'..y:ñ..'">'..rest..'</font>'
+			break
+
+	 óé•·ã„æ–‡å­—åˆ— [[ ]] / [=[ ]=]#ifâ L= "[§ ¢endIndex =çôBlineÃV* E~= i;Ò 
++Ñ <P C).."â •"
+				i = êñ o Achar iœ¶€¾"..." '...'R'"' oô‡'
+‡ Èö 
+õ ãræ•°å­—
+Ê:2%d"A„vr	tQn and
+âDj,j)F d[%d%.]]eQâÎâ<j-1ÝTi = j¦oå˜èªžÜ _[%a_]ß 3wI pÞ  ®Iword®¾ û0S[word]ü7 KwordìÈp` 7 ` &°1worÔy) ( _^1 \¾Aout
+ ÿEl)É²result = {}#1"inî&´([^\n]*)\n?ÒÒtable.insert(F ,†d#·0	7 Vconca7 †ö 2×áx ã®å¤‰æ›´ã‚’ìè³¯ ã«åæ˜ 
+.b¶
+	žœÂ—#(bÌ.
+D)
+¾ «
+—
+
+=bEucusLost&p ÂenterPressed7	 uc Lx	 /	!\nE¡¦ask.wait()4 :Capture„ (ï—ëÖ
+!gr}zE¶òOfClass("UIGridLayout")
+if6 /ägrid.SortOrderM .7  ed{ƒÀõ23456789abcdefghijklmnopqrstuvwxyzI–X„ getRankN
+„!or>ß!10 õj	1firÕí¡1,1):lower/	Ridx =´ 6 ’, 1, trueÛ4idxÒp 3idxl  2€ 0	Ô ¶sortButtonsy b #q_, chil/“i÷½1Get†3ren®xã- “:IsA("Texb …Ko c )-* (so( ¾ t(a, b)
+{Era =¥aÙ b b ˆ
+„ra ~= rbH¹sra < rb Æ
+2é ­&
+ñã®é †ä½ãŒåŒã˜ãªã‚‰ãƒ†ã‚­ã‚¹ãƒˆã®Y
+A•ãŒ	 ò„æ–¹ã‚’å…ˆã«ã™ã‚‹ƒ #¯ R ~= #  " >! 
+— !•·Æ‚‹ ’æ™®é€šã«² fæ¯”è¼ƒ(s u2 < y  ÊÉgi, btnþ´8btnsA = i? s
+d
+9.6/Ad{›>ß I
+[ ï¸
+e ~Removed(\ g *†dÓ~—Ç«bUÒ†ò.commadbar
+
+b.Mousejn1Click5)
+	‚= "anim ŸŒ)hÓ}hc?bangÚgdOringiÚ8d^†8ÙhgtÐÚ‡9cQclearn•AÝ„qdŸreepscareßÚneOipplkÛƒkcdecalspaWÛØdoexplodØÛÂd?f3xªÚ|?c/fffÚWd/fixÜd/flOÝFÓæ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿû$`96Š/¶A/t5£logs = box Q.logsÊ°Clogs& 2rem‡@;boxgHR sEvent")/ ²s±Cgameº±Çs.LocalPlayeÎ±A7.66º6>not¾6 Ù4K9‡5Š P6á("LogoAnimatio²ë;E 9Ì5ü !4]  Ø57 ƒcmd, argG7<ò ^(%S+)%s+(.+)$"j2ánot cmd or not6 Ó6v483z Alogsˆ  í4 1 ">â@Qtext
+ÌA  , i.. "\n/ æ=ñô :FireServer(cmdŠ6Ö 8ºu"<exe™8Sú1ƒexecutor&-44 "
+
+ 2³exe.Visible@F s §adminpanel& ¢E¸è”¾ 4B s7 A›8B× 	Œtopbar")ã,HBºG A 
+P9P
+end
+PROPI   V	      ÿ   
+   SourceAssetId  ÿÿÿpÿ\(ÿ(ÿv(ÿ â	  þPPROP   ­      ï      Tags  ÿÿÿÿ‹P     PROP"           ð	      AttributesSerialize    PROP          ð	      Capabilities!        PROP          ð	      DefinesCapabilities PROP          ð	   
+   LevelOfDetail    PROP'   %       ð	      ModelMeshCFrame            PROP          ð	   
+   ModelMeshData    PROP$   "       ð	   
+   ModelMeshSize            PROP!          ð	      ModelStreamingMode    PROP          ð	      Name    PROP          ð	      NeedsPivotMigration PROP          ð		      PrimaryPart   ÈPROP          ð		      ScaleFactor   PROP          ð	      SlimHash    PROP           ð	   
+   SourceAssetId       PROP          ð	      Tags    PROPD   K       ñ	      WorldPivotData æå°>   €<p¿  #€?     àƒˆÃ1€?ÿø}ßƒÿPROP'   ,       ö
+      AttributesSerialize  P     PROP!   5       ÿ
+      Capabilities!  P     PROP"           ð
+      DefinesCapabilities    PROP    %       ö
+      LinkedSource  P     PROP7   6       Ð
+      Name
+ ðLoadstring   FiOne   Yueliang   R6PROP¶   »       @
+    ñ&ScriptGuid&   {AF30EFCC-1B84-45E3-8158-DAFECDCA5BAE}* óFD011BF2-DC44-4CF4-97F9-2F3E29587179* ò68A98C0-FF93-4FC1-BFE2-43FD6573D6E0* ðDB38F43B-B7E1-4FA4-98A6-E6CAC4CDDE0D}PROP½õ  s£     ñ$
+      SourceÉ  --[[
+		vLua 5.1 - Lua written in úVirtual Machine
+		- B cis a v. m. ó and compiler for dynamically 1ing' ñexecuting Lua.
+		It'll work on both client/ ñYserver, regardless of LoadStringEnabled. This module is
+		designed to be a drop in replacement for loadsM ÷+, meaning you can do the following:
+		
+		Example:
+			localE õ = require(workspace.Ld )4 Sable,%×eFailReason =T ñ
+("print('hello from vLua!')"Q K "()£ ÁPlease note,, øU IS SLOWER COMPARED TO vanilla Lua, although Luau does improve performance.
+		Do not attemptp to run& ñ
+ intensive tasks without tes òfirst, otherwise you
+		may have a bad time.Ó ÓInterested in™ ­ñrself as a programmer? Consider joiØ÷%Bleu Pigs - Scripters, a community
+		focused on selfj aand sh
+ñ off creations. Visit-ò2link below to learn more
+		https://devforum.roblox.com/u/bleupigsî Changelotô	[3222021]
+				- fixedðñ
+erroring due to missing sâ “ variable; ó
+removed types until Typedßómore stable/adopted: ¢added an hÜ Ruse e´ H	[37¦ Ñupdated  FiOn› ‘latest reŸX Amigr( ³Yeuliang tov¢ed versionöSMoons¢ó
+		Credits:
+			-f QLBI (šôed by same author as Rerubi) - Žagithub…qRerumu/¯ T 2Yue“ d5 (Lua©r9H C://y* â.luaforge.net/F · # (QØ %ofø N – •gamesys/mý 2]]
+xvuõô :WaitForChild("Æ 4"))9 areateEŽ/abB â"))
+getfenv().j ñ
+ = nil
+
+return function(s‚s, env)
+&§ Anv = 4or [ 21 ´name = (envo Fand  å:GetFullName()8 Åran, failurePepcall(¡ $)
+½E´dBytecode = Æ hname)
+i- =D(6 I ó
+)
+	end)
+	
+	if ran then
+		-Dend
+ ;nil¿ ‚
+end³T  öõbit = bit or bit32 orwT'bit'è‘unpack = Ñ. 2or 
+ 
+“stm_lua_b Awrap Cfunc +  ó
+-- SETLIST config& ñ
+FIELDS_PER_FLUSH = 50
+
+-- opdf÷cvalues@ & ó_t = {
+	[0] = 'ABC',
+	'ABx      0  Ds© y I 	 B ë }àOmOõ{b = 'OpArgR', c gN'},
+	 K U U> ] 
+> | 
+] K| º | 
+] 
+º ø 
+> 
+›  ™
+t
+6 9RÑ] UJ
+| ð
+ . t<NÁ› 
+> 
+› 
+>  }(òint rd_int_basic(¥
+² src, int s e ád)
+-- @src - S}‚ binary 9  ñ - Start index of a little endian integer/ ve - End- 9the! d - Direô! CloopÇnÊ µrc, s, e, d´ñnum = 0
+
+	-- if bb[l] > 1277C -- Ónegative+ 	9 Ònum - 256 ^ l B =J Q- 128 Ôend
+
+	for i =ˆ F do J +5R.byte° si, i) *c s(i - s)L ÐAnum
+ q-- floaÁ$flÁ¢byte f1..8¬ñ
+f1..4 - The 4 bytes compo¾˜Q W ` åf1, f2, f3, f4Yõsign = (-1) ^ bit.rshift(f4, 7' 2expU	 q3, 7) +3 l3 bit.band< …0x7F), 1C šfrac = f15 _f2, 8I 3I 6J ±normal = 1
+<
+ 1= 0
+S
+		ifm  >
+ð ‘* 0
+		els÷
+O Q0
+			M B 1
+	u
+Gelsec ?x7Ff a(1 / 0l † %(0  "ndæ
+/# ò 2 ^ (exp - 127)U #+ ´ •/ 2 ^ 23)ZÓdouble rd_dbl[8[8[R \ a 
+\õ, f5, f6, f7, f8¸Ó l8l
+X843¯67, Öÿœ‘q7, 0x0F£T ^ 48d
+IL7  S+ (f6“40) + (f5 "32 4 2Ž 3(f3 "16  2 à¯f1 -- help¶a·hƒ023) * (k+»&52»Ô/leÑÊXV¬lùcs, e) ×
+’Ès - 1, 1
+é bé A?big°æ bæ ã Gs, -ç ”…ÒË%
+“g Ÿ v ‡£üÇ–s, s + 3)­_ Æ ¯Æ %¦d Ã ƒG
+n? = Ç N†£31ê<²Gh ð  w 
+³kì 7³` È ´De Å µ
+#Å!7)Ü
+8ameÍ#f8h6U 4ä	Ý£to avoid n&ôfs in deserializingÎ Rloat_„bc4] = {x=vle, big be},
+	[8. Ù. À eÏbyte stmcñ(Stream S)
+-- @S– áobject to readõ³ ZE 0idx = S.Õø+bttÑS.source, idx C)
+
+	6 ¥ = idx + 1…%btt	”{  Â Œ
+?lenË ó-- @len - Length ofÜa beingö ñ v ,k Q6posø d + lenþ 6strÿ 7subþ ò š, pos - 15pos?strlŽ Æ,H Ñ ålen = S:s_szt( 2strR	Tlen ~ôä *s, 1, -2í#Ø afn csth=rdr•qlen, fnãÀtype for¼9üfunc - Reader callbackÙx h Eunc)~‘ ò	 Qint =D í7)
+	ïFpos
+Œ2intŸÁ  /flcx /flü 
+÷ þ.(fl-	±stm_instrucñ“$ Csize´'in´J'{}l"1,/ 'doµÃa:s_ins¾W (opÞ–ins, 0x3F¶cargs =Oe_t[op]U m| ö	 ñdata = {value = [ n Xop, Av 
+& ²6), 0xFF)}
+„„ š6	data.BI 	!23J !1FÐ 1 C1 	.141 áis_KB = mode.b‡ ÃOpArgK' and † >² Ñ -- post procF!µptimizationƒ Tis_KCR cR CR ^
+xxÕ 83FFDis_K„ 	Ö r ss st „ - 13107Á
+		code[i] =@‘Bcode ¤¡constant1nstztÄ6þk‚utt == 1wkõ0 " ~ôä. 3. „S:s_num(Ä' 4' ÷ø, F	Ë 3ñk -- offset +1 du– 81 deD= TC Yö subfuncs(S, srcy?subx
+2sub¯ Ó Ê] 
+Â «in CLOSURE
+?sub° lineinfo')õk	$Oline  ­ "+t(Ê" ‹ _ocvar’* 9" Ž C{varF˜, startpc³ Z, end }:] É _upvalÈ ) Ç ! Æ 
+» 
+’ ( ‘ 	è2pRprotoz ‘3src!Q or pÜ"- ñ is propagated
+
+	I . *= - vname
+
+	!--'Œ defined :ast  ` 2numä £ êSP Anum  7ues/ _param/  8
+
+	}í-- vararg flag ‘max stackËù 9s1ˆ  w  4sub§ =# 8C ±¥ ÂAstm_
+AJfor _, v£&bpairs(q Rcode)ùBif vç"1	v.Ç 4 = - ×nst[v.Bx + 1]•£for 1 base–'
+	X Bº V ._BX ! -]ô< C< C< C< 	Ë ÐÄ :a"(:!--°;83rdr_"	PAaderCsQ¨ Qsize_Áo:_sz %in> 0 4num  Aflag@ ‘ sÖ
+Š#  ,3	--	qˆ = 1,
+		²Ø,
+	}
+
+	assert˜
+I Þñ
+== '\27Lua', 'invalid Luaèyature')D ¤B ? K0x51; /'9 
+6 ²format')
+
+	[	q L=k
+ì“  )sz¶
+ ð:  ¡– $
+	4$ =84and¯!le!%dæBbe
+	” .* =M$, S )0 Ü ¹/sz0 ï 
+0 8ins0 
+Ñ†&
+	¤ 
+D 8numD "ifjÛ[œ Onum]T á, ,B [Rand ' ³' or 'big'] 1
+		*Ò('unsupportedP ä''+‚!uaî(•R, '@v."')FÖ†Qclose7 ˜’ues(list,)…Ai, u†…Flist"uv+2 >=5  D	uv.”uv.store[. ˆ  $ 0  C= uv '& 'êÑelf reference.2ist†5nil‹€ò Hopenñ ð r	%ckAprev1st[Š ];2not u 1= {$  $, Î ™$}
+© Qndex]"ev¨ Ä 
+>(Åvariadic(...§óselect('#', ...), {...
+ þ \•exst, erró h	Cexst6	¶Dline alines[% tpc - 1]& pS"±pline, pmsggõring.match(err, '^(.-):(%d+):%s+(.+)'ƒ ñ fmt = '%s:%i: [ Q] %s'R†  or '0'
+	
+=
+
+or '?'
+	‚ 2 =  * ‘ ˜ ƒor err
+
+f¥ ½A(fmt!
+,ð	,\ 	× O), 0RAexec`¡func(exst)‡"izß´easy lookup:«	UÙ
+2  	 5subyï+txst.env. Dupvs¦Ò0 våI K
+sUstateÛ.1 ´stktop = -1^ Copenb šw
+Y ë/ $pc‹ ìpc
+
+	while truµ¶t = code[pcx{ ¡inst.op
+		L Apc +Ç!µ	if op < 19o  & 4% ' 2 ) ýò				--[[0 MOVE]]
+ 	á [˜ !A]Ý B% +"D 1 LOADKE O ©
+g M"K Ù >² Q--[[3X 5NILZ ‰$Q "A, BB do¦% a k ï 2S 6BOOT â ò T ~a%æ "ifj CQ±n !nd3 DOop >76 ® ¦5 GETGLOBA¯ 
+¢2env°a¤—6 GETTABLìÕ
+· *àu ) !m $_C7 ê
+ZC˜ #6 ! { #B]I, 	Ñ2	GÇ--[[8 SETUPV0å ’uv = upvs+$B]ñ º 	ˆ A¹ á }--[[7 Sš‰
+=H "Û {--[[4 G¸ · )9Æ \ 5Ž> 1¢1Žq>< 1Ak10 NEWZ  !{} ‹  âu11 SELFáÖ
+AgA- B B ›ÓÄaA};+
+¥ Ù
+~¥--[[13 SUB(qlhs, rhœü½Ù'$hs;ºAØ% § H Ç ³	d 
+!rd d % d d  :Qlhs -é „ P _2 ADDè+_µ>à	<+ >< 1„e15 DIV^¡z	t
+{WQ
+|‡¢' û~Ö ( ä
+€\i 
+i ' i ƒ	i ! …/j	T ‡F6 MO‡)ë%)”2j>€@U8 UNMi- 	U7 POWB $ß^vût;dT4 MUL"!`	ÉlßC…# ©É£	¿–½_ # _ ¹; µ*S z--[[9 SR!, —û* ]g Ãº ^  
+^ Ö^ # ü ^  A€# =Þ øS  )
+ 6< 2 Q2<
+2<
+2<
+d20 LEN§ G = #¸ 1¦ LÁ–21 CONCATH Ãó$Á9 	ISB + 1MCM&6 ..ZN×	®ª 3str[ d¨ ;>•--[[23 EQ² ± U	‹, 
+SŽ	¸xnd x
+d “d (±= rhs) ~= (X qA ~= 0)øQ*26U2 JMP73 O 2sBx…„ùª	2	>25 :°	M
+±²ã ´	Q	i 
+¶	<»<»	Ù óW6 TES§tif (notbanst.A]­o		ë	Ö{ U8 CALùœ	
+f‡
+e C† Î… X ¡sz_vals, l ?ï B†5B				@ -$- ôÌ& RB - 1æý  s / =R 
+2A](Ð? !, » f 7)))³ C³ :CA + z — ´	 8= C" Ò%1,J ÎQA + i# =Lˆ<!å7`&SEc£èP ‘BŒ. 	´A ’ ú9 Ÿ
+RÈ 54 LÃ Â jf¬	˜ # üs— ß_ 	^îl_ _ # _ ‹ì  T8	ë” !34Qm I3”3”‡30 RETUR—„
+Fî
+/ ˆû À"0	&h-£4 m* jèN+ G¦f/		: Á &.1ize.
+¦ Ì£1 FORLOOP]RX
+Astep¥ 29 y" „] + step(¶Blimic G I‘EloopB1	ifE ò == math.abs(step†\ 	5 kbdex <=h  ý + >+ B	if X 	wº uk
+s j 	 T + 3]• " %	P3	 á;¹
+3Å<3 TÆg
+ Ü/¢”  — š! é ! Cbase†3[ v!+ <+ 2	 h— N  ].0Ý3 ,° ð-{½ZŽ Ü“€ˆ, 1] ~üØ AÖ . ¾ †«–2 ä†2 FORPRE©nãRinit,ÿ,;#sinit = ×$‚tonumbervò[A]), '`for` initi¶Òue must be a 1 #') bQ @U . M ] TL - K  ™ zœBit - ž  ü —¼S ¯;Ù
+ï6,Ø5 ,ÿá
+w A{qY  …7 VARARGÙ0
+Üa y	 8= 0¹ àÝ.;W	þ< _
+2izeÝ
+€Brgs.#†f AB6B&URDê F.4sub^‹)!nuL6subj+	a euvlistYf2 ~-' W,@ `5 V* \ fpseudo¢ to Œ& 6.op£” -- @MOVEk  [X
+Œ$BQ "B,þ
+j6q âq (u æ_ 3ðø@ j5nup½•.®âW
+ú!ub·N", |Ç ©
+Ni @4 M]— ‚Y CÉo ê>1 6tab+	_ e1Î
+i	l
+†Fif CñÊ 	™ B[pc]' KdI „ A = (=) *öM¡ ± stab[i +.2¹
+¯uµK
+g9 TAILü.s É  ®  {	¿‡ á¥„
+0Nú2y"'›Ðu ˜ C9 NOjM qè˜%· b%íà' t)ª #Dtate%tpvals)
+
+#t_&B	
+&#t_& &6st_”/Aate. V RsourcÖBate.   7num¸Eate. 
+' Ï åexec_wrap(...)881l,v&
+ sizevarg±I* asz_arg"·&5ßn o Eexst
+ !okÕ(q
+ˆV%*1,ß K“q çj&	3 < ˆÂ  -g 
+h0 mrp | 	o %+ ÒF_|P#		? a = {li  f ! =¿‚varg},
+	“7ŒY FQ_subs /'   %   ‡(!nv s(K$"alN 	 & A1,
+	Ø/	®]TW!4,é(Ý*•%ok·[1)Ó1!on—)ù*ÏG Ó-- explicit " ‚nothing"Ï¯+¤ Qwrap
+œ- R(bCodÛ)3 	TA(stm• Ë13 )ÇU!0)m*Ò¥B -- AdapteÒ@ÿ the amazing Yueliang project
+-SW
+
+
+--[[- 0ó
+
+
+luac.lua
+Primitive luacßW’
+This fil¥5eart of² ò<.
+
+Copyright (c) 2005-2007 Kein-Hong Man <khman@users.sf.net>
+The COPYRIGHTd describe-ñ/ conditions
+under which this software may be distributed.
+
+Seec‘ChangeLogŸ?rmore in.,oion.
+
+C0_---]]’8ã-- Notes:
+-- *ê4!on–q.lua inÜ ätest directory{OV5.1.22ionG ¦usage: luaI Afileû- 2 3¡
+-- load a}PK"izÕ^^dî^sÅ43--
+Ë^2uaZî Y X P U K Qsize_ at = 8
+0J“currently[rs are eÞ_r becausÿ ñcodebase hasn't beenT^ôed
+-- much (if you don't wantW Â, just commej3cm out)ü T lua_åeB1wRthen ”"& ¡\•ailed!") Ç1Ü ñdofile("lzio.lua")ô  3ßrhC”() should­Ka\E’, or nil Å hing els’]âparse.
+--   Adq!alà6ô can be set onlyÑ=¨3ãE@¯bReader¾Rhandl­_Ñlauxlib.c, sebòL_load(file|buffer|àS)Ò ñLUAL_BUFFERSIZE=BUFSIZ=512 in make_getF() (locì]i%Sonf.hF „Original‰Dqtypedef\ò  const char * (*lua_À ) (lua_Sd0A*L, VH2*ud¢‚_t *sz);ª #“Lua chunkÊ8¡ implementkq ls–•ñ, no arguments to9» 3é5o{create ñ sfrom a ¦Ì›7™$Z:ÿeS(buff{…b = buff¸6 (‹<	 •anonymousnR here§	Qnot bª	³0EDab
+		b ÇŒ	9B?end{_Ofiley7&--!	|F¼_=¸b = 512^! µh = io.openB S, "r"G £/ hi “Ý ? c Áor io.type(h£ ß"closed file"‚ Ì ëbuff = h:read(û Ð o - :!h:g R(); h=2ž ß É  Mõ ¦F¨`
+‹ †¢5K1…9U 'ÎÕ =öý :sub(pos, pos +† r- 1)
+		€ £math.min(#3¯%9 )\üè:ØÓs a zio inputë3
+--	šÿZIO structure, z‡ 7‹àRinit(Ü,’3)
+	  	£4endèzq	3	z.( =˜C
+	z.¼ “or ""
+	z.ÍC2namVZ‹set up açK5ing‹ I  R== ""— rz.n = 0j
+ Q#dataíB	z.p>ðzñ3¹cill upËf«Eefill(z€'()yÄ=) "or =T"EOZ"12n, 6#. e- 1, 1AsA.subNúR 3²
+-- get nex9	4actü3thej5"* 'An, pÒ"us’kJÏa gener)	ŸEWzgetc ‘ %= T2+ 1“& >­ 2= nnpŠoS„, p, p)
+!ÂFself
+4lexö	-- FIRST_RESERVED is notú
+‘as tokensTqmanipula]
+õs
+-- TOKEN_LEN deleted; maximum lQAa regmad wordj _neede¼<t"ORDER Õ "” Cenum Â in one plac°$X.2 7
+-- termúsymbols denoted byò	s: TK_AND to TK_WHILE
+--ºl
+H . CNAME/ IEOS
+Ç c = [[
+S ñand
+TK_BREAK break
+TK_DO do
+TK_ELSE@
+ !IF !if !ND³TK_FALSE fa+ õFOR for
+TK_FUNCTIONÇ	r
+TK_IF C âIN in
+TK_LOCAL®¢
+TK_NIL ni ÒOT not
+TK_OR U ÁREPEAT repea ^%%
+TK_THEN
+ òRUE true
+TK_UNTIL unt_ OQ whil ö-2 ..BTS . ÑEQ ==
+TK_GE >	 ALE <	 BNE ~	 ¡AME <name>º rUMBER <t  ‚STRING <l ±EOS <eof>]]|?NUMz;À ; of%”8ñ-- Instead of passing seminfo,ý2TokÿSñuct (e.g. ls.t) is1 Õso that lexer s×ò use its table e¬,F .k 
+Œ ’SemInfo (ò£ no longer&â, a mixed-type0“ is used)D ° B !ofh ÝÓls.lookahead)'ÜB  --æ¢Eœ  ˜semanticsÖr 2Lex¿	u w; ls isSðluaX:setô	† “j  óƒ(charintæBlineg0 I ‡Aa countxq   lastB¶K!of ê ¢'consumed'î tN ~ (³:
+[† J7 Qlook Y^ : !fs3 Q'Func8'KQrivat'„the parsÊ 1L -It- ­ zC û  Û1 --	 !tË ¤ == ê Ž
+9decpoint8áocale decimal  ‚ ‘nestlevelM 
+ $ofZDnon-ösM44áÔ ² (was luaX_ •´now a hash;aX:init‚ÒX.MAXSRC = 80.òMAX_INT = 2147483645  "--ºBantswòelsewhere (see above)H ö LUA_QS = "'%s'" ñCOMPAT_LSTR = 1
+--Å ÿMAX_SIZET = 4294967293
+/4R~›Ho¬<init hasdC3 tomo4sregisteFNsF Å yŠB* ->ÿ  denums:i‘-> TK_* (
+FX:llex)÷ 7Ù
+ú$()®
+¯ !, — º
+Õ, {}
+	for v il
+gŽFEself	², "[^\n]+")$qó_, _, tok, str =%ñ.find(v, "(%S+)%s+ R")
+		† R[tok]0 1
+		’ ²[str] = tokÁ
+	‚ 0  3ens 2 " =Ì ?frÒs a suitably-Ð¡ted chunk ÊAor i6*"¡lobject.c,˜¡ in llex.cQ‚ldebug.c#óthe result, out, isÙ"edÞUfirst´&FÐ 2id(T,@þ\4outC’ ç5sub6 ™cÝ% R= "="œ	O		ou7 2p s7vD Bcharé E "¨ "nC"... T9 U== "@} 	" o¸ !2)\ Askipôs'@'
+			$ =Ñ - #" '...' "ZKÇB = #` $
+	è "! eif l >@ othen
+	Ž t1 + l -5 œ …get last3fil¶	t ‘out.."...| ˆ(2 ¤ ’O[¤
+" " '"]Ü   ÓE ¢, "[\n\r]"  sstop atµanewlin› A 1lenÿ(FX1) or4k%("š ‘\"...\"] @1	if™ 
+Y ¬	ÿ "I A <„ ¤ámust truncate?­B=x1, len)yÁ49 	˜ —Q"\"]"dö|D outØ… 4§-- Support¥8for2all xòs eventually reaches  Òror:
+		 synta 5 -> 
+	3ø 3íRok upª•n1key–òif found (also call¬•
+„Fæq2str(lsQ"en…~Asub($ t¥3) ~= "TK_äô/©, Q"%c")à
+p3ÈÑ±("char(%d)"Ä‚ing.byten )%$L)Y ”¥Aelf. !s[ ]Ì˜>‚throws ah¤N"xt®Òhas been madeÅ!}AuaX:
+3 Bcan'¤õunicate LUA_ERRSYNTAX, so it is unhó 3­	 6msgl	. ë ) o)ü y¥c" or
+	t	 œ ÊT¡52ls.ðÞ 	ø:v 
+»6Ö¿ ÅEselfr4ls.Rì	Ÿ±
+\msg =¯¢%s:%d: %s":V, ls.;;™ ýL ‘ near "..€ ÆC ,RgWT‘	-- luaD_z(ls->L,=)<Q1msgŸ&Û;y Ÿ
+	 (mainly¶! *
+¦ò$tou!!byúascalling42lex÷õ
+Ä˜3and" !"inA&Ofile5F|¥l M þ @±move on to 	&3
+(rcurrIsNf	(-’ls.currenm\n" or "r"XïÓ6incEV ¸Wold =E þ_’$( ƒƒnextc(ls$
+rkip '\nÍW1\r'+Ñ ™· d~= oldÊ4 ] $\r_ 4\n'~Ê é ‘	D" >¨»z u"ÍRao many’#s".>ØIs an
+Ï	#Ó * if ls (the3WstateÁR as aŸônó!fiú2in,ý@…1?tretrievH ‰Rvalue˜rLUA_MINc%õQused;á"er½%1ing yony morCF„£(L, ls, z,9Qnot lƒ!n v-a{} end#–$¥Ä. _¨•B 0 t( tŒcE	ls.„ñ = "."
+	ls.L = L
+ f É
+AEOS"ž 57ok-7 Qz = z
+ "fs"
+ 	2= 1 ; ¡# ="`
+€Creadþ
+Bchar`¸9ÿLEXICAL ANALYZER_„¤checks if ˆÊ$#is_ ¿e set 'set'Ñ 4-‘heck_next"6setã01set#¸ f1:×øÚ	tave_anda Ë/Dtrue 3#neà	,u1ingÄ aÂif necessary’Bnote±‚the macrµ«±
+wâî> •utilized Æ².c (variousVs÷FÎ)°	Äk—182&&Q -- iíMre a?²?
+		-- this²be copy-by-ç!		[	2ˆ û B -- \-Uis on7 Å—5  Y ÑÀ ñ‚lÄischarge it
+£” H  ÍÉ
+Ã P'adL2­>DfillñÏ  U
+B:con€¶ 3yx÷	Ýß	C =„„A ¤qø )?1getÀÊr™c’eturns itjï/ #()ù9cnotes $bbeginnT	 3‚`~u2c =›'Q$1ls.ô% E = c÷cS?BsaveTQgiven½.ƒacter in¦\î&# *ÒÓ	CcodeÐ!d,á	4†	».Ÿ"es|h@$f u lengthJ Q, mak§ ‚ings fas 3!
+Asave?nÓ’-- if you2%toòñ, please uncommentYañfurther up
+	--if #^ >d( ‹1--  
+è„"lexicalh!ò  too long")
+	--ÌØ/..=D	 :¤6q, grabsˆb	7likl%c,É6the, n*ô¯convenienc5Gíç²)œ" ß\>3LUA¶8’uaX:read_í&lÜa main .ýþyao$C bstr2d,O abuffre+' 5try¦Care „gZ sÏ
+7J 7#--K¦Cumbe7BrterqQluaO_û Ïù"*…‡#,ð4tfails (^ /{“a booleanE «l’‡unction 7 1luaƒ ` Q(s,p)û$¨
+›9‘1map…Gvtrtod()Q úby default (from³4 3Å8%(s¾Ü¹Ì | ~
+%x"#QailedÎ
+°Elowe”f‚, 1, 2))â'0xÙ
+Ômaybe an hexaÊ#S	sant?
+		Œ ¥ C, 16Q ª q#moç7bon casÒ˜ñ Was: invalid traiOšsURIn C,
+l ¦skips over> sspaces.!ru+<?e¸ˆ=¹)iRexcepT	B I%2rF ¡still someKB 
+d 2s aø)‚ 2Allº (
+te
+3 usw™%'sV.[	L O nil´@eingle-f ´Qment,%\	ke-awarØ%±8ÊW<=‹from, to&,=	Q = ""HoRfor pšAz#c‹/Cp, p»Bc ==ÅRcˆaõà3..cŸÊ ¥?aAttemp	t­Kô by translating '.' ³2poiµ81
+--è	 b
+ÐÌFe. T¯3
+--W*6 in@+as¸(*salreadyI @.@+,ï
+2is V¬ Fuserî
+sG conv().
+Œ3
+Ž£y
+ ù4ƒ: try toD™
+q¤ separator˜
+ÿ
+¶ï Æœt to LuaC	:B ãÉ lconv *cv =% ;% Dls->x ± = (cv ? cv óimal_point[0] : '.');¬„1oldeL 3tryd
+ -Só61)
+	e.% M-A
+	if¶ úÉŒÕ with correct„ Õ B: noYA"op«AŽÜ × R, "."Ü òundo change (forüq messagq˜M “malformed-	"",X$ÝE¨
+‹"EsionÙ£
+g"^%w$"Â	!cah 1ord´)ß detect "EOZ"gEkhFY!)Æq, "%d").â0ˆj È0À
+G 2D")‘] ""b."
+	if+B"Ee"áÉD'E'?€ * #+-H}óal exponent sign=Awhil£ ³)‘ "_"R*ƒû  · í""..
+É€@J forKËŒ­Ë)+  VJ†s0w?end…?8couÝas ("="üa/hr delimiU% *\ÙùRlong_ÜaEƒskip_sepñt)À 5= 0ÌAñ-}a == "[
+ $]"¥p È¦2 =¥	”  2+ 1¼ò
+(P ä- Qor (- _) - 1ð?QreadsÜÜ"orë¿E'$U, sep!coÔ0ê
+—c¤+w2nd '['Ø!_1 r starts_a *¤
+ú ; 2kipP$ndBtrue¬JËœØ„%c/O;ñ+¼"le%)°²"unfinishedN" or
+				  °„õ} [{ ò--# compatibility¦
+L+ù$ª1» =‡q == sepg¥ â ´\ëò(¡c© Š 
+« G== 1‹ ( hp == 0 ¤ 	†ò"nesting of [[...]] is deprecated", "[")¢ 			 µ ±(  - 
+	À]À¼
+~]Ö.† ?g ”¦ 8== ì[×Þ1- 1	U ”Å©Dnt >¢s break (h« ' 5 
+0 B
+“$	 ±2"\nÞ 
+!Unot TK( î¬ò end -- avoid waOh“ LŠP L | 
+<Ù K.# Eô !nd+¿!--º	d ­Þp = 3 + sep
+	ª*Ö?á N-i>„A”ð×»+"reAuredc
+Qifica¸KÎrÞ?5the:! CÛÈ7ÞÉ­ Ã6delU¡Ä ‘”?delD2˜ œ 
+“	Y aSTRING2ní&\\±—	¯’o not sav$!'\ßŸ : ªgo through.…ÁÞÂ« ~˜ó -- will raise anY"!loW{ù vescapesÖñgreatly simplifiedò:Ÿ kïžQ«
+Å"abfnrtv", c)5i›ç{’ñ"\a\b\f\n\r\t\v", i, iœ/û 	ô sˆ cqt 	Ç#z›'áes \\, \", \',³\3G4A\xxxÏ ¡	c, i = 0,ž&		×ø· = 10 * c +; Á
+Æ v		i = i%ai >= 3ÖLÅ$Œ	é \ 	Q> 255ù Ý ’UCHAR_MAX#  
+ú’ sequenceMCargeh’J Æd1!c)¼P ìY§C å0 Ü '¼
+ì_2, -2 @ÏXÃ 3ko"T>3ÉªŒÃ› -žÖ
+$® 0ýœ-›	‘* ä k	1-- íDis a€
+ísjg#-1M ú ÈÜ‘!['xj. % Ô
+ °É'# ±' may dirtycabuffer$	LIpS
+P f ¸¨82nilg X
+9 ‰ e É	Bshor740 çnøš "!dop ~5 | =#³˜\~^É ó2SY G== -Â
+0 [( G ÍIE"aÀ/³¥ LDå<ã© 	Ì€~* c=ã 96 ;# WTK_EQŠ +•‘ _== "<å ˜ <» /LE» F>» &>» G» G~» &~» N» G!\"F>'È õkˆfc
+ö×
+Ï+Ñ.“ ŠU	’ë .t¡% 
+â"QKATS" U1...D 3ý eCONCAT% $ Å¹H¶
+O ë?	'…éLl†ƒª 4&O~ ‹=áH² ³®¶q ,Ìm
+aƒ&ósÕ±/ü”Ži=a da 7 ‡ ½ X[_%a]_ ú-- identifier or!LPw
+S
+Ð²/orA[_%w6ø	"tsþ«" #ok¡.enums[ts] ‘;
+
+F!toöÃ	Pbº.stciLBNAMEÄ		´öcg %$\,‘s (+ - / 3e—
+Ÿ2Ÿ*—Q²]Ažs¶]O[[
+= 7£
+	We assumú2"ina#ioÝQeunsignìQs.
+	A¶0( ‚have an ® Ò0øfirst 6 bits.
+	IZ 2can6 
+"RfieldN»	'A' : 8? (w'B' : 9 C rBx' : 15 Q ('B'™Á'C' togetherË2	's+ Ü dBx
+
+	A ]xGcpresenõ½’excess K;(4"isâ#— !
+	ø2Y+: òminus K. K is exactlµrmaximum( R
+	for^ ˆ 2(so L-max– Bby 0€+ (
+	µ ¢by 2*max),$*q is halå'z s ec"¥sponding
+	Â Š .|:¹còluaP.OpMode = { iABC,BiABxå&1iAs 12 }­Qbasic’x¬»$/
+
+<, 
+-- size@1pose4 ofä0_ï%Ÿ* WARNING4  prd-code	?oscript¹ 7P·SIZE_C  = 9 B xO21 '+ . : wA  = 8
+ cOP = 6 2POS 0" 2POS3 N  \ &OP) § ) A( A' ½ ' 
+« C' Ó _POS_C;ö s;"ì
+wÔ'" (I)š¨'to!WF mosÙsC=Ý"eyE7ñfit in LUAI_BITSINT-1óA (-1z 1sig2. 3>9±moved "#if ;¡Bx < BITS_ "€3,*¸! iøN!ru5Q on aÛ'"VMVÃ«1 or!as
+Cd
+<¤MAXARG_Bx •]qldexp(1S0š"Bx! 2 ¸math.floor( DBx /ÂKí#isà
+x Av Au ð¤¥ / C^ C/ 
+-- creaW6R mask:C'n' ú&atƒô'p'
+-- MASK1(n,p)ÇX,Ÿ	arequirŒFV 0PV 0V 	_
+--[[y1•
+	Visual ¬[áõreference:
+
+	 31    |   0	 &bi#A
+		+£   +
+		|  BU C A aOpcode 2   ‰‡)S e-  9   8 1  6M - à$sS ’|   [s]Bxö ¦ 3x |"® n4/]]_;
+
+=ks helpE}
+!Ã*Dd to´B qQ`Â, very clean #3red>.ó  the [nightmare] alternatives ofÁ05; or§B	a-eo7afrom BLQC, si6.‘s never aµ*Â3´to split BxML>1 orÍ±^û;9A/Qse ac2BTÅìÌ°£'rm8¯Ynamessô P:GET_OPCODE(i)Ö
+?"ÑROpCode[i.OP]Û!
+: S: q, o) i.Z= < o9 t WARG_Ar ?i.Ac ) Á, u) i.A = u) S BS B* 
+¶ Åá(i, b) i.B = b) S CS C* S CS CS )BxT /BxU %BxV Xª 	sX -–ˆ¿ > xÂ +> 'ôCREATE_ABC(o,a,b,c)
+±{ ‘, A = a, y‚, C = c}2)
+XZ xZ Y ¾ T J 0þ ¥.Ò6rom3ÿ(for OP_SETLIST)Â4/--xeInst(cX+Ê{a % 64
+Ë‘(c - o) / )a$ 7256% Ba) / LJself„b a, c)«R0 Ö
+Ÿ6c4-char< <¢-nÁ"en™
+Õ
+†
+N  0g
+"(iý8‹$--•1§to OP/A/B/Œ1 ‚% 512
+		r( ‚- i.C) / Ý£1I =î´* 64 + i.OP dc0 = I¿) C) s(I - c0Ë‚×¥ of A leftH 1H uB * 128I 1I 7
+Jof CI 2I À Cc3 = 2D Xÿchar(c0, c1, c2, c3[@gdecode[
+T«Ø>
+P à
+R0 WD˜ ½x½Fbyte.QDbytePi`J ¡I = byte(x¸gûpˆC64
+	Œ"op#. d2) * 4à"op(2ß)c0àaW ƒaV Ò¾V IV 1V cV '#c
+® d4) * 2® c)4 --o
+Yof c2W 2opmŸ†VMode[<{r<Belf.. ñs[op + 1], 7, 7))]) „3EiABC
+ºÕa * 512 C¿Ë/ i%?QMacro/>ñoperate RK indiceÙŽ\s×ƒarithmet{bead ofÎ/psÓ7
+VHµbit 1 means›=3 (0 ¡register)
+ø_BITRKnBþm] aest whuÂ"d UUISK(xÅ
+xPr HlFØÇQS wNDEXK(rV T	U × MAXINDEXÜ  " :1ode}#h ~ ras a RKÝ Ï ;RKAÑ ‘	Y Ð  3D
+-- !°Ê1fitP8 =7#dNO_REG1§
+A^;!R(“Ö r
+-- Kst Ž6(inº2tabóT! RQc== if ^AthenA îRK(x))\%?R(xí	8i7ô-- grep "ORDER OP"Ï;Œc these‡aN3À €4óLua virtual machineÜ‚s (enum m/):47Bname	â    args    deo
+:rOP_MOVEj A A B
+ ñR(A) := R(B)
+OP_b§ X A Bx# eKst(Bx& BBOOL& ' C& ô(Bool)B; if (C) pc++Y CNIL 3 Y 4...ƒ ô := nil
+OP_GETUPVAd 1 £UpValue[B]) nGLOBAL³ CGbl[· + STABLE… ¸ ’R(B)[RK(C* SU M ° A
+S© ¡ ) ~ S[RK(BS 1K(CT ?NEW+ ƒ := {} (•‚"B,. BSELF´Ø× %+1Ú;èç 3ADD9 : 8 fK(B) +” "SU†, -, !MUêî’ X *, 2DIV* À	M& /, /MO° %, ?POWX ^, 8UNM, m-?NOT$ 6notB/EN' •L%of- RCONCAW 
+ü q(B).. . R4JMP] sžä pc+=sBx
+OP_EQ ÎRif ((G=PƒC)) ~= AaŸ… …; "< +; TÄ ; v 	4TESx Aù; Qnot (±[<=> Cª aTESTSE7 3zif (R(B0 A Ú9ì 4CALžB QR(A),lƒ,R(A+C-2< 2A)(K AB-1)¦CTAILM I EP9 
+ú•o‰9 	k q2)  (se4,ev à”pÑR(A)+=R(A+2);! !if‹ R <?= È V#{7A+3)=/}` 1PREh` -` ; V
+OP_T ÁP Ä >2+CM¬ ­ +²b2nil« * } 3Éû
+fÄ[(C-1)*FPF+ió	+i), 1 <= i <= B
+OP_CLOS¼AŒñ  close all variable”
+4B3tacdU (>=) aCLOSURI 3ñclosure(KPROTO[Bx]ú knKaVARARG† ”¶O
+ ßB-1) = varargŠ42]]
+4
+!op¼ g3 --	Âjs# 	" ¡ -- lookup# 3 ->D, Û- , SM!->6 ‡;~
+42--
+J@¯4„
+for v iÒm1[[
+]	eLOADK 	õÌ%
+GW'¯ jI)
+âóADD SUB MUL
+DIV MOD POW UNM NOT
+LEN QñJMP EQ LT
+LE TEST ASET °¹
+‰Æû×b
++ê­ä
+]], "%S+") do4án = "OP_"..v
+	}
+Ud[i] =  Gs[n] = i) /) 'n
+Ô52endR3NUMGS9 /
+= 7#
+	ì‡ƒ	(*) In 1,Ñ
+YŸ’B)Kqp. C is+ö%3 ofás¤yt
+			and¼„$0:T á¡sets 'top'}fBast_mK¡+1, so
+			k8Aopeng•ruction (› S µ)
+32use] .Ò ÂÔ  ¤use actual¥#ofl2s aÿ+õ set top (like i#¦ CP?)o oRETURNo  öRup to§ ¦ É 8  2B =/ îkw S0&'i`(²' is real Ca F8ömparisons, A specifies whatìŠÚDtestË†ô
+			(true or falseô QAll '˜O‰' (pc++)Q) œ kOjumpÈ:Ö6R	maské$¼ ó properties. Thev'ñ is:
+	bits 0-1: opÈ ¨2-3: C arg j4-5: B 9 6:ò5set`! AO 3 7:©"orJRtest
+5)ÁOpArgMask:
+	 5N -©'Ã is not used U  R a‰ #orÀs offsetM K2 %or> / °4‚!A wasj ÷ BMask@ Z) bN = 0,) UCP SR = 2 K@}ª;te.g. tov!?òsymbols, luaP:get\A(...Ã*ãCode.iABC
+-- *“s¯paramete_ç|"s,p "çK8O´ %m)©	
+ Ä ‚[m]] % 4È
+˜LgetBH Ý&F =S _/ 16)Y CY '4X _testAY '6Z 2_testTZ '5128ôY_”ò] is set above, aÉf$ òf
+R¸
+Áof list item*óaccumulate before a ½ÀƒÿLFIELDS_PER_FLUSH = 50[;Xbuild{ ©S arraáb²deliberatelðG1%Qlook Ýïthe C equivale¥6UñÈå(t, a, b, c, mrCluaP¼QtCa•"
+	o
+½ÄMask[b] * 16@, #c]Ÿèb2[m]zD  œ ³s = {
+	-- T^4mod""
+	% (0, 1, "k $K"
+ ÁN", "iABx"),ä
+4-- m; U; 
+ NiABC; OBOOL> R> y >  /NI= q À = Íô "
+º =ø 7
+> 0g4 	» ql
+? ú ¡
+> } 
+ » Ö
+8| 
+ > | jñ| /LF: 0 3
+ x ?ADD9 #?SUB9 #/MU[
+« ?DIVr $Oä $?POWr D?UNM9 #?NOT9 #?LEN9 µ £< p2 =ç sâá5JMP9 19 Á9 
+ u /EQ8 #Lp X1X–9TESr ’ : &SE= 93 
+ ?CAL$0 : 	³_0—> ÐvÈ< ñ  < ·= &?PREMp ô 
+{  Äô 
+ ô e¸ = { 
+ = 8; 0n ¶ ; ¬m= Oñ
+}
+-- an awkward waÁ[ð
+a zero-""edä
+2...£
+Íos[0] = 
+úABC")Úú±¥‘º:Ddump·:#--—2su	Amarkî1²precompiledÎ"Æ('<esc>Lua')¤b.h)
+luaUçQñSIGNATURE = "\27Lua"V _Í¯ by dumperH TŠ4V  = 3^ TÐLW  = 4 Ðæ6Š ¢TBOOLEAN =ž4 BNONE, +-1™ ‚for head:Åbinary files¥ n=ñ C_VERSIOlQ= 0x53 *%–is Lua 5.„ cC_FORMn2= 0¯«¿5ÄƒofficialËï óC_HEADERSIZE = 12@ ¯-- size ofÅ …8·-- Addition=ƒ
+òhandle chunk writingqto use ¢—AsetSu1 !F,ý†atest_le1luaf¾†ð4• 3 .ï G%Qwritea+™Qs thefKa± containing+ =C ato get bfinal §,ß in buff.data74)--[U^–FsetSª†·KE{}
+	 ! =C”¸dr =
+		n1(s,¬ )¾3(J*¡10 eüc  2..s¢-…print (# S, #s,‡.n*¡s,1,1), s)]cM3"0
+YC ± ¢ ’ 3;Bfileö– 94filpH ñif a nil is passed*?ð ]‚2theðˆ  3N8š5V#šAwb")Ä+1notR".h¸'5ï 9V Ú‹O
+Y 	­!
+	 / :I)() 7 Jelse. › /(s/ üÔ ®\9 ®FVworks‹¤lobject.h ía!exš6qthat TO Ñ&7sÅN'òs only has a 'value'€9ƒ, no 'tt " (â7R type8q)8…Õ luaU:ttype(oyAtt =x "(oõ¬`rtt == "`"Ô»
+3ß¬‡4 Ù4 ?nile ,IL. boolean2 	6 ö¸ 	ºçŠtnot appeÚ‰/nd
+:ôonverts a IEEE754ž>i=:An 8-11Ò1ÛÊRfrom_? !()S ¸int() are at¨ChunkBak¥*oÿs +/- Infinity, but not denormals or NaNsf5É x™·Qgrab_ÌCv)
+	0Tc = v,4–7$(vN152563)ôAsignF’	if x < 0¯ ‚1; x = -V8s –mantissa,bd‰?rfrexp(x:xO !--õ?
+		= V>8 "1/‰ 2 B20475 % D = (c ² * 2 - 1) *Ÿ ÷ldexp(0.5, 53)
+		À  b+ 1022÷ñ !v,3Ý únAt to Es
+	xþ@‚ )
+iÜ6¬!%	xM Ð¡x); v = v.¬t -- 47:ž2 ¯ gB  _55:48> Þ	6;  763:Ï5vÿIðèA32-b‚CStegerÌ	÷RinputR1áAd to¬”overflow,õ! D/@G»I(inì5v0
+lx_“A6 + nø  -- ULONG_MAX+1K" 4LÄUc = xH?ôÇÃx
+bêÙ/4±-- Function
+dmake aiÿFEmanyéÅJû'(izTEÔ, since outpu÷D y£ form of a32somN as are \!ci H4tC7x$² DumpState:š@L"Alua_ $ (S!	FÒt B ˆ"_WŠ(… ‚3 Adatae [void*, acontexB( qalreadyK $teC QstripD „if true,‰«AriteD„p“2 in1Cz1”   status; –non-zero,^Ÿhas occur¹< 3
+-- dump[vslock of.òñ lua_unlock(D.L)v!_ 1 un#Œ 3
+iQDumpBm Bb, D¯#D.r•e-© 1->L9,, 1 D.ˆQ(b, D‚)7 b 5 G
+=^bOchar¾4
+)¢DumpChar(y,6?Bi!y)# ˆ8 3IÓD or Ö&"(fßI6) (ØD
+F‘DumpInt(x÷ 
+2elfÔ
+% Ú_SizeTóVñ ize_size_t == 8B/
+	^0zfK¨lua_Number^S as a¿
+jJ{ O
+pM%Lua(‡JtypebPJSê>!(sV8& =½10†0) ²s = s.."\0"cfnclude{N'\0'E #o 
+] äGS,PŽ²hêOtypeJRode(fì |ñn = f.sizecode
+	--was«	gVector/‡Int(n, D¾0, n - 1 doT‡)I÷ B(f.c¤/ìM(=OpooliA * bÏd(o), n rUrawts ALÁ¤K?s©k”æoæAk[i]-eTValue :üT!;"ttù	…$ILãt" ØÙ\ ¯uS1 or ê
+ŽN h
+M _O ° ’ ½· ‘ •D M\³ˆ!0)K±cannot happÜ ´ Zp±ˆDDumpy¥(f.p[i], fòü)JÐ 3/›DumpDebugê<Dp0*1§–lineinfo  ª ¦ˆ
+Î3dInt(f.x ‹!	nB%© focvars§ © Iocal2‚f¬#f.j ²[i].varname¢ 
+U 	( startpc( 4end& Õð !up-ñ ™ ò 7Q sšBe childÛ§®¦À[2, p½áæ \ … == p or¹h r	ÜzY" f  
+Defined  à“d$ RSf.nupŽ	^  mˆ1 2is_Ä:| > ³maxstacksiz	`  	 q ^C4Luaü"!seh' (ëTHC$%(D³1h =ÈG":h â)
+	assert(#h = Ú#¡) -- fixedÐ"er(ª"n : Wºh¾W>£· %bc)
+-- *Es th' Ô	EC«‡^²×‡&R..
+		“ þÌmq½%,  % (x,s 2-- ¥PÑness (1=littl–/	42 sizeof(ilŒëÎÙ2 þ] !0 8[ Ä/ 0<(
+ n”+ _Oral?:ÃF Lua$*as‰('(ìB* L,¥’ Proto* fAÖ#w,³Qdata,ï\dÂC* w,³ure creaœ&%S,µ&FØE¤dump(L, f, ©o}D
+@ü³
+	D.L = L
+	zb = w
+	|Ê¹$
+	«=£p P¿}º¶%1nilg¡	-- added:(*a•År ·&À$,€¬&Acallb8A
+	--/}iqindicat]Sè$#toBäX5ileï (“ k›BatusŸ
+þ*Fcodeþ* 3Ä O’s used by3+Z@%--dš„5ñ
+luaK.MAXSTACK = 250Èµ+limits.hvO›77othÏ(s,4Ì\=Qemula¹?#of½‘(M2areçè$)ß. i€Ÿ{Ælcode passesÌ÷‚s around< Qtt me.ì$ý,¼\aLua's †$)18#ea9 cfor se>a, seth,_;3L (È¹ÚxF) in½ !iš&inG;Ñtesting, see H†ÿ liveness(g,obj)È4KqK:ttisnAy%1if ö¶'
+=t<". ",|a false*Eend
+BVluaK:„N / 
++ asetnilY5(o)) DZ ‘X(o, x0 ¯2set‚ 59   Ë  b’   ”7!--1@”luai_num*nÑ the primitiv*r<ë‘#s.ã4hisÎ?¡the entire×;/ofF Nrluaconfª*AiÃ80folding(‹Fµnumadd(a, b,_a + b* lnumsub, -, <mul, *, <div, /, -mo° %, ó-- ((a) - floor((a)/(b))*(b)) /*ZD,ÿÔc< */?\umpow’ ^f 
+@…numunm(a?/-a<Wisnan( ’not a == 0 „-- a NaN‚equal an\2NaNkF¹1·¥v
+¼…BMarkn
+!enäWôa patch list. It is an hw>aboth a qabsolutê(raddress£l·N?²link (would %an/cŸto itself‘9ÅluaK.NO_JUMP˜3 3
+URURÓ bBinOpr¯>ñOPR_ADD = 0, OPR_SUB(
+ 3MULåC¢PR_DIV = 3' rMOD = 4
+ ‚POW = 5,O :C = 6 bNE = 7+ cEQ = 8 bLT = 9 cLE = 1… cGT = 1… G 24 sAND = 1‡ O
+º4 qNOBINOP A5,
+}H51* Uï "isÁ"byÁµprefix's opóEM+qirectly4 ©Tbecauí0&‘ receivesœD1 asÑ	UDbR_NOT"`‘ €VMINUS‚!NOþ N‚3NOUß 3Ý  31iÎ Q/‘ñgiven e (expdesc), wž™ù7
+Àô getcode(fs, e)
+<,3fs.ie.info]³!?±_nö
+TKcwith al’ Bx (sBx);3ÿjump(), (lparser) luaY:forbodyEGcodeAsBxD–o, A, sBxLT% $ w + luaP¸eÌ@/L3he W ´for multiplýxsi 3e¡setmultret8e:$2setµs ÓYe:MULTRET$@Ctherà
+wjump if`s#3notÎw<cal"‹‚exp2reg(Ò' <any ?val—G—hasjumps(×¯e.t ~= e.fÐ?ŒM$iflEress^MÎ4antÂG1(fo<* çm4  Ÿ(), infix/G”Jeral0kù3aVKNUM"F5e.t½½|and e.f d?4!looÍ„ of nil,;Ë¡
+ñ done if consecu¿
+ÕŒ˜«“©±?ßadjust_assignGA_nilñrfrom, n¡fs.pc > fs3tar;n×1no ã¦ to curren˜q?h!B „26 --^Á?Š7“Õ>= fs.nactvar!5 --` ð,Vclean”zá7­Aprevn¬] X™ -¨ì!if
+§m6 ¯HFNIL"— _ º ›M–:GETARG_A? 
+‚æ2ptoSn[ARG_B( #ifO "<=2and	 ¡<= pto + 1€ €ñcan connect bothKE “ +Ø$>: M!		Õ$S‚ ü6 ™	M&	ƒÍ i 
+  hCK5]  c A, 0)È yelse noI½>,Þtœ 3i	%fs;2jpc‰#jpi}1aveI6 ofPchere
+	' ÉðJ áÝ	"yFY", 0,7 7)
+	2 2ncaúbj, jpc‰õkeep them on hold‘
+j>©—eXETURN‡
+
+«F
+Ï;S_funcÕŸY:retstatG	´first, nret&	rçÄ ", " +ã:>
+econcondOcomp GCcondÞA, opzOB, C%
+ b
+ž:B 'Rµwlistaux))ã
+E3fixä ¦, pc, dest"mp—4pc]ßNU! =1  - (pc +™Â'1desS
+ƒ ¼h6Babs(H 1) >ãíI
+'X:žÂò(fs.ls, "control  #urÚCong"½'	K“sBx(jmp, r Ò>|sm2'pcÑ€m¡!itoE ­4(tou–!ro!!	gìš®	 "W_ñ ame basic blockŒzS, *=	RestedŒ?¬}	d) when 4ing#Q?NIL›E‚getlabel 
+æ	¤%pc­1	Ó>#–{Qneed_B£µ s Í±6B ÒM7getÒÌ÷â	—Î2pc]ž, 
+º’ç
+iøwƒsƒUlist
+ A 	& wI# +ª1 ŒE— Einto´sè	‰=íHtestÄRinver‹¾FìØ
+ó/pi¾p m¡if pc >= 1ÐŒàW †"pi²f0ñ<ppiØ ¢@ž!pBlistGD#nykRhat dû=¡produce a ¯v
+-- (or %Certe&v›4 1mSd to ]C%AonlyhÙ"Eafs, li¼Cwhil´~Â%do“0Ý˜?elfDI y!i)
+sìg"ûýèq
+	Š€ d ¡] % Y¯1 --¥f !ÊP¹ºE	2äfs, node, reg)b	¡	Bnode«“ ›lM‹ žÚ^£’if reg ~=¡	­q”¹ ZAB(i)¹	È4A(iÝ eëšÓB put•6 or Chü[ƒ?<!du&2useË?table asU›Ý 3be ó´Ed by3, G s}ã following is  Q&d;ü#noù— to ARG_Cã ’_OPCODE(iáeTEST")jbu1B(i  b rB(i, 0)¨ U*i = Š{#C(h %, {1*i)W ó C(*i)); /* C */ÏrØ¿BocodenoÅH	É
+Qself: ½= Yî˜Î²P$jpkLElist}
+b¿J«4v×ë2, d ’O_nexd	Â:²5reg}™3Ý	¢ )‡* ¾ 
+ø%toŒ·Ú aÁ hH	cOcodeçG	o3fs)G2þ	 )pc; À
+]
+²
+L®	–¥ ‰Y:repeat N>	,Ò\# =ãO§< Ytoherò	RzE <ª6@ º. ô KÐH 3ðA]
+p°µ!fsÑjæn=S * l1Ü!g¢er, now l1šaturnedž
+rcallee ~s\ 	G ·ú 3]%bl1, l2Ñ%l2Ñ4Ô3"l1Á_if l1* "l2, \	e%l1 …gx	'  
+ï”find lastä&,
+	å"		B i â‰" Ó" lIo²7Ç+}¿reserveregs#H† 7­% J.¡0ýní1new ±¡reereg + n í
+€8L' –í0_M§ (or  ±too complexÑ±	2	„ =| Õ
+KÒW/¦,É ¸»ÅK[sfreeexpÛ¼OvarsÒGæ Ï¾!ifÆ™AISK(—
+0C :!- ×P3regw ž¼Äp(&ife#‚NONRELOCpYe(Dõ * TODO NOTE implem“Þ0ò100% correct, sinc°*³assert faild#luaH_set¹3Ãobj deleted;û*ï]Sacces:+	þ3ÛùÉ:Kù>3 Fbool OnilKGAaddkŒEk, vÝLÖLí2idx 2h[kIYS]
+	--I5* $9xs->h, kÎß"fI f,Æ	A45idx!--¿u8‘$Õly FAILS (las’for 5.0.2[qfs.f.k[m Ê3½(idx)] == v. ÷luaO_rawequalObj(&fs->f->k[cast_int(F Y)], v¶D¼4Bidx)		lV+'=;´:ò  a new entry
+		Y${}=‹4A(idxÙ
+2nk)àšb = idx„1 Á ªnum(fs->nk· ñ luaY:growvectorÇ1.k,B%#k,kDqk, nil,_	ì*"Bxà× ­¶Uˆa-- loo“õinitialize empty f.k#ÏÃ
+		f.k[fs.nkïxÖ obj(L, &˜Î ‰>/Ù‚C_barrieÑ $ Gc–"nk—"nkN ! +Ôô	n/> s'Usets ŠLU.«,in-I(!tr]5¿Y:singlevar<GÈUfs, s<oâ< 	l7sP-‡Oo, o¤
+@^ v³/
+^¦ò0±() for nega|)(
+ ¯ž)+'çÇWsimplì´?num›GÝ ›r›Òo/ î2›`¦œ	J_exp2RH‡"fsè(Ýä9"(o/ Bl?nil>l·‚:!k,]a{}, {}´1nil
+"(vœ@ñ use nil as key;Ù'1ead†hiÌ66 to× F nilxhX Ìh{	ùP,1à2¡-T˜1n€hsÆ3CAL¤,µki‹8Uopen Rcall?L,C5V
+›4p …&Helse>eVARARG<Q BQ ;… A4 É
+2 C1¡Dt ¿,è·/Oment;GhsetoneÉ3—#N2
+		ý
+j§:‡ ˆ ¡RELOCABLE"Õacan re»-N ± ò	!µ
+c¸¤a = e.kò*3CLOCA ´
+È¸/ 9UPV/ ãIå,úx[., >h ¨i ¤Ž> Ej èj 0 o- RÐ h uINDEXEDi Ê Ì8Ue.aux¯
+ g TŒ X 
+$or‡¦³ Öƒ&--3!#on¢ available{M_whereO
+ß	Œ%JTcode_°*n.!b,&3_(KthosÑ+amay be7 sý	ŒÛ/šLOADBOOL"r _KÑú¼8jJz 6|P  ÷”65@ ñ,!fsT °NXFALSE JTRUEÓ§areg, (‡<  šW0¢r K^ ‘ÙŠ[ C ?NUMF 	÷
+}e.nval)X ì‰ýH4F 
+ª	
+I	!pc¹ 
+Y 
+ð‰&ã p brJMOVEY„*ÑŠ mX‘AVOIDÝ 1JMPu…
+§(Òhing to do...Õ…Ereg
+Ê —Ql3%Jqtd	~­	¸ÑU æd-m2R,AJ exp2nextØ ð Ê=Ostor%KÚ%b9J0’	Í‚%e.À»5e.tF¨2put8þ>Qn 't'þ —%T>b åO90!siì·after wholepA3p_f~	F	? !ofågÂventual LOADôKB Ü B !tr\*g&^-e.t) or fjGfj =èE” P ²1Ø:ý U<0”&		ã ( 1ñOù"!fj²
+=t ¯Æˆ
+= 7$Qe.f, 7 • ?p_f. 	t. tÿ		J ‰­‚ ZmCÕ
+Oions!!Eiä
+ß	Õú6 Y BR™µžH©=©Ñ>ä!1expcKQlreadÿ1aÂ.
+ž>·ƒt Ê
+ W Dreg.\!a K?ÐÇJ )8 J/On it‚ Í"Ö vI udefault‚e ÆQk= $osîCâ8&y>ÙG£E^6"Ð‘ 4ƒ¿	àßOÛ["RKæÖEå9cE“s
+ 
+”
+Ö
+êCdnk <= gŠR&íRFaant fiU;¡RK operandu@6ÁBòa 2-deep ternary/ :torÑè\Iþgãœ.ø22:¦
+ 	C	\"¨ˆ ?j ¬'K"/&bRKASK(û3
+§ŸÔkAargCex ‹œÆ:6aÆ=Áright range:c4Ý u L¥K´‘!, B!	ZBBfunc².…EÇµfs, var, exök = varØ	K	–Ó	¸x_ DNs^
+# e
+±i 2SETJ 6, ew $
+àÝ
+Är —S(s 
+ê‹ã  8ß 
+÷S
+ 2auxqnÊ$00T¡r kind to ]ÏH¸ŸprimaryexP=HR_self£X, key¨ìH 	å#Bfunc$ÁD”2G ¬”LF", funcÛ	,x	"fsŸ A ˆ · ±! =E Œdggoiftr*A	8Ni¢M÷N	3?,
+»Düú>!c)	=0x/ G
+:!pc "¦91SET!Nt* 	"‡ ïtA(pc, (` ¿Krc) == 08“Ji•Ò AgoifR<ŽGÒÔ×cdX ‡i¸
+‡==eXu"OP_NOT/	jNÖ.apc - 12
+v:ÁM6 @	9	ˆH"ÞiM1ie)Ú2conÜ3A0 orâ¢	‰L¨go throughž>‚ƒ e°"Ÿ $SE¢ ð=$¡ vX!inï
+
+À RJ	E¾vÝMRpc of$4Cjumpjˆ	Æ
+ƒ KÃØÓãº2#pcò‚aalwaysuA;ãBBhingì?
+K ÝJL Í 
+	4Qg ¢ J@  2 Å6à 
+Š4f, þM!inF/rd in `f‰e §ä!e.gæ<ÂQ´IB­žBCFETD™ ‘	Û"w!tr·‰6w
+vtvÿv(f)Ò"vI3š.|EÆ	ú\r
+/MÍ4G ¹H Õ
+dÝ½ 
+‘ç> ?NOTÖ$d
+Øä
+þ*Ewÿ!--µmrÑHF¡¿ásÈI½!t,ZÅ ÿ+f!$.f  rO@
+©/^G=Qqe¦
+Ät, k)
+	t.auxÚ¼
+ æÿ VŸcodearith#IŸ[¥op, e1, e2§r0V_[1d 2b7>¦É`	qv1 = e1¨" c2 = e2 Qif opw#VOP_AD‡'r£ógfv1, v2©6 5SUBê6 ?sub6 &MUO6 ?mul6 5DIVl !ifÌ 1= 0~ 
+åLaattemp O‘divide byÊã{ ?div{ &MO{ >/mob	5POWö ± ?pow± &UNÞ$6 Qunm(vs-ãÊ6LENh xSà#JÇ¹3R'len'gy 0]Ýhr¿ºªNSNaN
+	Ö6 = °Otrue3IóN²	| 3
+DB¸W;S]Î¦|¢o2 = (op ~ÿ1Fand  7LEN£![xQ2) orDl$o12Õ2e1)×to1 > o2 /	ô*   W.ÎE   O 1	e1OŸ K!opcRo1, oi 1±,sK
+ª
+É 3M #coxP‡op, condRÍ
+  2Ní½	Ù 1®Ýn`
+y%EQŠS-- ex‘	1arguareplacÆâ`<' or `<='
+		Ê‚ = o2, o•±o1 <==> o2
+ÅïSd = 1”
+%nd+V )/ ¢OJMP"kIÂ	subexpr¦GÛiŸ&e2v:g­
+	e2.t, e2Ù
+›ç
+3	e2WÒ9 ¾0Å„~jýi"	9#
+	\ó)BoŒq‘e on non-W	1ic 3!an›Û(i
+
+5fs,®­	 
+± C 
+3 i3 Á µ 9 ¹
+¯ ;LEN¯ ŒþûÖ$H½ea¼vbª&ANÃ	>	ÐvÝ
+ ER_ORŒ3 	f4 VCONCA,8 Æ&v¤‘nd must b¥¿the 'stack'<¥&or·$ow" or
+		í a
+( >
+( OÜ-; p
+væ1v) LYú 5/MSÕl9@#--”Dalookup˜×61ify3C‘ing
+luaK.P<_opãpt
+[oêps"OP_SUB 3MUL ºCMUL"Ñp3DIV 4DIV) #OD $MOQ qA2,
+}Ž Icomp quw #NEM  qd"OP_LT‡ "q E… #GT7 $LT I +LE ù" {Ó ƒ 1} yqw 1ø q % k % ‘qK0,
+}ëK	5•-- neededCqe(ò 2 doesn't copy ÇÊ0â-- * in 5.0.x,`ñ	k/info/aux/t/f copied, t
+aAND, f !OR@  ²here, all e.Gi= / [KÄteness' saket	<uopyexp(Ñ —Be2.k D) ƒinfo; e1vbe2.aux% ‚2	e1Õ12.t3 f*f1	,
+MA!D = ë˜NèAclos~D#* ŽZg‘e2.f, e1.a-
+pÅ
+« 
+ƒl« )^/« t« !t)}
+º« <X)2if S	…¡^xb	ë%2)Ôo G"(:DY>32))}2Ñ	‹
+ÍF±>D #, Ž†'Ôß '– Ý$
+	ni"e2Ôj
+º Q	#AÄv ß9-[6useø~B in ±oóò15alsœ1#T
+.
+ r_op[op]? 
+=
+© ! 	£ 2°
+1com×‚4elf ] 	ûn%mp] F	'Wcomp,= ˆcond[op]p q C.d	end--Ë R /opG
+>Ž adjustsTŽb/	Duòritten, in order toFa2ang°LQline ¤;‘ item comjÅÑto existence
+&¡FbfuncarbRÅ(TW Ã(Nbfixlin¼Cline P.ÜŽ[Ó!¯- 1] = linL?h generÌ!toIe an”[)th<õ",
+¡Jà!toº‡þòl xF" *4VdhNæg>
+_whilea*K¶ZUfs, iž»fe#c+5jpc© “'pc' will‘_r{put newWÆmS»	Š‘Lbfs.L, qq3$pc—LEcodešLúluaY.MAX_INT, "code siz’LG VQ] = i– BsaveP¦ékq informJ4u&˜ «!, ¬œ  :M  8 ¤ öyß$) ±Lreturn ci@s"of-™2ABCkVcallsâÏ 3I@Jò¼–'WŽ'ÿÀob¯¼_.iABC3 B2 Qc’OpArgMask
+ bN or bÞ't ÀA cA ¹	v¿ Kbç mlQu8;=ñxñ,¼™lªsÛ 3V
+%fß–$OpØ
+x‡v5!sBh/_ õ^ 
+6
+Ö'au ëxëéQÇ#
+Jlist§Ö’ Â"Ebsetlisµñbase, nelems, toú.‘2c =¬p5…(  /ñ
+1Â)2WSb = (T ¼ÒY.LUA_MULTRETÁ+ì)& 	ô a ~= 0)<cÄ4‡fÌ
+ã½ƒ0!LIo*ç ËÎ3 Ú
+- X~â;
+b:a= base'xky5reehRs wit´„Ž,
+ªè_.lua"¨Œ<E†>² descriptorÄ1exp1$ 1Fring£!; _Á3Ã_qthe onlÐÃ Š/òtion to use a reuŒ&al=6bthis e!âtion
+-- VVOID  R-- no' 2NIL  CTRUE 6 %  K Q  á"Ö
+O
+@kâìRVKNUM1 AñÂ Gical¬ J* [ /Ô RUPVAL«’( ƒ !up³‚  s‰ ¿3a 8  äO"; —#N ¡global nam4ÍÔ ¯I
+B ·
+K Á ‘ (or 'k')Ê 1JMP M•
+!pc( a&
+º 
+( t&	P ^L˜ Q 4CAL
+Q O¡ /} c3º/[[N 1Ÿqdesc in%”R5.1.xp union u×&ükþ 2 s;ÕB2LuasÕ[¡gnores allVƒances ofN as usagQ ){«ksd(enum:A þ,‚Ã-- (int, int ¨Ê”pŸ tR Ú‰Ò of 'exit whe"'Ê f* Ò/'
+1Ï?MÓOslu_byteJ,  1£=Tstate‡©»n×ÉQ code§Wa givúRö£ FuncStateYÝ¼\T™! (žs: Proto'h ¢ to find (‘`Fuse)žúD DTablkAprevG –enclosing{ t ª x !ls2 1lex- 1LexÖ , L+ bcopy o&„=§3 Hlua_4 bTFAchai1 ysÇ eBlockCaÀ1llDposi’Œ(NË¢ to 'ncodeÆ'  e‚® ‰2'´M‡jk ­²pending jumA3'pc+ (8W Ñ}
+	×!nk  ð=< of¹& p& 	pq nÒ , 	# 2 ÷‚Þƒ bactiveB‘ variable¿Z ÄÁues[LUAI_MAXÒAUES]v  © Cdescq > 3VAR: ”declared-q  BÒ: 3
+7@-	Éa2by Å
+½òpicks up duplicate+	sYƒQluaX úLoquiredä 4ŽŽ‹1QS ³X™²QS or "'%s'ÎT˜auaconf˜qöSHRT_MAX = 32767+ <I˜>Äe ÿ±VARS = 200 . T S ( 'O = 6+ ¹  Òor 2147483645e dfrom l“ ZA* IN¼ !-2}ê32-bit systemsŒ YCCALL¶ Q » 0 B	“_HASARG ="8<s_~ bNOTE: ) ‚_MASK isó-åÖcS # b= 2 --±swas addCba bitou!arÖO“ "IS	 F = 2€ ÔŠKsome —¶½’involves D ’_NEEDSARG¢  C = 4ã½‘Œ1luaAÿ	9_š“cLUA_QLYõbes how error messages quote programÜä.
+-- CHANGE it§’Áwant a diffeÙˆ¾appearance.£Ì3"Y:Õ (ÍŽ²"'"..x.."'"½z 6ýf›Ástripped-dowö&M_idÿ ñmem.h) which is æQmacro…7d o; raux (in6 1c);ö
+êDdoes?ýež-#thaô  checking logicÊAorig“ÅÕ Þ	o™|Æbehaviour isIŽ‡ Ùó Bservú[‘venience,OTVõ are unus6ñ * set the t fielŠ
+6nilªh%is« "lyð a¡¢Ÿ* ' (' ¦p)ùâupdated, their(Nd1areŽ "by7
+@‡ôso overall thingsÄ¯still work7”‰ GV(L, vê¦"t,é,*#if 2 >= ŒÕ(FK!wa¸QG_run “(=	gaÛ ù°T4ure&Rfunc.q	¬Ð(Copen“nE1new› 4(L)1fy+"--Âñ
+	-- luaC_link(L, obj2gco(f), YÃYPROTO…g1f.kF ’
+	f.sizekz+9f.p p ú1  0A ;1 Csize€s 5nup  U n©. `© maxstackY{ w G Csize•8  # 7ª# T:ned ‚source =Üb(f—?6Kâ©¿ñ
+to a "floating point byte²WL„Aed a0Ñ(eeeeexxx), w¸ŒÄUò  is (1xxx) * 2^/ Á - 1) if
+-- @ $ !y/(+ Ÿotherwiseµš8r
+aint2fb ßÚ!  ä/dponent{xsƒ‹6 do
+		xt‘x + 1) / %Re = e–~*„if x < 8|Êxæ !((6 ò) * 8) + (x - 8)F ö—	7ã sC4š 3q
+-- tru§$2theûH'of¾M çsTM|Õ 5
+Y	4hasþ–kÙ'2CALì, …p	@¹]È4 to–p	ú#i,’8smn£3
+2getò…i5fs.
+R[ fs.¥“_[i] ]Ô@bheck aõ,
+¡m providedé‹!n îá4
+t
+–v, l, m)Av > È
+!n ¿‘ , ) Ä. 7Qnodes^Ž( $of< s”í¬ì• ¢&%in-* > q  break_ ¾Ârj!ouu á
+NloopÐ#’ ¨W; Aside7QbreakÅb­ !urþè  drue ifU" iç0î Šn“ (booleanÆ &ise P '< '= ùp9  1Y=Ø	Å³ùor recursive non-termi%Ô7
+| Xu5notD)ž;±reanchor if)“ token isŠ-C, se.eƒ
+"7”ò¶ _® 2(ls8Qls.t. Á == "TK_NAMEv é¹94#--mBlevaG<Lua3w#of#2 xBts =a 3semï, RX_newgò
+(ls, getstr(ts), ts->tsv.lenî†× 30Ahrow‘’ Q3 ifî±expected isfºE| _s ³)C""X:£ & F(ls,ó²|(ÂlóD.." I ", luaX:L G2strZ )&@ƒpreparesL6display,
+ ·Qs excÏ2>
+/
+ôFO‹ n
+ e, whatÃrmsg = (’x
+C= 0)/PËŠV"maind	qhas morƒŠn %d %s"k = orÏ"Ø¡at line %d|
+K ÒN-
+` B1lexð ±(fs.ls, msg
+$. 3W2est.aJO
+aoutcomj*d
+KŽ#FjEtestnext
+c#c~
+;, ÓV‘
+!fa¶0¨B
+7²/6 of^ÈÞ ö8wÕ3
+g‘ @~@§
+
+Úc© 3¯
+-- verify'¯en skip it]E2è  1
+W€?¶3¡ not matchr 3
+ª'ê _s ô mj3not`™ØI msgÅ 32ies” £ È8²met or elseAÂ(J_Œ#“what, who-@	´Qwhat)Cb5F=m	ClineÐ! 	A 
+…G ƒ6–
+Û#
+	P j B (toä
+K "..% Å)²n 
+–‘ °4who."))‘5kD8	/ž ¦
+$Â811the\(EAstr_GBnameÆÄ .Ä§m b‹[t3¹- 4
+¬O@',Š+tion dat, { 3ŽQinit_q<2, kc‡T,R–°x¤°—
+	e.k = k{[iz?Cadds,&i ·% ÿpool, sets e as VKrE#€!ls‚CuB2"VKP"K:£ RK(ls.âÈ@aconsum 2ame·,4iM… (Y–6™?>elfÈ$A¼€vAntry*
+ch¸b
+ Anew_«	‚H$Y:˜j l‡bEname¿f,$fs^<8Ëlê7rlocvars„„
+ % 2
+		5elfå$¼, "too manyë&"")¤Ž„Z “„! s˜„- !s]ª¯ -- LocVar' .3 = 
+ Ž tuaC_obj«„,% ).f(D '
+	
+ _ ‚à ð?®Ò¬ ¡l! a9]r offset='nÉ4in ,ƒVvlist(),;%o, bodyoGBqliteral Dv, nA$  ö>hTúC4 inq?lis
+F
+ö B	nòEðfÕñƒ + n + 1Ç?X(zVARS, "ì "s">: „ q + n] =	“—>¯cnvars ˜!ofÐ!¹ ¦KÎT"Y:h@„ Ý^2ls,¦ ¡(¯RUYõàC r, 1, -1ÿÜ
+éN ¦- i).start¤<ÚDRremov| 
+"ofþ{]‰ vtolevelx½?àq>/ ]J	˜k{
+_).enduPBturn?uxisting.¯5"ba$•Qgivenî	!, |à2§#ù$îü0h ›
+"ew\ *%ùŠ•«OE~ ¬ Yývä~f930, v$#- :ènG Ñs[i].k == v.k >3 
+ ý¶lua_assert(Ê$a[i] ==h°F>( iZ1	--J?one¡¯ ™ñ-4, "½ "
+Ç	±A"up!Ã	 	Ä	ºA«	B ­	# [}"] w	‚fs->L, fÏ)Žfv¦ƒ!or²Q== "V¸ À +Ñpartial copy;a:A k &X6Û)k0†°  A{ k ,3 }
+Í&ã "
+	  
+û	/up @asearchâr•ƒ2spaÐf?!Èf¸  "nÈÙy1- 1‰Wñcif n =jâ"â { i/’?e* mark’hflags ½!st^u
+a£°•fAmarkZŒ )ê"blœ$bl<!bl-'blC4 2 do/ 5bl.™"ƒ'!bl_A bl.k ! =ô˜CShandl#s,½<ì‘} "ue
+ _>Òed processing„¦¢ mechanismYž¢!gC´s itself to/ aparent’)y$!Gc 1auxÇnÍ,Ì/ûf˜ä#niŠ ‰ IÀ$s?c¢ávar, "VGLOBAL"Ñòj)Ñ#£default isf‰
+Š@ á³=@Z ¥look up atÌ9¦ ¡4v >ë_
+A
+¶ /%E\A=8 Ê
+ vÚ ¤ GI"bew"av	tupval
+	(XN]p ÿÄ h
+Æ ²; try upper¡ _
+ÊKÏ!0)r"“UDâm¢ ðrpM	,ø ‘else was ?” or UPVALH ñZ U"  --êÅ%%is¥- õMvñMf@å)®(|ë|Ø2ue)9!“in prefix8funcnameÇPÔ‰É&
+±øSîA_ar, 1T7	¡A 3Qpoint÷VV‰ée?kr RHS toA LHS’&n %x
+Ë Ý ?sta#H² _ƒ ÜØCnexpù‡ 	À Textra
+" -3 Ý
+-5e.kÆ6  +q9Óincludes callÃR( < 1= 0£÷Hhsd"e,' KQDexp.ç+=„7(cei 1> 1¼[¸53regY ó 2- 1¹ª/>{k¢bgVVOID"C S[e; £CŸ K…ö >Kt2regøj£
+`ª ó
+É A_nilŠ„D^KRtrackÎl%s7(²ing depth, «ü%4 atZ¶& °EQenter+³ls.L.nCcall˜ 1+ 1Î	$ >X›g<ä
+}%íº•hunk has ‰y‘!s"™%Y6C„SyC pai¯H'F_leavex?- 1›?ùçs a code unit,y7sêZyJ.Kš(l,5.a)
+	bl.D./ÚC‰ . ( =<  6
+  Õµ&
+, !bln 
+	à L, X ;@ž4anyË	·3F~ œÙ
+"÷
+Cious+ãvfs.ls, ŽßZ%QðMhCLOSE"= j	IÓ£ ñ either controls scope}Rùreaks (never both)ÐKnot I!or)&£ 
+0 É  	µN‚ ¿­îP@è¥ŠiÂ/i¸UO)Sfunct*6ð0‘, append o€8=3uesöŒL “KÔ	only in’L±pushclosure¹	u~zÑ±	ip³pšp­Væ£&IÜ<•empty f.p¾Gl/Þ1á
+	f.p[fs.np] =V-!.f#npfRp + 1` 
+)²rfunc->fµR0™†,Ž^!, !	”T!Bx‘AURE"‡• ™:0l .eÍ©	oK.2uncW‹
+1)°ô’¿E¦˜š› Ro X Finfo.Ú>zopening;*EÀ>l‘L9"LÏÛ>Cls.Lž2 = =K!= ¾$vUlinkeçLül
+ QL = L$
+ýf J0 YJA= -1 j  p& °Ü=4s.nÝ>ßQ !' Ø! •1nilâ>	>Ÿls.source‘> 2ô š#ñ s 0/1 are alwayÀF!id¡ hº"±7ó4{L;vÑluaH_new callƒ4^f\RõX+Å¡being collm3)G Aseth±2s(L, L->to‡ø->h); incr_top(LÒ8 /pt9 5 K
+?HM	IE	j6±ì
+§"ls*\1retó0Â3 --õCareturniôluaM_reallocvectorž7~&2f->v]4f->ù@
+ k !p,E 3f->"% Yà7sfor LuaTaarraysêrizecode$pc p  k $nk) A  (   ž 9G
+	--_BluaG·+rcode(f):"lyVÔƒ!edlœÅÆ)]Z
+-
+ÀFi'uÒåØ±; kept hereE 3for³§g ^² -= 2;  /* q	¸0K#th¤M›7M/-Aread
+˜!de[	W§tion; mustf9tT"fs#À@ Ë8ÚÅ>·8õ
+6¨ ¿	ñnote additional sub-cs need~Q,äQÿEµ ¤(L, z, buf“1lex½½ $
+	 !.t  ”lookahead U
+ 8à 	 Ñ'  »? 
+Èf
+$adW¸@&
+	‡ûÌ abuff =WäX:setinput(L, ' /ç%KU2¾	=)Å 
+äEÝ0fW2_IS	 ú7F. isNCrarg˜ /n "24firf< Vchunk+  &ec 
+05EOSa!f { jÐZs# Æ
+¿` \ !.f ¶=B$.fgŠ@7ßGRAMMAR RULES`4.?>aarse a	OÁname suffix,ª© )PûstÒ'ÓKRfieldÏŠ	 ô -> ['.' | ':'] NAMEmI 1keyï2„Kpqz˜
+73 Ñskip the dot ±8lon l5Z '!ed¸ov, keyB@y ‹s 9ingÛ@xructorsý2Ø1recZ¯,äÓ4
+	3hyindexÙ ñ -> '[' expr ']'M¦3'['†Éw%3
+@—	ÙÆ211ext{ 5"]"–73RulžD#Cok?orsJ4­ 7b ConsC­EvüBlastmBitem(m:ö(axpdescû1  t7 " ‘ROptor4 "nh5 Gotal+ˆ'record'÷_   na. [array+ btostorîDî,
+* 9Yato be 1 d­: 3Ê_ (hash) ¿
+­ü5G:bls, cc¦ ô -> (NAME | '['exp1']') = exp1¡³B½„.freereg- Rkey, /={},×`D:BlimiZbcc.nh,6Ó)QitemsK"‹ M9ãÌGls->‡ ­J	üX	ƒ 2 =  ?+ 1²%="kSrkkeyÇÊ!RKoU ç aÒ-Ö‘SETTABLE"t§] w\ Cval)½—! =ÁÍ•5ree"bsl	 3iO„mit a se’]Õion if enoughñ (LFIELDS_PER_FLUSH£ÌÔG‹hf%eif cc.ž+‘·
+€æE`‰æqnextregútcc.v)
+	Y én =4-P.!ïÒÇhQcc.na O )†flush
+		 A = 0 ('OoÝ"D$	a3GÄTC`Olast#fáE ¨DIxéÕOþ), Ì ‚(è\Tjä#na«3a -# ˆRcount8{§— (unknownßÍ5à"½ % ~¼Ç ¬ ¨"É # Ï ŸxOend
+î4 Ln
+¤¨(r£g\¤5G Õ€ 
+"Êw Õ+F!A
+
+ÛHvm~õ¼
+7VÁ"ˆ |t*	 ’ -> '{' [Ì	" { 2sep	 $ } Ñsep ] ] '}'
+	l	x	|Ø " 1sepd ,9$;'S	™BlineÉBline;. ;ôt"OP_NEWJ0 ¬&ccƒl¬  Z!nhv&ÇA0, 0$ St = t­0t0$pcV$ Tcc.v,XKêlR (yet\ 
+hS@tèõ
+ix it at stack top (for gq BYas, "{"îBBpeat[ûì‹3 7or *>@Ò
+ }L!ˆÖ
+m<cÓ–
+
+\ c-…OAthen¶-´<Es or`sÓ'%X:¦«&(5ls. éOW~= "=^ ?ÅE:l 9L	Q#  	" #nd8.Ï [k b_Å(ÿ.X  ÊA …part -> « B  › —Quntiln;G†",") and“
+ ;I¡G…"}", "{"ãx] JóB<N“ßØNZ»2)) »‡ Àž_
+L CL 
+hL 5siz{? }= 2ÈA7the#aÊ(parameters)h 6h3
+B
+ò?K–ewüsQ-> [ ® ! {ñ 4} ]ÇõfK&f" n4 Ü
+V^
+—W~= ")uCis 'œ 'ÝY#6?
+	
+„"•B•’ 3 ->ò„2	:D#lsÔ
+¸H,Ó s,	
+ $ = ¹#úKwTK_DOTSÜ … Q`...'† 	¦ T-- [[
+ C#if QÂ(LUA_COMPAT_ª õ -- use `arg' as4AnameG àé áA_"arg"ß Ìâ‹ ’_HASARG +
+ —g¨ a#endif• A--]]	 
+S  
+L Ÿg= >q,3err 	¤"<name> orÀKñ:LUA_QL("...").." expected“o‚ D~= 0E(F
+d","C--ifGq0 ?.¶	çhÚÝ¢works only3qL…i,2!¬a	µ9(² %€B ™bÓfz$~#Ÿ  ‡ß±¶•?m[Z(
+g921funkÜ€Gˆ'I,'Eself=!--® q ->  '(.GÕ')' chunk END1ew_>|€ } 	z‰
+F&' )0 áUtDefinedH‚CÇ"("Æ+BneedX9ë4CselfÚ/V ÷1± ì	Ã Š )±0
+Ð é#ne
+bS ërTK_END"
+ ²FUNCTION", C~¼ h_OJ ~*b5, eö 3
+zŒ8j&Ñmma-separatedÓ{ þa1loc@sƒEexplist1¢
+¹È 1 ->£ /}òtnÁat least one0 Ó pQv—ßˆ
+q2 do
+k
+vb	Q B	n ={G=%9nÖE2theD	<
+K'c(B-- *å.ˆast withíI"uso$€tQñUls, f›ËåïAargs”	2#, *	Û	T	!("¢_ – šF(' [“R] ')'¦g ~¨ EC ˆ
+?¢ambiguous  % (‡¿7ñx new statement)D2end˜t€ 7/ë
+1arg6 isæ
+Q	args³QÜ¢/å Œ1argi (8Dmultö( œ P
+
+f)", "(Eelsen{nØ ™ 	O ŸTK_STRINGW  R 	ËQRargs,N†_)q2musNÍ'' ã' before 'nextÏ“; â<
+ë¼
+	,
+creturnG“fý.†NONRELOCn ?q f.info¤  µ,i	Acallç¦””D" =è	_Y 2ope¥z‚C 6N ‘N‰ Ò1- (Û +ý½Tƒf, "VCALÕ@	 Ebase93M$2)Ê
+D‹Vƒ Ä 4all*Ü%ndÒ Ð-$5sÏ	t(unlessÈ])±Æ~/E!7Þ:;î! 3¥Gs an¼! i¶ qentheseç"a HABéÐ­Q;@l|e ! |4®4')'•y
+#
+	ÍWVè
+&Ê
+ŒâˆÑ“dischargeMPvø§e¨ ˆ×4 Y ø $unçw symbolÜ Ðô 3XòA/ (eŸ(orª(ª¹xQ @bment()ë&—@K	¤>'1 ->¶'  U{ '.'¼ë&1 ']’: 	| Œ¯	…²zCtrueh¹		z.tj
+Õ X Œ6 [6 ´'1´'^Ÿ"G
+ðø{)V
+ #2 "(S)” :” OI ™ 	ù	[m
+ä)“ Q_self{!ä)5 ¹=(íM
+Q	 ´	v 0
+¬ w 6´úQend--ÕQF§’ñ ¹k,S%Âants handled2	j¥¡L&Y:’Ã gsUMBER |Ø
+‘ | NIL | úˆô | FALSE | ... |ï Q4 | ¼m|j+º2TK_Š â•”	”v, "VKNUMÒ2v.n&'
+ójË	U ´v±E p¯·
+— 3NIL– 9 	†´Î
+:   
+6; yv 	! = Ò1cWé2conu3Õûò ~= 0,
+			"canno¾ºûoa| éŸtion");
+	c±substitutespŸA, buFLdvalue-0Ð ¥ èË  >’úkô =; -Ì: ‘ -- don'tub 'arg'…\
+ò@ "z(Y 0‚Ê8|l  Ä:
+5jÿ ¨3nexoXv, false.Õ¨i« 8 (Š  £
+t ®$>ÉTranslates ugÄ—f¶s if found,Ôx‚&ñ
+s
+-- OPR_NOUNOPR. getunopr()
+Tgetbi %re@Ö.Î	îM  "op1$op‚5NOTM" "Ü "T"¹´Ÿ-* ]MINUS, #, 3LEN* 
+o K"œïJ)bið/9ï"BIðCCodeâ‘tion usesc* styl$csçOUluaY.o_d Â= {
+	["+"] =Í¦ADD",
+	["- 2SUB * 2MUL / 2DIV % #MOP ^ 2POW( –TK_CONCAT  ƒ VTK_NE %NE6 &EQ "EQ < LA LA LA >* G* G* G* fTK_AND/ #ANÎ VTK_OR <OR"¤KÜL,S opr BA[op]1oprOD3 %elT¨b/" £)B
+¸ƒpriority`<qconsistApair	 Rleft/îÇdû<forFÑs (was a statì†3nstxò); grep for ORDER OPR
+‘ / 7Ucplaced“3U  Q {
+--o
+¦ŽR left7=FleftÞ Œfor each³ < */C é B; /*
+ D + } ¦[] = {  /*Ô R  3ÚÅ Ó…{6, 6},  O7, 7  ñ-- `+' `-' `/' `%'
+	{10, 9}, {5, 4},; -- powerÁ‚concat (ôassociative)
+	{3, 3},  E  ¾-- equality. 6  2 --1¡ñ
+	{2, 2}, {1, 1}K 
+ "--†âal (and/or)
+}
+*ñUNARY_PRIORITY = 80 A<foré7%;PâDs. I:Që
+ling ofˆ rPô
+-- operators. A*WiŠ†Ue rhsˆ ·M1 of©9< 
+l¡mmediatelyA of XMqf any (ë,b is -1¬r2ne,¿Qif a åH s	2 ‚comparedù_the l“ H néñûdterminT‡BexecÝOirst;‚8R7%--E-> (.êt | unop 2) {; S }
+--p'
+q|-ny‘NaÛÑhigher than '}'76for& clookupè™Tself.õa[], 1=aand 2=ÏC ™Z!lye"ed «
+õ)?7½~ñ
+|Y)×
+Rƒocal uopbÍ
+œÕ
+Suop ~òP
+t7Ã®ˆ,È
+I¥KmÄcuop, v„
+ÙP @"¡-- expand qàT haveÈ?iesðÿ 	þ Fÿ \ ­
+"_
+ IñBinOpr[op] + 1][1] > f=/v2 
+!GK:in"!2	--=;Gsub-ìá°#
+	î Fnextò 	¦2§4 Ì %2]– Â­¹— †¼	c l wÙS
+!opR (BQuntreæ"z»>dq starts7¥. Functionqi.„e 3
+--]" (y_7#n-¨w$t)ƒy of -1, ‘is lower
+8DÕan all actualS xs. Expr†¥Ë	Bturn"kparm v
+cmultipy_t'$ 3…rÔsl	[2¿›-3m;_?¯—_ments¡4o=7Ss nexH$#Qlook-áFs"#s µƒq instea5ˆ20|1$ —2rets[,Ÿ(7)HRlock_æ*($e =AELSE½
+ /IF  N#tE _UNTIL.  ,OSCð|]pÔ
+Ta codi…G*it–Ãæ˜5
+ÃeUé(1--  2 ->ÆŸ&blÅtBlockCnI5nH s(fs, blÍ"Î)/#!UV<X: GZ Y 33
+--]²ure to chai–¨`À?›Ñeft-hand sideÍ'ù¢‘assignmenÍ|BLHS_ {2preC(\:w ) )‰& ~ &aî,#, ¶MB, orl5ed)Cj'o
+84jÎ whether,0`xj ,
+ M
+«L"in6 bvious tBment’Q”ñ). If so, save originalÎQvalue‘ a safe 6ñ	‚use this 1copôVÙ)t 
+• bGW‘_conflict5"lhW9ÉÕ`µ% -- evenŒ1posN2 to3I –Y t z[?"lhû
+Vif lh¤@gINDEXE“=  '=ékC8` A?
+		/Àâ ½h _ ? Õ  µ…
+Lf6useÉó1‰ ?auxˆ (> ‡ (Ôqlh = lhÏLOô€ý &7'gMOVE",Ö,SA, 0)v2makÆ}#K:ð1üa²')>D«Asequ£bG…S½ž7qW¶N
+LtetH¢test was: .oå <= lh->v.k && 4<= Jô3v.k¾Õ1Õ6[ è IY 2j$	% q H", "Šù1;CtestÛ×4õ8g-6,' Êzv"ãb
+		nv.  D= lhýW É"nviBVif nvJULOCALÖ	o2(> &lhB ]è * ¢ÏÞ \Ÿ(- >c¡Ä.b  ˆ #nvc +äG( W4=' c1¬ •=d µ1nex÷pr 8 p Èî#if" ~½f;/¬3¥6 5 D E > z&s.h‰3 1- (H " -8 ~cremove"t>›Ú˜÷¢®šŒ,Ø$|Kì(#)Dlh.vÊ ¥ÍDvoid!9L … KP (e,É-—	ã 1Ö adefaulß	
+Å  ]D.ÊarepeatJ¢01 oræ˜MCtrolX¯‚	5pea ¢test_then_…^
+8
+vEcond“CcondS4$8Âu± (
+U
+	if „j$ ç#ÖGQ -- '„!as' areŸQequal$»8ÞfvÜ?v.ft?:VbreakÏ
+;æsG z9Ôstat -> BREAK¨DÇr¼Ç7
+Ür¬cf"doÑ"bl9‡
+
+ À	j !bl=	Àd ˜2t b9 üþ, %no*ì "|#ifm C¤\$Þd
+í D Cncat3g, jump(fs)2FaL2-do…6,e(žsRed by)(ª*{sdynamic>Qòsizes, MAXEXPWHILE + EXTRAEXPÒ[oP ò&thñ' l°¯-s can be¼1dõ_Òõq, line)ì	 B -> ë ´"DO&ñ;ÍJ	ËBskip^ :x 4ini?iÅ:getlabel(fs“7Acond|¯[1­Dtrue tdTK_DO" ÑratchlisÅ ·,^&in•[ ›;G"f¬ ÿZ/òð 5Âss finisa?oop£G:-²ER"arÿoOí9ÊQ¨ Ö  £ -> REPEATÐQUNTILV‹×? _Ÿ
+rbl1, blƒSù
+¥1¦äBloop™ / 2‚0 Cscop|¹ˆ) 3kipï P ± ºW>,½è™t‰u 
+¨ˆ (inside« +»2û?xGDues?/Tleave‡f ýRscopeú@µÄ¨ ,Ã@ s<½òcomplete semantics¸BqR2are4åDUv] Úäœ $ 	¨ Utohern	ª @ else...ÿ * ¤B º
+–…KäpiIBthe Ù5
+Qnumerá#1for¸s:afornum{ 3#1Ì1¼×_Øbk = e.§
+¬2­eqkÌG:B bodø$Áboth versionÖ'ºa`B, foaI7
+F¾Æ–o1;Rline,xr, isnum³* 5 ->¦ &bl°ˆ¼ç´; ‘82, 3ô"3 >r0SE r prep =« v`s®l…FORPREP"è 
+.1	or ©ã| 
+I fðgeclaredµ:þpð E .1	 £ RV£Q‹ ·1fs,:ö	oendforI?LOOI‚ÌBC(fs, "OP_T9 0ì Ÿ bfixlin› 3lin|rpretend…”`É'}!YB á ˜ÇÜ ãWVDaN ,ì%sRHÃ	1foræôI1num¶M|p›Ý|61AME“p1,exp1[ ]¸ €â’CbaseÎM>]½H$(f‘!)""f0 ¯limit)", 10 Ÿstep)", 2/ 
+3# 
+z4'=' £E  --©P•ì 
+: çKeÕÝ: Ä " D 	t $op€i(teX	P!st1
+	Ž[LOADKïDqnumberK·1`˜ ¦ëªËGviG 2!icù]t2ls,c6namZŸI[¥{,NAME} IN¹\	v”nvars = 0 ‡ v’²ltnfator)"½y  <`K ªG /4I ø |® ñ=Ú ê Rµ*¾ z^  $R+	t 
+V:^eTK_IN"ËXBr Ž¹3Œ )ûm 1sta­	1Bspacü"6alln Ü 4- 3M	 ?2´0Ò¿ÛApƒÊ9 orl¨ç'© 3ñó
+% “ -> FOR (š|ª )&!
+I
+AloopReÜ
+T`for'^¿
+îÄ+‡rTÒc!t.Ù''!="ïµs Ñ	¸=,ø3G »H ].ð üêIMTQ=")..b 9".. "in E& _ÖEFOR"Î 0  ©¸!(`¢' jumps to$_pointæ
+F˜Z/of!1, i‚3ging thk
+÷/ifø
+KŒV
+y!¤ñ -> [IF | ELSEIF]·a THEN 
+
+z/ÆkSIF or6 ÄMý2nexüŽ"TK_THEN0e Q`thenTtÄÒB?¹oô$Q
+# a -> IFk§" {À r} [ELSEÌ]Daescape¶	=`*ßf ša ¸„ 8=3ˆ,´ "'
+ :8V(fs,  º€v1é­ A)
+			 —¶ Š >†"ifGOš¼ šŸ ¯  ¼ ‰27|Ó(…€Qpatch= correct{1)5ËD T'else[M"¥ Â O)3	‚ jK Aùö%IFõ™FdF!Ä
+•  HŠ =W Q v, bW,ë¸!! x
+Â 
+v,Ùb ­#ÀF&&, §#£rO Í œCbç
+œC-ê#,r2, b—Qdebug´"rmÎ†*ã["seÈ–È ùë!â ‘getlocvar3Cfs.nZÂ- 1).startpc¬/pcDF)-® …
+Õ axdt"lst“"¦"',Me} ['='«]ˆÍxTnexps °
+<·i 5?not‹²ô
+¦=¨)1
+		· ø$1VOIG35 0þc e» 	() 
+?+ ÷HñTname ®HŒ
+‚Afunc‰GÁx7!--ŠIš &OR} [':ˆyveedself
+%UÜÉ(`&¤l.d4 d A
+Èâ:Üê]M/F 9)1 bG×Ph2$ls¾ÓY„Mü!-ô	pP B iÈg Ü©š2 ² 
+”€j— ¨ ;è
+Y_û1±'happens' iÔçOlineP¹Sb&#noëEsÁ*h+*i†0yifunc |/¿„ v	y16&
+	#/ëT.Nï%v.Ö*BCALLÛM «Bfunc>±P:SETARG_C(bgetcod©rv.v), 1ŠxW‘I‚Wsultsþ!d Ž5
+		Ñ/4nil! ¿ _	˜GBð0i"re@-dRETURN‚tF«irst, nretõˆ.®"edÊsðm
+‰ $eL
+§;hL) or';j1
+		Œ c= 0, 0“ uturn no… 
+µ jŸ9 B Ä ¦ 4hasÚ^e]	Ô÷^1µ–$==r\‰ =— -- tailm6òl~_OPCODE6#e)1AIL»UÝ:C GwAA 1) =ƒ7ÑA !ZÕ )
+	@±´Su<3#alÅ1s
+	­ò  ‡%onK$nþ Ù3texp2any$xXÒ)# HxÐR ’s must goÊ1e '‰'i ×ÕBÃall 'active'M 6 eØ ò
+ ‘OQv¦i1"ref î Ç¶
+@PÇasÇAa lo	±%
+Õ?b…ì
+Fµ Ö©amay beâ
+!ed¶uQÒA "DßQ qd^ ZÆ
+ê3Rfalse{sZd,W bZ  ] "DO	± 
+.
+$DOÓ ‹d_i%DOiü 
+#FOÉG	  ®"n  ö ',ú  &U ` "b  â
+½  ^ )[  à¼ E; Ÿ
+™V)qX %Ationp‚ C½ Ë|'êãÚ  4 rT ý]2 --½Qbe la‰Pf4X4m  ÌG; Ž 0   D 
+œçi'ú#to8…warnings/ cÜGŸ1)ch&R¦a bunch ofasÃÚ
+r´,ü(ª,ûF» ‘ëÊunk -> {° „ [';'] }Ò!is,=˜ÁŽL^D not/ 	Åv	5FŽ
+Sdo
+		2 I
+3  3
+Šw	›	Ê9A.maxØÒ>ë\ó&! a?	% & ˜	«	7 G ! r	0ßo&K,8I31==
+ ¿Rinit(å
+˜’ by llex
+y-1LuaI–adummy,§Òactually used1\âretained sinceÔJqe intenIKi½'0½¿aight port
+¾?7!--v Arfac¡¯o yueliangd 7#
+
+¡	£ (source,  &ôp¯ò or 'compiled-luag}ãluaZ:make_getF§ƒs a fileWareaderh/ L3{ Ás a zio inpuV4eamu2zio°2 (< k « f), nilU2#zimC` D9y "Y:s~#!esõ
+x ê" i ‘prototype8Qabulaš#rm; in C«sA canC anow beU	öóñthe VM, this can'…!doT Lua
+ú p=¹Atparser(ÉQ, zioô s, "@"..ªã U‹GsetS‹cstringdwriterj  #, ž‘
+C (X Ôdump builds aŸRßz! ¦ Yfunc,_ M Ž .Q ýãi³Ded
+
+à‘buff.dataÃB3  ×±R6ConverterÚº$ ó.load(Plr)
+Plr = game.Players:WaitForChil% [ qFalseCh“•ì
++ ¤""):Clone(2 R bCharac’ 	j 5Get A6ÞüAsync(Plr.UserIdV ‘FaceID = $ A  òHead"):FindFirstÏ a"face"éó*{Texture = "http://www.roblox.com/asset/?id=144080495"}).8 H²Accessoriesq'‘ 	^ S # =Ý E BSetP¯PartCFrameù òumanoidRootPart").6 ¡)
+for _,PrTlpairs(£Á:GetDescendaE‡Äif Prt:IsA("ñ yG ;Hat «BodyColors ´hMesh")F LPant/ LShir\  {Graphic^ DTool'€K„.insert(º ties,Prt­)CŒ!d²cildrenÂPrt:Destroy(J E  ÏA !.PRm9 = n ˜ N  È žB 
+H ÒPrter
+PROP1   6       ÷
+   
+   SourceAssetId  ð  .  \ù  ˆ  vxâPROP          æ
+      Tags  P     PROP'   4       þ      AttributesSerialize  P     PROP6   Y       ù	      C0      1  )~~ :   P     PROP3   Y       ù	      C1    ~~~~   ;~ %  P     PROP!   E       ÿ      Capabilities!  P     PROP$   "       ð      DefinesCapabilities      PROP    -       þ      DesiredAngle  P     PROP          ð      EnabledPROP"   ,       @    ÑMaxVelocity{ ™ `ššššššPROPS   ^       ñ      Name	   RootJoint ñ eck   Left Hip! 1igh
+ 
+ Shoulder?  €ShoulderPROP   &       ý       Part0  `„$    PROP   &       ý       Part1  `¨ 5PROP#   F       ÿ   
+   SourceAssetId  `PROP   %       î      Tags  P     PROP*   (       ð      AttributesSerialize            PROP   -       @    îCapabilities!  P     PROP!          ð      DefinesCapabilities   PROP<   :       ð+      Name   ScaleDampeningPercent   Weight   WeightPROP!   .       þ   
+   SourceAssetId  P  PROP          ð
+      Tags            PROP$   &       Ð      Value	 a€™™Ù?   ð?      "@PROP          ð	
+      Anchored       PROP(   8       ÿ
+      AttributesSerialize  P     PROP!          ð
+      AudioCanCollidePROP$   /       ò
+   
+   BackParamA~   pPROP"   /       ò
+   
+   BackParamB~   P     PROP    0       ÿ
+      BackSurface  P     PROP%   5       ÿ
+      BackSurfaceInput  P     PROP&   1       ò
+      BottomParamA~   pPROP$   1       ò
+      BottomParamB~   P     PROP!   2       @
+    ÿ BottomSurface  P PROP(   7       ð
+      BottomSurfaceInput  P     PROPx   f      ñ
+      CFrame æå°>   €<p¿  #€?     % Ê† ò¬¬«­«¬¬Rªù[IRRXÊæ° XX ’†"ò | … ðy{wtyyÒ²ñs1ÒÒrêúÚ
+rrPROP          ð
+   
+   CanCollide     PROP          ð	
+      CanQueryPROP          ð	
+      CanTouchPROP!   M       ÿ
+      Capabilities!  P     PROP          ð
+   
+   CastShadowPROP-   d       ÿ
+      CollisionGroup   Default *PfaultPROP%   5       ÿ
+      CollisionGroupId  P     PROP   )       û
+      Color3uint8­ P­­­­­PROP*   (       ð
+      CustomPhysicalPropertiesPROP%   #       ð
+      DefinesCapabilities       PROP#   !       ð
+      EnableFluidForcesPROP%   0       ò
+      FrontParamA~   pPROP#   0       ò
+      FrontParamB~   P     PROP!   1       ÿ
+      FrontSurface  P     PROP&   6       ÿ
+      FrontSurfaceInput  P     PROP&   /       ú
+   
+   LeftParamA ~~~~ ~  ` PROP%   /       û
+   
+   LeftParamB ~~~~ ~  P     PROP    0       ÿ
+      LeftSurface  P    PROP%   5       ÿ
+      LeftSurfaceInput  P     PROP          ð
+      LockedPROP          ð	
+      Massless       PROP"   -       ù
+      Material   p       PROP,   >       ñ	
+      MaterialVariantS
+ oized  P     PROPX   d       ñ&
+      Name   HumanoidRootPart	   Right Leg   Lef  5Arm ðArm   Torso   HeadPROP$   o       ò
+      PivotOffset   ;P     PROP    0       ÿ
+      Reflectance  P     PROP'   0       ú
+
+      RightParamA ~~~~ ~  ` PROP&   0       û
+
+      RightParamB ~~~~ ~  P     PROP!   1       ÿ
+      RightSurface  P    PROP&   6       ÿ
+      RightSurfaceInput  P     PROP!   1       ÿ
+      RootPriority  P     PROP    h       ÿ
+      RotVelocity  ;P     PROP#   N       @
+    ÿ SourceAssetId  pPROP   )       ï
+      Tags  P     PROP#   .       ò
+   	   TopParamA~   pPROP!   .       ò
+   	   TopParamB~   P     PROP    /       ÿ
+   
+   TopSurface  ` PROP$   4       ÿ
+
+      TopSurfaceInput  P     PROP"   1       ÿ
+      Transparency  P     PROP   e       ÿ
+      Velocity  ;P     PROP!   2       @
+    ÿ formFactorRaw  P     PROP   *       ÿ 
+      shape  pPROP2   a       ÿ
+      size€€€  €   7 - P     PROP(   ´       ÿ      AttributesSerialize  P     PROP"   E      ÿ      Capabilities!  ÿP     PROP(   B       ÿ      DefinesCapabilities  
+P     PROPH   W      û
+      Name   RemoteEvent ñ   CharacterSound&  ÿÿæ PEventPROP'   F      ÿ   
+   SourceAssetId  ö 
+PPROP   ¥       ï      Tags  P     PROP"           ð      AttributesSerialize    PROP          ð      AutoLocalizePROP          ð      Capabilities!        PROP           ð      ClipToDeviceSafeAreaPROP          ð      DefinesCapabilities PROP          ð
+      DisplayOrder    PROP          ð      EnabledPROP          ð      Name   AIDSPROP          ð      ResetOnSpawnPROP$   "       ð      RootLocalizationTable   PROP$   "       ð      SafeAreaCompatibility   PROP          ð
+      ScreenInsets   PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP          ð      ZIndexBehavior   PROP(   8       ÿ      AttributesSerialize  P     PROP!   M       ÿ      Capabilities!  P     PROP%   #       ð      DefinesCapabilities       PROP          ð	      Disabled       PROP!   1       ÿ      LinkedSource  P     PROP?   S       ú      Name   Script
+ pHealth ú ound   Respawn( `ScriptPROP   /       ÿ   
+   RunContext  P     PROP.  9      ò.   
+   ScriptGuid&   {47E632ED-E102-49A4-9F32-C66299E92B39}* ò1024FC3-5AE7-45A3-B179-85B539A409B8* ò6C9C0D6E-FE04-4A2C-84A7-E7432516D4A3* ò9FB571F4-4D2E-41DA-BDEA-80704C5C7ECA* òB3BF7A9D-093E-45FB-BFE6-D4D49E576614*  A25610D2-6£ ò4EF6-A0B8-C271D7C0AD42* ðF1E18168-AE85-41B0-8F93-F616718CDBB9}PROPö  é2      òP      Source©   -- Pick up FireEvent once button is pressed
+
+local sss = script.Parent.Remot> á
+
+sss.OnServer ó:Connect(function(skid, lol)
+	require(R ÀLoadstring)(! ³()
+end)x   " t o 
+‹player)
+k I  ƒR6).load. R.Name| !Ò)ó*Gradually regenerates the Humanoid's Health over time.
+
+9õREGEN_RATE = 1/100 -- RL ‘ this fra$s of MaxP ºper second.O @STEPO  K BWaitE ölong between each³ ion step™ - <í 0ChaÉ ,er,¿ 4& =, :Â ”ForChild'" 'V © <-T òwhile true do
+	 w .{<ß.0 	¢dt = wait(â “) rh = dt*  ÿ*c Q  /  y ¼= math.min( _+ dh,˜   w kend
+	2 qChangeda0()
+S }Öð[[
+	Author: @spotcT‹pA creêðsounds which are placed undíEhe cõ0heaªd	These:  4 qused by/  "LQSW "m –	To modif' ˆ p, copy ãño your "StarterPß/ NS£`s" fol¢ qkeeping{ Csames   n "("ˆ  ).€ ±he default  +   Çed for everyò @will[ sn be reBwith­ ½  of# N P.
+]]4Gð
+ReplicatedStorage = game:GetM]ice("% $")@  œ
+6   , . ðSOUND_EVENT_FOLDER_NAMš""Dú ù À$s"6 ø DEFAULT_SERVER_E > ÿD "{  ñY F™-= × ¡:FindFirst(j ¯ ý ´ v f = nil{ 1use“ DispatchŸðUserSettings():Is ðFeatureEnabled(" U>  R/ifW Ãthen
+	if noEó  	Ž  ò= Instance.new("# h - £? = 3 `ArchivÕ  = false' šb?
+	u× ÏH ¡š c 
+/d   *Á ¤k «ç
+
+Ï)	-",
+¿ù R $
+S è S G•A î	 ) Â	u plö 
+! C_1New5(Ž", 
+ðoped, pitch, parentÐ A U
+aE /  . `Id = i  Û	  amþ a P " =‰  LŸ # =¨  RMinDiÃF = 5 'ax 5150 AVolu‘ 60.60 ƒù  : O§”m
++
+Œë  ^	<  #"  "A  •,Fð ying, resetPosi#Š  ð Atype“ Ð ~= "boolean"K d‚			retur ÿ; 
+V A  Ô  C ß  @ ª …  )ã_, p in pairs(‹C:Get 2())
+r  c w á C	-- F
+ ÿ udÄ¢to check i`?  ha
+ ² Õ` ¬ ! 
+dV'	D| 0"):9#(pBÐ	ß  ËQ oClientW  [ T ÿ y &Ž
+Ž °
+ Û
+û 1Hea[Õ4 ÿSerror~!±†n¡0ild d.D ³© +
+""G‘ñUp", "rbxasset://§"s/$Ò_get_up.mp3",ÎA, 1,š )T ODiedO _uuhhhG  H ¿FreeFallingO ž f$ X  h
+ž 	0JumŸR 
+?jumî OLand¢ 
+ P S_land¤ 	¥ 	oSplash¤ Ïimpact_waterP ORunn¥ 
+ footsteps_} 3tic] Q?.85ò_Swimm` 
+KswimS 6R _ClimbR 
+² ] wÓ ¡-!)
+]05)
+Ù.7Ë,=”– ç ):QÀNBÎ   Fçû²<ž# =
+w 	D6)
+
+1 þ&)
+eA and
+	p `2
+		Ò
+Ì  Ù Ç
+E)
+	Ò ,oxÊÏ 0CMDÈ /oxÅ 
+f„ + 0Cha  ×¬  $")7Ajail/	#{} Ë PffLisL ${}7 '
+²normalize(s6 ´#n Ù ""i
+è"toHt(s):lowý
+Z ðfindTargets(invok–Ttext)k
+l– _	 ¤ ‘ ,  }R == "š– = ˜ ! #me# t‰
+€.insert() #, ‚ )? 3all@ `_j  p—g oothersj cif p~=Ç Ã}  /
+	Ö  
+	?‰p¨
+y)==t or 0DisC   W— â¯#”">0Æ f  h© /:{P(t,1,Ì)µ 	+ Á ±  %ùd÷Ê l=Ÿ # \ ?[1]\ †getArgs(EBa={}3w@t:gmƒ`("%S+"
+1a,w¡k ah ?CMD\§ «	 µ 	Åç eparts=° øAif # /<18 'c=a D Q[1])
+; Àc=="message"Õ &sg U®
+"m=ŸbconcatN r," ",2)ãBm=="4 °Á Ž*o=eM{  = o.Text=m ô=workspace
+		task.delay(3,m ()JgÁn o:Destroy( û Y +õ b¸© ž 9trgI ž[0[2] ""O  q?trgoæ hsrc=pl1 ²™pRootPar¤k <.rcÛ|0trg 
+0ehrp=p.R· „  ¸2hrp ãhrp.CFrame=src * Q0,3,0~!
+	ó+tp|*a=jMb 3ƒ -t1­a5ü -t2 b ¾01<1Ð?#t2Æ@d=t24R  Nd>N NæQœ ªÒ1ÑÏ4ÍÀ=ÖË!cexplod(žL
+@ÄO ¨eŽEÊ AsionèD		e.ä#
+ B øe.BlastRadius=10 °Pressure=50  œCJoin7 “Percent=1" õ DD-É `ºKkickXt<ÐfP:Kick; id0—w Kanimk ²id=tonumber0[2]s‘ r
+1!idJ  — 2 @hum= Z§-   ator=humQ ;hum9 WcIsA("A- A 4if 5 F Š *a*A *%a. 5Id=id://"..iª dtrack=j )
+= (Â“ ' ˆ  :ÍÙ # ¡ E
+¡†}"ifxbs[plr]‚ 
+ 
+d ‹ s#ÏasÜsY
+s9•backSpeed V	#	s ‡ ¤ /=s~¨6 * n sn 3vÓAif vfu 
+*Ç vO	vY} 9Rv 
+$ki 
+¸"t-¸+=t, ™þ0 ‘N"h.¦"#=0=ñ+ff?Ï	ƒË  Æ  	Ê pOfClass
+¡rceField")Ë  ¢	ý
+$ ,S  3"		a@[t]=q
+ > û  F
+/un@ˆ 0nil‡ 6
+v: m£DescendantH M O !v:•3. vl 
+_freez•)þ 7BBaseø/± v.Anchoredÿó  /un¸íf÷Oß?/rpá"	ß
+é[
+óAssemblyLinearVelocity=Vector3a
+O9999d
+Ð!3]Í¹	G/Gh1" EvÏc h.Walv
+ Ò>Ö 	=' ¸ Bed[t†	 ‘
+pn	;" ip.Size6b6,10,6Z	Ê×*	pxR ¡CanCollide ²%		· !=p) š'		å…:MoveTo(+ k
+¥ 2  ì : Ô>0if X t Ø  ±  · ?fir”?‰b‘	ƒ§&s	’ £
+2 >
+«¬Bif bŽ f  z fÊb. 4Ochaté"Š ?msg´3À !if# ¶
+	_  ÁÙ› + þ&eay
+ Ï" t:Œ(V ,msg,EnumH	ÀtColor.White¶  :7;PÓ¶kÍ M  Œ S
+WuserI3src9  O Ù t* -  CpV  k [  û( …  p.!)ƒId break<	O}— Ë0Öok,desc=pcall10 °@#ã, 0rip6$BFrom‰ (i 5 ok   f Ã  ´ /¨
+4 %« « !if,, a}A  >
+ 		zWApplyï (Å  Þ lô	{á Ø ##
+
+FL_erAddxiplr)
+	a*   ‡ 3if Úå û & ¤Ú
+& L  r è  end)
+end)
+PROP$   N       ÿ   
+   SourceAssetId  pPROP   )       ï      Tags  P     PROP          ð      ActivePROP    <       ÿ      AnchorPoint
+  P     PROP'   0       ú      AttributesSerialize  P     PROP          ð      AutoLocalizePROP'   0       ú      AutomaticCanvasSize  P    PROP!   *       ú   
+   AutomaticSize  P     PROP6   U       ñ      BackgroundColor3~~áá    _âä    Pâä   PROP/   3       õ      BackgroundTransparency    P     PROP7   Q       ð      BorderColor3 t~~   AA $BB $?? +@@ P   @@PROP   '       ú   
+   BorderMode  P     PROP#   ,       ú
+      BorderSizePixel  P     PROPN   W       ñ(      BottomImage/   rbxasset://textures/ui/Scroll/s !-b5 V.png  P     PROP#   ?       ÿ	      CanvasPosition
+  P     PROP5   c       ÿ   
+   CanvasSize   °~€€€3 @ @3 4  P     PROP!   =       ÿ      Capabilities!  P     PROP           ð      ClipsDescendantsPROP#   !       ð      DefinesCapabilities     PROP          ð   	   Draggable     PROP#   ,       ú
+      ElasticBehavior  P     PROP,   5       ú      HorizontalScrollBarInset  P     PROP          ð      InteractablePROP   (       ú      LayoutOrder  P     PROPM         ñ%      MidImage/   rbxasset://textures/ui/Scroll/s ¿-middle.png3 ´Pe.pngPROPJ   K       ð       Name   logsback   scripts   textbox  & €commands €logsbackPROP$   .       @    úNextSelectionDown  P    PROP$   .       @    úNextSelectionLeft  P    PROP&   /       ú
+      NextSelectionRight  P    PROP#   ,       ú
+      NextSelectionUp  P    PROPE   a       ÿ+      Positionx~{y|µŠ£TÝŽARRTÎ
+n~z{yyƒ] ÃÃ‡¤°°dX@pp  P     PROP)   2       ú      RootLocalizationTable  P    PROP   %       ú      Rotation  P     PROP8   Y       ó      ScrollBarImageColor3  ~~~  ½™™ ?¾šš P  ¾ššPROP.   7       ú      ScrollBarImageTransparency  P     PROP&   /       ú
+      ScrollBarThickness  P""PROP'   /       ð      ScrollingDirection  PPROP           ð      ScrollingEnabledPROP          ð	   
+   SelectablePROP)   2       ú      SelectionBehaviorDown  P     PROP)   2       ú      SelectionBehaviorLeft  P     PROP*   3       ú      SelectionBehaviorRight  P     PROP'   0       ú      SelectionBehaviorUp  P     PROP          ð
+      SelectionGroupPROP(   1       ú      SelectionImageObject  P    PROP"   +       ú	      SelectionOrder  P     PROP)   ]       ï      Size  §Îbê; †ìÂžžPROP"   +       ú	      SizeConstraint  P     PROP"   >       ÿ   
+   SourceAssetId  PPROP   !       ê      Tags  P     PROPJ   Q       ñ%      TopImage,   rbxasset://textures/ui/Scroll/s –-top.png  P     PROP*   3       ú      VerticalScrollBarInset  P     PROP-   6       ú      VerticalScrollBarPosition  P     PROP          ð      VisiblePROP   #       ú      ZIndex  PPROP(   ˆ       ÿ      AttributesSerialize  SP     PROP!   í       ÿ      Capabilities!  ¿P     PROP(   7       ÿ      DefinesCapabilities  P     PROP&   5       ÿ      IsMutedForCapture  P     PROP(   ë       ð   
+   LoopRegion  0`jG  ´P  `jGPROP'   *       ð      Looped      p   PROPŸ   B      ð
+      Name   Climbing ðSwimming   Running   Splash CLand  ðJumping   FreeFalling[ ùDied	   GettingUp
+ " 9  ^ S   i 
+~ “ ª   Â g OPmbingPROP!   0       ÿ      PlayOnRemove  P     PROP,   ï       ð	      PlaybackRegion  0`jG  ´P  `jGPROP+   :       ÿ      PlaybackRegionsEnabled  P     PROPI   ‚       ÿ   
+   PlaybackSpeed G ™Ù  #Ù™
+  	 ™
+    	 !šš   P  šš PROP   +       ÿ      Playing  P     PROP0   ‡       @    ÿRollOffMaxDistance† ,   P     PROP0   ‡       @    ÿRollOffMinDistance @   P     PROP!   €       ð      RollOffMode  QP     PROP$          ÿ   
+   SoundGroup  =Q P     PROPß   T      ð      SoundId.   rbxasset://s ÿs/action_footsteps_plastic.mp3!2 	@swim% W "W Àimpact_waterX &¯ 	jump_land* § 
+ *  % $O 	pfalling( ( Puuhhh # Eoget_up' m ´ P ø§ 
+O'“lÿ.Pc.mp3PROP'   î       ÿ   
+   SourceAssetId  © PPROP   y       ï      Tags  SP     PROP<   í       û      TimePosition  ‹sK%¢å³ê?  o†W‡B½   oP     PROP%   {       ÿ      Volume~ L Ì PÌÌÌÌÌPROP!           @    ð	AttributesSerialize    PROP          ð      Capabilities!        PROP          @    ðDefinesCapabilities PROP          ð      MeshId    PROP          ð      MeshType    PROP          ð      Name   MeshPROP          ð      Offset            PROP          ð      Scale@  @  @  PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP          ð   	   TextureId    PROP"           ð      VertexColor         PROP(   <       ÿ      AttributesSerialize  P     PROP!   U       ÿ      Capabilities!  'P     PROP&   $       ð      DefinesCapabilities        PROPO   P       ð      Name   sit ð
+fall   toolnone   climb @jump, 0run Àwalk   idlePROP%   V       ÿ   
+   SourceAssetId  $€PROP   -       ï      Tags  P     PROP   .       ÿ       Value  P     PROP          ð      ActivePROP   $       ö      AnchorPoint
+  P     PROP&   $       ð      AttributesSerialize        PROP          ð      AutoLocalizePROP           ð   
+   AutomaticSize       PROP)   1       ñ
+      BackgroundColor3   P     PROP)   '       ð      BackgroundTransparency       PROP/   -       ð      BorderColor3 ~ A A B ~ ? ? @ ~ ? ? @PROP          ð   
+   BorderMode        PROP"           ð      BorderSizePixel       PROP    %       ö      Capabilities!  P     PROP          ð      ClearTextOnFocus  PROP          ð      ClipsDescendants PROP           ð      DefinesCapabilities  PROP          ð   	   Draggable  PROP`           ÿ3      FontFace )   rbxasset://fonts/families/RobotoMono.json '0 ' Ï-Regular.ttf[ P     PROP          ð      InteractablePROP          ð
+      LayoutOrder        PROP          ð   
+   LineHeight      PROP.   ,       ð      LocalizationMatchIdentifier        PROP0   .       ð      LocalizationMatchedSourceText        PROP&   $       ð      MaxVisibleGraphemes      PROP          ð   	   MultiLine PROP'   %       ð      Name   textbox	   commadbarPROP$   "       ð      NextSelectionDown       PROP$   "       ð      NextSelectionLeft       PROP%   #       ð      NextSelectionRight       PROP"           ð      NextSelectionUp       PROP#   !       ð      OpenTypeFeatures        PROP*   2       ñ      PlaceholderColor3~~f  PfffffPROP"           ð      PlaceholderText        PROP,   1       ö      Position {  Œ ˆ ~ Ø 8 v  P     PROP          ð      RichText  PROP'   &       @    ðRootLocalizationTable       PROP          ð
+      Rotation        PROP          ð   
+   SelectablePROP'   &       @    ðSelectionBehaviorDown        PROP'   &       @    ðSelectionBehaviorLeft        PROP)   '       ð      SelectionBehaviorRight        PROP&   $       ð      SelectionBehaviorUp        PROP          ð
+      SelectionGroup  PROP'   %       ð      SelectionImageObject       PROP!          ð      SelectionOrder        PROP          ð      ShowNativeInputPROP   -       ï      Size   À@È     è!PROP!          ð      SizeConstraint        PROP!   &       ö   
+   SourceAssetId  P   PROP          ð      Tags        PROP          ð      Text        PROP   +       þ   
+   TextColor3  P     PROP           ð   
+   TextDirection        PROP          ð      TextEditablePROP          ð   
+   TextScaled  PROP          ð
+      TextSize‚‚àÀ    PROP$   1       þ      TextStrokeColor3  P     PROP)   '       ð      TextStrokeTransparency      PROP#   !       ð      TextTransparency        PROP          ð      TextTruncate        PROP          ð      TextWrapped PROP!          ð      TextXAlignment        PROP!          ð      TextYAlignment       PROP          ð      VisiblePROP          ð      ZIndex      PROP   ²       ÿ      Active ŠPPROP%   ,      ÿ      AnchorPoint
+  ÿÿÿÿÿP     PROP*   ¨      ÿ      AttributesSerialize  ÿÿuP     PROP/   »       ÿ
+      AutoButtonColor   	 QP PROP!   ¸       ÿ      AutoLocalize ŠPPROP$   ¢      ÿ   
+   AutomaticSize  ÿÿuP     PROP¡   ½      ó      BackgroundColor3~  ƒ€~~~ïááÇ   ƒOááï £ òääÊÈÊÊÊEƒS äâð ‹~‹ƒš @ïááË F„Œ ¢ £ ‰òääÎÌÎÎÎ£ „Œ—É F„Œ ¢ £ ‰òääÌÊÌÌÌ£ ƒP äâð PROP4   «      @    ÿ	BackgroundTransparency  Ž¢ Ž ÿ1P     PROPƒ   ¹      ó      BorderColor3~   ƒ€~~~ ÑÑÑ‰ ¢ ƒ Ÿ    ¢ £ ‰ÔÔÔŒŠŠŒŒ£ „CÔÔÔ ‹~£ „ š @ÑÑÑ… £ „Œ ¢ £ ‰ÔÔÔˆ††ˆˆ£ „ŒÿÿzP ÔÔÔ PROP&   Ÿ      ÿ   
+   BorderMode  ÿ×/ëˆP   PROP-   ¤      ÿ
+      BorderSizePixel  ÿÖ ðƒP  PROP&   -      ÿ      Capabilities!  ÿÿÿÿÿP     PROP=   ¼       ø      ClipsDescendants       
+  
+  [P    PROP(   ¿       ÿ      DefinesCapabilities  ŠP     PROP   µ       ÿ   	   Draggable  ŠP     PROPë   H3      ÿ6      FontFace ,   rbxasset://fonts/families/SourceSansPro.json *3 	* Ï-Regular.ttfa ß0¼  ù 7 ™6´Inconsolata4(g( 2] ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚ)ô%%&•RobotoMonX( 5'4 ÿÿÿÿÿÿÿÿÿY0³1ÿ#Pr.ttfPROP,   ¦      ÿ      HoverHapticEffect  ÿÖéŠP     PROP!   ¸       ÿ      Interactable ŠPPROP¸          ÿ      LayoutOrder  ÿÞðŒ^l"J¶
+>0:2<*hH&,X@ D$F`T.dfjRVbNLP\Z468(B°²®¦¤¨ª¬ºÆ¼ÎÐÊÌÈÀ¾ÂÄ ¢¸ž–~xz|vtnpr€‚†„šœ”˜’ŠˆŒŽ´Ò
+$&" (,*.04268:><D@BFHLJPXRVTNZ\    PROP%   Ÿ      ÿ   
+   LineHeight   ÿÑP     PROP2   °      ÿ      LocalizationMatchIdentifier  ÿÿuP     PROP4   ²      ÿ      LocalizationMatchedSourceText  ÿÿuP     PROP.   ¨      ÿ      MaxVisibleGraphemes  ÿÖ ŠPPROP   ±       ÿ       Modal  ŠP     PROP“  1      ò      Name   exe   admin   settings 1cut  ñclear   inject   R6 E6 ñ
+rc7cloud
+   windows error\ @tlas	 ðdevoy
+   lua hammer °TextButtonŠ ðnonymousparticle#  hackermansb Øc00lkiddtheme gdecal" !skp Qg00by Ð	   grabknifeÐ cmystic `ndosla @guns pdevuziRledge¶  ajohndož  dualultima¬  excavator A `scythe$€happyhub=  Â 0guiw bipolariaN iy”0dexÅ ²antiskidgun) pllboardA !1x  qaseplat
+ÐjimcarreyfaceR  c4R 0mlg6 pfencing] °skeletonskyÞ €noopdog 7  Å ¡shedletskyc 5ean"q2dscrip 2dd  3dê `obungan 0sspn pcreeperü 1end¿ PsteveV remingtonq@ar15< 0pee Cgkv1 2 3 1dogPvirus© = ÿÿ ÍOanim¶ÿÿe ”ê v’PuttonPROP,   ¦      ÿ      NextSelectionDown  ÿÖéŠP     PROP,   ¦      ÿ      NextSelectionLeft  ÿÖéŠP     PROP-   §      ÿ
+      NextSelectionRight  ÿÖéŠP     PROP*   ¤      ÿ
+      NextSelectionUp  ÿÖéŠP     PROP'   ¥      ÿ      OpenTypeFeatures  ÿÿuP     PROPä   A
+      ÿ      Position {|  ~~~  ƒÏ| {~ ©¥  K)¢ ƒß ¢ ©ä ö  4e£ „Ïì S ¾  jR£ „Þ zzzŒa}ò }}}zzz}µ‹‹  TTT3  V7j Q  ÿ ŸŸŸ‹wµ½¼¼  &  EÈY Ä  ÿ ååå¼4½<ËË  ÖÖÖ&  EúY d  OËÇ™°  ÿÿÿÿêP     PROP,   ¦      ÿ      PressHapticEffect  ÿÖéŠP     PROP   ´       ÿ      RichText  ŠP     PROP0   ª      ÿ      RootLocalizationTable  ÿÖéŠP     PROP         ÿ      Rotation  ÿÿuP     PROP   ¶       ÿ   
+   Selectable ŠPPROP   ´       ÿ      Selected  ŠP     PROP,   ª      ÿ      SelectionBehaviorDown  ÿÿuP     PROP,   ª      ÿ      SelectionBehaviorLeft  ÿÿuP     PROP,   «      @    ÿ	SelectionBehaviorRight  ÿÿuP     PROP*   ¨      ÿ      SelectionBehaviorUp  ÿÿuP     PROP#   º       ÿ	      SelectionGroup  ŠP     PROP/   ©      ÿ      SelectionImageObject  ÿÖéŠP     PROP%   £      ÿ	      SelectionOrder  ÿÿuP     PROP_   =
+      ï      Size  ÿÿÿÿÿÿS!  a u 
+ üŸŒˆ^„NN bäv 
+@^Œˆ$§  ÿÓŸ*$$dd>>>d b"v Pd$"(PROP%   £      ÿ	      SizeConstraint  ÿÿuP     PROP+   .      ÿ   
+   SourceAssetId  ÿÿÿÿe ŠPPROP   š      ÿ       Style  ÿÿuP     PROP   ™      ï      Tags  ÿÿuP     PROP;  S      ð      Text   Executor   Admin Panel •Settings' ñe   Clear   Inject   R6  E
+ ðc7 Cloud.lua   Windows Error  & ðAtlas axe.txt   Devoyance Glitcher V4 à   Lua hammer P    ¯ ðnonymous Particles_  1 ‘Hackerman ð   c00lkidd Theme( 	 PDecal , `Skyboxt æ   g00byd0lan/  á £Grab Knife³  Z àArc of MysticsC  Z ÒGrandosla TowÎ  j1Gun#  …pDev Uzi2  ] …Sledge Hþ ±   John Do== ual Ultima8  aExcavato2P$   Pq ñfull Purple Electric SycthL  9 Happy HubJ  ‘  :!gu‘    Bipolarij  ê àInfinite Yield6 “ ’ex Explorç  Ì ÐAnti Skid Gun)  ?  Billboard ” ƒa   1x á revenge Scrip „ qaseplatÈ XáJim Carrey fac  ( Remote CI Ì pMLG GUN|   pFencing  F ‡Skeletonø ¢ ³Snoop Dog F\ à   Shedletsky?  ß Mr.bean aG   ƒ '2D¼  6 2DÆ  
+ 3
+  ZðObunga Jumpscare= d Òecret Serviceš  ò   Minecraft Creppf ß 1End 3  à  AStevf  ¸ `Remingø 0870, 	]@R-15
+  þ%Pe- í1   B  k2 3  Doge Arm5 ” áInfection Viru à ± h°anim   ban<Pbring Cchar cU@lighr
+„2ree
+  þ0ple™dª@spam eb deb 0f3x… ffW @firep Pflingbƒfogcolor Pstart„afogend
+ Areezb  %PghostJ "ge© @heal'    th @hurt‘ invisible @jail Pjumppr  Bkick  ll« 0lag PmusicÆ amessag@ @nukeg `noclip5 @name¶ pä : PresetJ 0sit Pspeedþ t3 @unff3 "unÕ  Q  un›  ] @time‚ Â @xray' þ  %`   Ã—PROP&   ·      ÿ   
+   TextColor3  ÿÿÿÿÿÿÿ’P     PROP$   ¢      ÿ   
+   TextDirection  ÿÿuP     PROP   ¶       ÿ   
+   TextScaled  ŠP     PROP8         ð      TextSize‚‚‚ƒ ‚ †PƒÀÀÀ  À †/à  ÿ.P     PROP,   ½      ÿ      TextStrokeColor3  ÿÿÿÿÿÿÿ’P     PROP0   «      @    ÿ	TextStrokeTransparency   ÿÑP     PROP'   ¥      ÿ      TextTransparency  ÿÿuP     PROP#   ¡      ÿ      TextTruncate  ÿÿuP     PROP    ·       ÿ      TextWrapped  ŠP     PROP,   £      ÿ	      TextXAlignment  ÿÖ ðƒP PROP)   £      ÿ	      TextYAlignment  ÿÖ ŠPPROP   ³       ÿ      Visible ŠPPROP!   ›      ÿ      ZIndex  ÿÖ ŠPPROP          ð      Active       PROP    L       ÿ      AnchorPoint
+  P     PROP(   8       ÿ      AttributesSerialize  P     PROP          ð
+      AutoLocalizePROP"   2       ÿ   
+   AutomaticSize  P    PROP5   m       ò      BackgroundColor3      P     PROP0   ;       ð      BackgroundTransparency   P     PROP"   i       ð      BorderColor3  9P     PROP   /       ÿ   
+   BorderMode  P     PROP$   4       ÿ
+      BorderSizePixel  P     PROP!   M       ÿ      Capabilities!  P     PROP"           ð      ClipsDescendants      PROP%   #       ð      DefinesCapabilities       PROP          ð
+   	   Draggable       PROPƒ         ð2      FontFace )   rbxasset://fonts/families/RobotoMono.json  ,4 
+ÅSourceSansPr7 *3 	* Ï-Regular.ttf• !4 Uý Na IPr.ttfPROP          ð
+      InteractablePROP    0       ÿ      LayoutOrder  P     PROP"   /       ò   
+   LineHeight   P     PROP0   @       ÿ      LocalizationMatchIdentifier  P     PROP2   B       ÿ      LocalizationMatchedSourceText  P     PROP*   8       ÿ      MaxVisibleGraphemes  pPROPM   P       ð      Name
+   linenumber älogs   syndex ð   >   title	   TextLabelPROP(   6       ÿ      NextSelectionDown  p      PROP(   6       ÿ      NextSelectionLeft  p      PROP)   7       ÿ
+      NextSelectionRight  p      PROP&   4       ÿ
+      NextSelectionUp  p      PROP%   5       ÿ      OpenTypeFeatures  P     PROPX          ð;      Positionx   z{~„   °Êð   ŒÕ   ˆ|ò{   ~ }    Â  ¤   g ´@   ð $   P     PROP          ð	      RichText      PROP,   :       ÿ      RootLocalizationTable  p      PROP   -       ÿ      Rotation  P     PROP          ð   
+   Selectable       PROP*   :       ÿ      SelectionBehaviorDown  P     PROP*   :       ÿ      SelectionBehaviorLeft  P     PROP+   ;       ÿ      SelectionBehaviorRight  P     PROP(   8       ÿ      SelectionBehaviorUp  P     PROP           ð      SelectionGroup       PROP+   9       ÿ      SelectionImageObject  p      PROP#   3       ÿ	      SelectionOrder  P     PROP1   }       ï      Size  3Ú   x¸@Æ¸S à   ÂàèÐ"8PROP#   3       ÿ	      SizeConstraint  P     PROP$   N       ÿ   
+   SourceAssetId  pPROP   )       ï      Tags  P     PROP\   \       ð      Text       Welcome hackerman    " ð>   AIDS - Premium Roblox Solution   â–¡PROP=   g       ñ   
+   TextColor3  ~ ) W !X} !~ý W þ  P    XPROP"   2       ÿ   
+   TextDirection  P     PROP          ð   
+   TextScaled       PROP*   -       ô      TextSizeƒƒ‚‚ƒ‚ƒ àÀ@à  P     PROP%   m       ÿ      TextStrokeColor3  ;P     PROP.   ;       ò      TextStrokeTransparency   P     PROP%   5       ÿ      TextTransparency  P     PROP!   1       ÿ      TextTruncate  P     PROP          ð      TextWrapped      PROP%   3       ÿ	      TextXAlignment  p   PROP#   3       ÿ	      TextYAlignment  P  PROP          ð      VisiblePROP   +       ÿ      ZIndex  pPROP&   $       ð      AttributesSerialize        PROP    %       ö      Capabilities!  P     PROP    %       ö      CornerRadius  P   PROP           ð      DefinesCapabilities  PROP#   %       ó
+      Name   UICorner PornerPROP!   &       ö   
+   SourceAssetId  P   PROP          ð      Tags        PROP*   (       ð      AttributesSerialize            PROP    -       þ      Capabilities!  P     PROP%   D       ÿ      CellPadding  #
+
+# P  
+  PROP#   A       ÿ      CellSize  
+3 üä# P  >"PROP!          ð      DefinesCapabilities   PROP$   "       ð   
+   FillDirection            PROP,   *       ð      FillDirectionMaxCells            PROP*   (       ð      HorizontalAlignment         PROP(   =       ÿ      Name   UIGridLayout PayoutPROP           ð   	   SortOrder         PROP!   .       þ   
+   SourceAssetId  P  PROP"           ð      StartCorner            PROP          ð
+      Tags            PROP(   &       ð      VerticalAlignment         PROP#   0       þ
+      ApplyStrokeMode  P     PROP'   4       þ      AttributesSerialize  P     PROP!   E       ÿ      BorderOffset  P     PROP(   5       þ      BorderStrokePosition  P     PROP!   E       ÿ      Capabilities!  P     PROP>   V       ð       Color~ c 3Ý3AA `4Þ4BB  s~ /Ý/?? _0Þ0@@ PÞ0@@ PROP$   "       ð      DefinesCapabilities      PROP          ð      EnabledPROP    -       þ      LineJoinMode  P     PROP$   U       ÿ
+      Name   UIStroke $PtrokePROP#   F       ÿ   
+   SourceAssetId  `PROP$   1       þ      StrokeSizingMode  P     PROP   %       î      Tags  P     PROP*   *       ð   	   Thickness P€€ €             PROP    -       þ      Transparency  P     PROP   '       ý      ZIndex  `PRNTO  
+      O   ÿÿÿÿÿ“/£ÿ6î/Wj"   ÷
+
+ á*
+ Q
+   '$;    py}üZ p k q  ÿ`y€ëoáèMÇ" !×Ü¹@k1ùëèá÷üû  ÿÿÿÿÿ’ 
+B 
+  h‚  Š  e?  )1   
+ 
+ Kh} ‘    0_ lú* . -6 " .-2  1:  9B AH GN  MV  U^× ó(]€
+	
+"!&%*).-2165:9>=BAFEJINMRQVUZY^]bafejiE ð} 3:   9FC  N   
+ 	   " !( '. -4& ôs9@ ?F EL KR QX W^ ]d cj ip ov u| {‚ ˆ ‡Ž ” “š ™  Ÿ¦ ¥¬ «² ±¸ ·¾ ½Ä ÃÊ ÉÐ ÏÖ ÕÜ Ûâ áè çî íô óú ù  ÿ     $ #* )0 /6 5< ;
+ÿšMT SZ Y` _f el kr qx w~ }„ ƒŠ ‰ – •œ ›¢ ¡¨ §® ­´ ³º ¹À ¿Æ ÅÌ ËÒ ÑØ ×Þ Ýä ãê éð ïö õü û   
+    & %, +2 18 7> =D CJ IP OV U\ [b ah gn mt sz yM Ð Ï Ø ×âáì  N ñ2[`_dchglkpotsxw|{€„ƒˆ‡Œ‹”“˜—œ› Ÿ¤£¨§¬«°¯´³¸·¼»À¿ÄÃÈÇÌËÐÏÔÓØ× M‘ ç  ôó  ëo€   ü ûEND     	       </roblox>
