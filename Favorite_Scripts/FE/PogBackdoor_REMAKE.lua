@@ -622,7 +622,7 @@ local script = POG["2a"];
 	end
 	
 	if backdoored then
-		notify("Backdoor found!Backdoor:\n"..vulnremote:GetFullName())
+		notify("Backdoor found! Backdoor:\n"..vulnremote:GetFullName())
 		loadingframe.Visible = false
 		executionframe.Visible = true
 		dragscript.Enabled = true
